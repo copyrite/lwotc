@@ -315,13 +315,8 @@ function StateObjectReference CreateRebel(XComGameState NewGameState, XComGameSt
 	CharacterTemplate = class'X2CharacterTemplateManager'.static.GetCharacterTemplateManager().FindCharacterTemplate(CharacterTemplateName);
 	NewUnit = CharacterTemplate.CreateInstanceFromTemplate(NewGameState);
 	CharacterGeneratorResult = CharacterGenerator.CreateTSoldier(CharacterTemplateName, /* Gender */, nmCountry);
-	PersonalityTemplates = class'X2StrategyElementTemplateManager'.static.GetStrategyElementTemplateManager().GetAllTemplatesOfClass(class'X2SoldierPersonalityTemplate');
-	CharacterGeneratorResult.kAppearance.iAttitude = `SYNC_RAND_STATIC(PersonalityTemplates.Length);
 
 	NewUnit.SetTAppearance(CharacterGeneratorResult.kAppearance);
-
-	// Give them a voice - CreateTSoldier skils voice assignment for non-soldiers, but rebels will often be controllable.
-	NewUnit.SetVoice(CharacterGenerator.GetVoiceFromCountryAndGender(nmCountry, NewUnit.kAppearance.iGender));
 
 	NewUnit.SetCharacterName(CharacterGeneratorResult.strFirstName, CharacterGeneratorResult.strLastName, CharacterGeneratorResult.strNickName);
 	NewUnit.SetCountry(CharacterGeneratorResult.nmCountry);
@@ -330,7 +325,6 @@ function StateObjectReference CreateRebel(XComGameState NewGameState, XComGameSt
 	// Fire an event to allow NCE to apply to the rebel stats
 	`XEVENTMGR.TriggerEvent('SoldierCreatedEvent', NewUnit, NewUnit, NewGameState);
 	NewUnit.RandomizeStats();
-	NewUnit.GiveRandomPersonality();
 	NewGameState.AddStateObject(NewUnit);
 	CharacterGenerator.Destroy();
 
