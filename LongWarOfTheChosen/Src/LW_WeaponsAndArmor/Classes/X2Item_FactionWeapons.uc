@@ -344,12 +344,12 @@ static function X2DataTemplate CreateVektor_Coil()
 	Template.NumUpgradeSlots = 3;
 
 	Template.GameArchetype = "IRI_VektorRifle_CG_LW.Archetypes.WP_ReaperRifle_CG";
-	Template.AddDefaultAttachment('Mag', "IRI_VektorRifle_CG_LW.Meshes.SM_Vektor_CG_MagA");//, , "img:///UILibrary_LWOTC.InventoryArt.CoilRifle_MagA");
-	Template.AddDefaultAttachment('Stock', "BemReaperRifle.Meshes.SM_HOR_Bem_ReaperRifle_StockA");//, , "img:///UILibrary_LWOTC.InventoryArt.CoilRifle_StockA");
-	Template.AddDefaultAttachment('Suppressor', "IRI_VektorRifle_CG_LW.Meshes.SM_Vektor_CG_SuppressorA");//, , "img:///UILibrary_LWOTC.InventoryArt.CoilRifle_ReargripA");
-	Template.AddDefaultAttachment('Light', "ConvAttachments.Meshes.SM_ConvFlashLight"); //);//, , "img:///UILibrary_Common.ConvAssaultRifle.ConvAssault_LightA");  // re-use common conventional flashlight
-	Template.AddDefaultAttachment('Optic', "IRI_VektorRifle_CG_LW.Meshes.SM_Vektor_CG_OpticA");//, , "img:///UILibrary_LWOTC.InventoryArt.CoilSniperRifle_OpticA");
-	Template.AddDefaultAttachment('Trigger', "CnvReaperRifle.Meshes.SM_HOR_Cnv_ReaperRifle_TriggerA");
+	Template.AddDefaultAttachment('Mag', "IRI_VektorRifle_CG_LW.Meshes.SM_Vektor_CG_MagA", , "img:///IRI_VektorRifle_CG_LW.UI.Coil_Vektor_MagA");
+	Template.AddDefaultAttachment('Stock', "BemReaperRifle.Meshes.SM_HOR_Bem_ReaperRifle_StockA", , "img:///IRI_VektorRifle_CG_LW.UI.Coil_Vektor_StockA");
+	Template.AddDefaultAttachment('Suppressor', "IRI_VektorRifle_CG_LW.Meshes.SM_Vektor_CG_SuppressorA");
+	Template.AddDefaultAttachment('Light', "ConvAttachments.Meshes.SM_ConvFlashLight"); // re-use common conventional flashlight
+	Template.AddDefaultAttachment('Optic', "IRI_VektorRifle_CG_LW.Meshes.SM_Vektor_CG_OpticA", , "img:///IRI_VektorRifle_CG_LW.UI.Coil_Vektor_OpticA");
+	Template.AddDefaultAttachment('Trigger', "img:///IRI_VektorRifle_CG_LW.UI.Coil_Vektor_TriggerA");
 
 
 	Template.UIArmoryCameraPointTag = 'UIPawnLocation_WeaponUpgrade_Sniper';
