@@ -1891,6 +1891,16 @@ RightAbilityTreeTitle="Hacker"
 +RandomNickNames_Female="Duchess"
 ;ALPHABETICAL ORDER
 
++PhotoboothSoloBLines_Male="Hero to the Resistance. Nightmare to its Enemies."
++PhotoboothSoloBLines_Male="Not all angels have wings."
++PhotoboothSoloBLines_Male="ADVENT's diagnosis? Terminal."
++PhotoboothSoloBLines_Male="There's no mercy in this angel."
+
++PhotoboothSoloBLines_Female="Hero to the Resistance. Nightmare to its Enemies."
++PhotoboothSoloBLines_Female="Not all angels have wings."
++PhotoboothSoloBLines_Female="ADVENT's diagnosis? Terminal."
++PhotoboothSoloBLines_Female="There's no mercy in this angel."
+
 [Grenadier X2SoldierClassTemplate]
 DisplayName="Grenadier (Unused)"
 
@@ -1988,6 +1998,21 @@ RightAbilityTreeTitle="Support"
 +RandomNickNames_Female="Firebug"
 ;ALPHABETICAL ORDER
 
++PhotoboothSoloBLines_Male="Bringing the Boom!"
++PhotoboothSoloBLines_Male="The forecast calles for... COLLATERAL DAMAGE."
++PhotoboothSoloBLines_Male="No Cover. No Mercy."
++PhotoboothSoloBLines_Male="Artillery. Danger Close."
++PhotoboothSoloBLines_Male="Tick, tick, BOOM!"
++PhotoboothSoloBLines_Male="Bombs away!"
++PhotoboothSoloBLines_Male="Stealth is overrated."
+
++PhotoboothSoloBLines_Female="Bringing the Boom!"
++PhotoboothSoloBLines_Female="The forecast calles for... COLLATERAL DAMAGE."
++PhotoboothSoloBLines_Female="No Cover. No Mercy."
++PhotoboothSoloBLines_Female="Artillery. Danger Close."
++PhotoboothSoloBLines_Female="Tick, tick, BOOM!"
++PhotoboothSoloBLines_Female="Bombs away!"
++PhotoboothSoloBLines_Female="Stealth is overrated."
 
 [LWS_Gunner X2SoldierClassTemplate]
 DisplayName="Gunner"
@@ -2037,6 +2062,12 @@ RightAbilityTreeTitle="Oppressor"
 +RandomNickNames_Female="Giggles"
 +RandomNickNames_Female="Mango"
 +RandomNickNames_Female="Pepper"
+
++PhotoboothSoloBLines_Male="Bullets: the more the merrier!"
++PhotoboothSoloBLines_Male="Once more into the breach!"
+
++PhotoboothSoloBLines_Female="Bullets: the more the merrier!"
++PhotoboothSoloBLines_Female="Once more into the breach!"
 
 [Ranger X2SoldierClassTemplate]
 DisplayName="Ranger (Unused)"
@@ -2182,6 +2213,28 @@ RightAbilityTreeTitle="Marksman"
 +RandomNickNames_Female="Queen Bee"
 ;ALPHABETICAL ORDER
 
++PhotoboothSoloBLines_Male="Death From Afar"
++PhotoboothSoloBLines_Male="Go Ahead and Run. You'll Just Die Tired."
++PhotoboothSoloBLines_Male="King of Killshots"
++PhotoboothSoloBLines_Male="Right Between Their Alien Eyes"
++PhotoboothSoloBLines_Male="The Only Thing He Feels is Recoil"
++PhotoboothSoloBLines_Male="One shot, one kill."
++PhotoboothSoloBLines_Male="One shot, one kill. No luck, all skill."
++PhotoboothSoloBLines_Male="Patience is bitter, but its fruit is sweet."
++PhotoboothSoloBLines_Male="Guaranteed delivery."
++PhotoboothSoloBLines_Male="Save bullets. Use a sniper."
+
++PhotoboothSoloBLines_Female="Death From Afar"
++PhotoboothSoloBLines_Female="Go Ahead and Run. You'll Just Die Tired."
++PhotoboothSoloBLines_Female="Queen of Killshots"
++PhotoboothSoloBLines_Female="Right Between Their Alien Eyes"
++PhotoboothSoloBLines_Female="The Only Thing She Feels is Recoil"
++PhotoboothSoloBLines_Female="One shot, one kill."
++PhotoboothSoloBLines_Female="One shot, one kill. No luck, all skill."
++PhotoboothSoloBLines_Female="Patience is bitter, but its fruit is sweet."
++PhotoboothSoloBLines_Female="Guaranteed delivery."
++PhotoboothSoloBLines_Female="Save bullets. Use a sniper."
+
 [LWS_Assault X2SoldierClassTemplate]
 DisplayName="Assault"
 ClassSummary="The Assault serves as our primary close range unit, able to push in close and hold the line."
@@ -2317,6 +2370,18 @@ RightAbilityTreeTitle="Kenshi"
 +RandomNickNames_Female="Sparkplug"
 +RandomNickNames_Female="Spitfire"
 ;ALPHABETICAL ORDER
+
++PhotoboothSoloBLines_Male="His blade... THEIR BLOOD!"
++PhotoboothSoloBLines_Male="Close quarters, no mercy."
++PhotoboothSoloBLines_Male="His blade will bring JUSTICE!"
++PhotoboothSoloBLines_Male="Close, Personal, and DEADLY!"
++PhotoboothSoloBLines_Male="Blademaster. Death Dealer."
+
++PhotoboothSoloBLines_Female="Her blade... THEIR BLOOD!"
++PhotoboothSoloBLines_Female="Close quarters, no mercy."
++PhotoboothSoloBLines_Female="Her blade will bring JUSTICE!"
++PhotoboothSoloBLines_Female="Close, Personal, and DEADLY!"
++PhotoboothSoloBLines_Female="Blademaster. Death Dealer."
 
 [LW_RebelSoldier X2SoldierClassTemplate]
 DisplayName="Rebel"
