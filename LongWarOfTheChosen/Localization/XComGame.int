@@ -1805,6 +1805,22 @@ RightAbilityTreeTitle="Pyrotech"
 +RandomNickNames_Female="Duchess"
 ;ALPHABETICAL ORDER
 
++PhotoboothSoloBLines_Male="Burninating the countryside!"
++PhotoboothSoloBLines_Male="Dragon of the Resistance"
++PhotoboothSoloBLines_Male="\"Where there's smoke, there's me.\""
++PhotoboothSoloBLines_Male="Meet ADVENT's Technical Difficulties"
++PhotoboothSoloBLines_Male="The best kind of correct."
++PhotoboothSoloBLines_Male="He loves the smell of Napalm-X in the morning."
++PhotoboothSoloBLines_Male="Through the Fire and Flames"
+
++PhotoboothSoloBLines_Female="Burninating the countryside!"
++PhotoboothSoloBLines_Female="Dragon of the Resistance"
++PhotoboothSoloBLines_Female="\"Where there's smoke, there's me.\""
++PhotoboothSoloBLines_Female="Meet ADVENT's Technical Difficulties"
++PhotoboothSoloBLines_Female="The best kind of correct."
++PhotoboothSoloBLines_Female="She loves the smell of Napalm-X in the morning."
++PhotoboothSoloBLines_Female="Through the Fire and Flames"
+
 [Specialist X2SoldierClassTemplate]
 DisplayName="Specialist (Unused)"
 
