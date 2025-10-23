@@ -1911,11 +1911,15 @@ RightAbilityTreeTitle="Hacker"
 +PhotoboothSoloBLines_Male="Not all angels have wings."
 +PhotoboothSoloBLines_Male="ADVENT's diagnosis? Terminal."
 +PhotoboothSoloBLines_Male="There's no mercy in this angel."
++PhotoboothSoloBLines_Male="An apple a day won't keep him away."
++PhotoboothSoloBLines_Male="Hack the Planet!"
 
 +PhotoboothSoloBLines_Female="Hero to the Resistance. Nightmare to its Enemies."
 +PhotoboothSoloBLines_Female="Not all angels have wings."
 +PhotoboothSoloBLines_Female="ADVENT's diagnosis? Terminal."
 +PhotoboothSoloBLines_Female="There's no mercy in this angel."
++PhotoboothSoloBLines_Female="An apple a day won't keep her away."
++PhotoboothSoloBLines_Female="Hack the Planet!"
 
 [Grenadier X2SoldierClassTemplate]
 DisplayName="Grenadier (Unused)"
@@ -2081,9 +2085,17 @@ RightAbilityTreeTitle="Oppressor"
 
 +PhotoboothSoloBLines_Male="Bullets: the more the merrier!"
 +PhotoboothSoloBLines_Male="Once more into the breach!"
++PhotoboothSoloBLines_Male="Say hello to my little friend!"
++PhotoboothSoloBLines_Male="Peace through superior firepower"
++PhotoboothSoloBLines_Male="More Dakka"
++PhotoboothSoloBLines_Male="You don't need to be a better shot, you just need to shoot more bullets!"
 
 +PhotoboothSoloBLines_Female="Bullets: the more the merrier!"
 +PhotoboothSoloBLines_Female="Once more into the breach!"
++PhotoboothSoloBLines_Female="Say hello to my little friend!"
++PhotoboothSoloBLines_Female="Peace through superior firepower"
++PhotoboothSoloBLines_Female="More Dakka"
++PhotoboothSoloBLines_Female="You don't need to be a better shot, you just need to shoot more bullets!"
 
 [Ranger X2SoldierClassTemplate]
 DisplayName="Ranger (Unused)"
@@ -2138,6 +2150,9 @@ RightAbilityTreeTitle="Defender"
 +RandomNickNames_Female="Medusa"
 +RandomNickNames_Female="Sugar"
 ;ALPHABETICAL ORDER
+
++PhotoboothSoloBLines_Male="\"Good, bad, I'm the guy with the gun\""
++PhotoboothSoloBLines_Female="\"Good, bad, I'm the guy with the gun\""
 
 [Sharpshooter X2SoldierClassTemplate]
 DisplayName="Sharpshooter (Unused)"
@@ -2331,6 +2346,14 @@ RightAbilityTreeTitle="Crasher"
 +RandomNickNames_Female="Valkyrie"
 ;ALPHABETICAL ORDER
 
++PhotoboothSoloBLines_Male="This is my boomstick!"
++PhotoboothSoloBLines_Male="Assault and Battery"
++PhotoboothSoloBLines_Male="\"You want to test the mettle of man, huh? How bout you taste the metal of man?\""
+
++PhotoboothSoloBLines_Female="This is my boomstick!"
++PhotoboothSoloBLines_Female="Assault and Battery"
++PhotoboothSoloBLines_Female="\"You want to test the mettle of man, huh? How bout you taste the metal of man?\""
+
 [LWS_Shinobi X2SoldierClassTemplate]
 DisplayName="Shinobi"
 ClassSummary="The Shinobi serves as our primary scouting unit, using a sword to deliver stealthy close-range attacks."
@@ -2392,12 +2415,16 @@ RightAbilityTreeTitle="Kenshi"
 +PhotoboothSoloBLines_Male="His blade will bring JUSTICE!"
 +PhotoboothSoloBLines_Male="Close, Personal, and DEADLY!"
 +PhotoboothSoloBLines_Male="Blademaster. Death Dealer."
++PhotoboothSoloBLines_Male="His sword is a tool of JUSTICE!"
++PhotoboothSoloBLines_Male="Silent and Deadly"
 
 +PhotoboothSoloBLines_Female="Her blade... THEIR BLOOD!"
 +PhotoboothSoloBLines_Female="Close quarters, no mercy."
 +PhotoboothSoloBLines_Female="Her blade will bring JUSTICE!"
 +PhotoboothSoloBLines_Female="Close, Personal, and DEADLY!"
 +PhotoboothSoloBLines_Female="Blademaster. Death Dealer."
++PhotoboothSoloBLines_Female="Her sword is a tool of JUSTICE!"
++PhotoboothSoloBLines_Female="Silent and Deadly"
 
 [LW_RebelSoldier X2SoldierClassTemplate]
 DisplayName="Rebel"
