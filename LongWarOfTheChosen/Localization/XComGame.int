@@ -1913,6 +1913,11 @@ RightAbilityTreeTitle="Hacker"
 +PhotoboothSoloBLines_Male="There's no mercy in this angel."
 +PhotoboothSoloBLines_Male="An apple a day won't keep him away."
 +PhotoboothSoloBLines_Male="Hack the Planet!"
++PhotoboothSoloBLines_Male="It's time for Resistance Protocol"
++PhotoboothSoloBLines_Male="Information wants to be free"
++PhotoboothSoloBLines_Male="He would download a car"
++PhotoboothSoloBLines_Male="If hacking the ADVENT network is a crime, then call him a criminal."
++PhotoboothSoloBLines_Male="\"All your MECs are belong to me.\""
 
 +PhotoboothSoloBLines_Female="Hero to the Resistance. Nightmare to its Enemies."
 +PhotoboothSoloBLines_Female="Not all angels have wings."
@@ -1920,6 +1925,11 @@ RightAbilityTreeTitle="Hacker"
 +PhotoboothSoloBLines_Female="There's no mercy in this angel."
 +PhotoboothSoloBLines_Female="An apple a day won't keep her away."
 +PhotoboothSoloBLines_Female="Hack the Planet!"
++PhotoboothSoloBLines_Female="It's time for Resistance Protocol"
++PhotoboothSoloBLines_Female="Information wants to be free"
++PhotoboothSoloBLines_Female="She would download a car"
++PhotoboothSoloBLines_Female="If hacking the ADVENT network is a crime, then call her a criminal."
++PhotoboothSoloBLines_Female="\"All your MECs are belong to me.\""
 
 [Grenadier X2SoldierClassTemplate]
 DisplayName="Grenadier (Unused)"
@@ -2025,6 +2035,7 @@ RightAbilityTreeTitle="Support"
 +PhotoboothSoloBLines_Male="Tick, tick, BOOM!"
 +PhotoboothSoloBLines_Male="Bombs away!"
 +PhotoboothSoloBLines_Male="Stealth is overrated."
++PhotoboothSoloBLines_Male="Today's forecast: Extra bomby, slight chance of mushroom clouds."
 
 +PhotoboothSoloBLines_Female="Bringing the Boom!"
 +PhotoboothSoloBLines_Female="The forecast calles for... COLLATERAL DAMAGE."
@@ -2033,6 +2044,7 @@ RightAbilityTreeTitle="Support"
 +PhotoboothSoloBLines_Female="Tick, tick, BOOM!"
 +PhotoboothSoloBLines_Female="Bombs away!"
 +PhotoboothSoloBLines_Female="Stealth is overrated."
++PhotoboothSoloBLines_Female="Today's forecast: Extra bomby, slight chance of mushroom clouds."
 
 [LWS_Gunner X2SoldierClassTemplate]
 DisplayName="Gunner"
@@ -2152,7 +2164,11 @@ RightAbilityTreeTitle="Defender"
 ;ALPHABETICAL ORDER
 
 +PhotoboothSoloBLines_Male="\"Good, bad, I'm the guy with the gun\""
++PhotoboothSoloBLines_Male="The bigger they are, the harder they fall"
++PhotoboothSoloBLines_Male="\"Do you feel lucky, punk?\""
 +PhotoboothSoloBLines_Female="\"Good, bad, I'm the guy with the gun\""
++PhotoboothSoloBLines_Female="The bigger they are, the harder they fall"
++PhotoboothSoloBLines_Female="\"Do you feel lucky, punk?\""
 
 [Sharpshooter X2SoldierClassTemplate]
 DisplayName="Sharpshooter (Unused)"
@@ -2254,6 +2270,7 @@ RightAbilityTreeTitle="Marksman"
 +PhotoboothSoloBLines_Male="Patience is bitter, but its fruit is sweet."
 +PhotoboothSoloBLines_Male="Guaranteed delivery."
 +PhotoboothSoloBLines_Male="Save bullets. Use a sniper."
++PhotoboothSoloBLines_Male="He aims to misbehave"
 
 +PhotoboothSoloBLines_Female="Death From Afar"
 +PhotoboothSoloBLines_Female="Go Ahead and Run. You'll Just Die Tired."
@@ -2265,6 +2282,7 @@ RightAbilityTreeTitle="Marksman"
 +PhotoboothSoloBLines_Female="Patience is bitter, but its fruit is sweet."
 +PhotoboothSoloBLines_Female="Guaranteed delivery."
 +PhotoboothSoloBLines_Female="Save bullets. Use a sniper."
++PhotoboothSoloBLines_Female="She aims to misbehave"
 
 [LWS_Assault X2SoldierClassTemplate]
 DisplayName="Assault"
@@ -2349,10 +2367,14 @@ RightAbilityTreeTitle="Crasher"
 +PhotoboothSoloBLines_Male="This is my boomstick!"
 +PhotoboothSoloBLines_Male="Assault and Battery"
 +PhotoboothSoloBLines_Male="\"You want to test the mettle of man, huh? How bout you taste the metal of man?\""
++PhotoboothSoloBLines_Male="Runnin' and Gunnin'"
++PhotoboothSoloBLines_Male="There's no kill like overkill."
 
 +PhotoboothSoloBLines_Female="This is my boomstick!"
 +PhotoboothSoloBLines_Female="Assault and Battery"
 +PhotoboothSoloBLines_Female="\"You want to test the mettle of man, huh? How bout you taste the metal of man?\""
++PhotoboothSoloBLines_Female="Runnin' and Gunnin'"
++PhotoboothSoloBLines_Female="There's no kill like overkill."
 
 [LWS_Shinobi X2SoldierClassTemplate]
 DisplayName="Shinobi"
@@ -5687,6 +5709,29 @@ RankIcons[7]= "UILibrary_Common.psirank_magus"
 RankIcons[8]= "UILibrary_LW_PerkPack.psirank_Master"
 
 ; End Translation
+
+[PsiOperative X2SoldierClassTemplate]
++PhotoboothSoloBLines_Male="Our enemies kneel before him!"
++PhotoboothSoloBLines_Male="Our enemies are his to control!"
++PhotoboothSoloBLines_Male="The Force is with him!"
++PhotoboothSoloBLines_Male="Phenomenal Cosmic Power!"
++PhotoboothSoloBLines_Male="He's got the Power!"
++PhotoboothSoloBLines_Male="ADVENT, stop hitting yourself!"
++PhotoboothSoloBLines_Male="The best offense is your enemy's offense"
++PhotoboothSoloBLines_Male="The best offense is psi offense"
++PhotoboothSoloBLines_Male="XCOM's greatest champion!"
++PhotoboothSoloBLines_Female="He doesn't have better equipment. He's just better."
+
++PhotoboothSoloBLines_Female="Our enemies kneel before her!"
++PhotoboothSoloBLines_Female="Our enemies are hers to control!"
++PhotoboothSoloBLines_Female="The Force is with her!"
++PhotoboothSoloBLines_Female="Phenomenal Cosmic Power!"
++PhotoboothSoloBLines_Female="She's got the Power!"
++PhotoboothSoloBLines_Female="ADVENT, stop hitting yourself!"
++PhotoboothSoloBLines_Female="The best offense is your enemy's offense"
++PhotoboothSoloBLines_Female="The best offense is psi offense"
++PhotoboothSoloBLines_Female="XCOM's greatest champion!"
++PhotoboothSoloBLines_Female="She doesn't have better equipment. She's just better."
 
 ;LWOTC needs Translation(2)
 [Retribution X2AbilityTemplate]
