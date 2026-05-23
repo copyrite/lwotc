@@ -23,11 +23,11 @@ static function UpdateMissionSources(X2StrategyElementTemplate Template, int Dif
 			SourceTemplate.OnFailureFn = ChosenAmbushOnFailure;
 			SourceTemplate.OnExpireFn = ChosenAmbushOnExpire;
 			break;
-			case 'MissionSource_BlackSite':
-			case 'MissionSource_Forge':
-			case 'MissionSource_PsiGate':
-			case 'MissionSource_Broadcast':
-			case 'MissionSource_ChosenAvengerAssault':
+		case 'MissionSource_BlackSite':
+		case 'MissionSource_Forge':
+		case 'MissionSource_PsiGate':
+		case 'MissionSource_Broadcast':
+		case 'MissionSource_ChosenAvengerAssault':
 			SourceTemplate.GetMissionDifficultyFn = GetCADDifficulty;
 			break;
 		default:
