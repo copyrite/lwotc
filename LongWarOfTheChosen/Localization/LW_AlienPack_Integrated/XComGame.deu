@@ -21,21 +21,21 @@ LocFriendlyName="Schlachtruf"
 LocLongDescription="Gewährt anderen Mutons große Zielsicherheits-, Willens- und Mobilitätsboni und geringere Boni für andere intelligente Aliens und ADVENT-Einheiten. Abklingzeit von 6 Runden."
 LocHelpText="Gewährt anderen Mutons und bestimmten anderen Aliens Boni."
 LocFlyOverText="Schlachtruf"
-LocPromotionPopupText="<Bullet/> Gewährt anderen Mutons große Zielsicherheits-, Willens- und Mobilitätsboni und geringere Boni für andere intelligente Aliens und ADVENT-Einheiten.<br/><Bullet/> Abklingzeit von 6 Runden.<br/>"
+LocPromotionPopupText="<Bullet/> Gewährt anderen Mutons große Zielsicherheits-, Willens- und Mobilitätsboni und geringere Boni für andere intelligente Aliens und ADVENT-Einheiten.<br><Bullet/> Abklingzeit von 6 Runden.<br>"
 
 [BayonetCharge X2AbilityTemplate]
 LocFriendlyName="Bajonett-Ladung"
 LocLongDescription="Ermöglicht einen Nahkampfangriff innerhalb der Sprintdistanz. Abklingzeit von vier Runden."
 LocHelpText="Ermöglicht einen Nahkampfangriff innerhalb der Sprintdistanz."
 LocFlyOverText="Bajonett-Ladung"
-LocPromotionPopupText="<Bullet/> Ermöglicht einen Nahkampfangriff innerhalb der Sprintdistanz.<br/><Bullet/> Abklingzeit von 4 Runden.<br/>"
+LocPromotionPopupText="<Bullet/> Ermöglicht einen Nahkampfangriff innerhalb der Sprintdistanz.<br><Bullet/> Abklingzeit von 4 Runden.<br>"
 
 [Beastmaster_LW X2AbilityTemplate]
 LocFriendlyName="Bestienmeister"
 LocLongDescription="Immun gegen Schaden durch Berserker."
 LocHelpText="Immun gegen Schaden durch Berserker."
 LocFlyOverText="Bestienmeister"
-LocPromotionPopupText="<Bullet/> Immun gegen Schaden durch Berserker.<br/>"
+LocPromotionPopupText="<Bullet/> Immun gegen Schaden durch Berserker.<br>"
 
 [MassMindSpin X2AbilityTemplate]
 LocFriendlyName="Massen-Zustandsroulette"
@@ -50,7 +50,7 @@ LocFriendlyName="Drohnenschocker"
 LocLongDescription="Ursprünglich zur Ruhigstellung von Zivilisten gedacht, richtet dieser Effekt nur minimalen Schaden an und desorientiert lediglich."
 LocHelpText="Diese Waffe richtet minimalen Schaden an und schwächt das Ziel."
 LocFlyOverText="Drohnenschocker"
-LocPromotionPopupText="<Bullet/> Ursprünglich zur Ruhigstellung von Zivilisten gedacht, richtet dieser Effekt nur minimalen Schaden an und desorientiert das Ziel lediglich.<br/>"
+LocPromotionPopupText="<Bullet/> Ursprünglich zur Ruhigstellung von Zivilisten gedacht, richtet dieser Effekt nur minimalen Schaden an und desorientiert das Ziel lediglich.<br>"
 
 [LWDroneRepair X2AbilityTemplate]
 LocFriendlyName="Reparieren"
@@ -72,7 +72,7 @@ LocFriendlyName="Persönlicher Schild"
 LocFlyOverText="Persönlicher Schild"
 LocHelpText="Gewährt 5 ablative Rüstungspunkte. Abklingzeit von 5 Runden."
 LocLongDescription="Gewährt 5 ablative Rüstungspunkte. Abklingzeit von 5 Runden."
-LocPromotionPopupText="<Bullet/> Gewährt 5 ablative Rüstungspunkte.<br/><Bullet/> Abklingzeit von 5 Runden.<br/><Bullet/> Verbraucht 1 Aktion; beendet nicht die Runde.<br/>"
+LocPromotionPopupText="<Bullet/> Gewährt 5 ablative Rüstungspunkte.<br><Bullet/> Abklingzeit von 5 Runden.<br><Bullet/> Verbraucht 1 Aktion; beendet nicht die Runde.<br>"
 
 [MassReanimation_LW X2AbilityTemplate]
 LocFriendlyName="Massen-Reanimation"
@@ -100,14 +100,14 @@ LocFriendlyName="Schadenskontrolle"
 LocFlyOverText="Schadenskontrolle"
 LocLongDescription="Wenn du Schaden nimmst, erhältst du bis zum Ende der nächsten Runde zwei zusätzliche Rüstungspunkte."
 LocHelpText="Wenn du Schaden nimmst, erhältst du bis zum Ende der nächsten Runde zwei zusätzliche Rüstungspunkte."
-LocPromotionPopupText="<Bullet/> Deine Rüstung versteift nach einem Treffer kurzzeitig. Wenn du Schaden nimmst, erhältst du bis zum Ende der nächsten Runde zwei zusätzliche Rüstungspunkte.<br/><Bullet/> Das Erleiden mehrerer Treffer in aufeinanderfolgenden Runden verlängert die Dauer.<br/>"
+LocPromotionPopupText="<Bullet/> Deine Rüstung versteift nach einem Treffer kurzzeitig. Wenn du Schaden nimmst, erhältst du bis zum Ende der nächsten Runde zwei zusätzliche Rüstungspunkte.<br><Bullet/> Das Erleiden mehrerer Treffer in aufeinanderfolgenden Runden verlängert die Dauer.<br>"
 
 [RepairServosPassive X2AbilityTemplate]
 LocFriendlyName="Schadenskontrolle"
 LocFlyOverText="Schadenskontrolle"
 LocLongDescription="Wenn du Schaden nimmst, erhältst du bis zum Ende der nächsten Runde zwei zusätzliche Rüstungspunkte."
 LocHelpText="Wenn du Schaden nimmst, erhältst du bis zum Ende der nächsten Runde zwei zusätzliche Rüstungspunkte."
-LocPromotionPopupText="<Bullet/> Wenn du Schaden nimmst, erhältst du bis zum Ende der nächsten Runde zwei zusätzliche Rüstungspunkte.<br/><Bullet/> Das Erleiden mehrerer Treffer in aufeinanderfolgenden Runden verlängert die Dauer.<br/>"
+LocPromotionPopupText="<Bullet/> Wenn du Schaden nimmst, erhältst du bis zum Ende der nächsten Runde zwei zusätzliche Rüstungspunkte.<br><Bullet/> Das Erleiden mehrerer Treffer in aufeinanderfolgenden Runden verlängert die Dauer.<br>"
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;; MutonM2_LW ;;;;;;;;;;;;;;;;;;;;;;;;;;;
 

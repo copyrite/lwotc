@@ -98,7 +98,7 @@ RankIcons[8]="UILibrary_Common.rank_fieldmarshall"
 ; LWOTC: Hunker down doesn't remove burning in this mod
 [HunkerDown X2AbilityTemplate]
 LocFriendlyName="Al riparo"
-LocHelpText="Aumenta la Difesa di <Ability:HUNKERDEFENSEBONUS/> e la Schivata di <Ability:HUNKERDODGEBONUS/>. Funziona solo al riparo."
+LocHelpText="Aumenta la Difesa di <Ability:HUNKERDEFENSEBONUS> e la Schivata di <Ability:HUNKERDODGEBONUS>. Funziona solo al riparo."
 LocFlyOverText="Al riparo"
 
 ;;;;;;;;;;;;;;;;;;;;  TECHNICAL ABILITIES ;;;;;;;;;;;;;;;;;;;;;;;
@@ -108,36 +108,36 @@ LocFriendlyName="Armi pesanti"
 LocFlyOverText="Armi pesanti"
 LocLongDescription="Questo soldato è addestrato per l'uso del guanto XCOM, che combina lanciarazzi e lanciafiamme."
 LocHelpText="Questo soldato è addestrato per l'uso del guanto XCOM, che combina lanciarazzi e lanciafiamme."
-LocPromotionPopupText="<Bullet/> Il guanto XCOM è un dispositivo avanzato con un mini lanciarazzi e un lanciafiamme.<br/><Bullet/> Il lanciarazzi parte con un razzo e ha un'area d'effetto con una portata di tre caselle.<br/><Bullet/> Può avere come bersaglio qualsiasi cosa entro la portata visiva.<br/><Bullet/> Il danno dei razzi diminuisce allontanandosi dal punto dell'impatto.<br/><Bullet/> Il lanciafiamme è un'arma a breve gittata che infligge danni a più bersagli in un'area d'effetto a cono.<br/><Bullet/> Il lanciafiamme ha due usi per battaglia. Non danneggia le unità meccaniche, senza potenziamenti.<br/><Bullet/> Usare un'abilità del guanto richiede un'azione e conclude il turno.<br/><Bullet/> La precisione dei missili è influenzata dalla mira del soldato, distanza dal bersaglio, e se il soldato abbia già utilizzato una qualunque azione o meno in questo turno. Missili poco precisi avranno valori di deviazione più alti, il che vuol dire che avranno una probabilità maggiore di mancare la casella bersaglio di distanze maggiori. La deviazione massima del missile è indicata nel popup, mentre un valore che appare col cursore mostrerà la deviazione prevista (media) per un colpo su tale locazione."
+LocPromotionPopupText="<Bullet/> Il guanto XCOM è un dispositivo avanzato con un mini lanciarazzi e un lanciafiamme.<br><Bullet/> Il lanciarazzi parte con un razzo e ha un'area d'effetto con una portata di tre caselle.<br><Bullet/> Può avere come bersaglio qualsiasi cosa entro la portata visiva.<br><Bullet/> Il danno dei razzi diminuisce allontanandosi dal punto dell'impatto.<br><Bullet/> Il lanciafiamme è un'arma a breve gittata che infligge danni a più bersagli in un'area d'effetto a cono.<br><Bullet/> Il lanciafiamme ha due usi per battaglia. Non danneggia le unità meccaniche, senza potenziamenti.<br><Bullet/> Usare un'abilità del guanto richiede un'azione e conclude il turno.<br><Bullet/> La precisione dei missili è influenzata dalla mira del soldato, distanza dal bersaglio, e se il soldato abbia già utilizzato una qualunque azione o meno in questo turno. Missili poco precisi avranno valori di deviazione più alti, il che vuol dire che avranno una probabilità maggiore di mancare la casella bersaglio di distanze maggiori. La deviazione massima del missile è indicata nel popup, mentre un valore che appare col cursore mostrerà la deviazione prevista (media) per un colpo su tale locazione."
 
 [LWFlamethrower X2AbilityTemplate]
 LocFriendlyName="Lanciafiamme"
 LocFlyOverText="Lanciafiamme"
 LocLongDescription="Emette fiamme in un'area a forma di cono."
 LocHelpText="Emette fiamme in un'area a forma di cono."
-LocPromotionPopupText="<Bullet/> Il lanciafiamme è un'arma a breve gittata che infligge danni a più bersagli in un'area d'effetto a cono.<br/><Bullet/> Il lanciafiamme ha <Ability:FLAMETHROWER_CHARGES_LW>. Non danneggia le unità meccaniche, senza potenziamenti.<br/><Bullet/> Richiede un'azione e conclude il tuo turno."
+LocPromotionPopupText="<Bullet/> Il lanciafiamme è un'arma a breve gittata che infligge danni a più bersagli in un'area d'effetto a cono.<br><Bullet/> Il lanciafiamme ha <Ability:FLAMETHROWER_CHARGES_LW>. Non danneggia le unità meccaniche, senza potenziamenti.<br><Bullet/> Richiede un'azione e conclude il tuo turno."
 
 [LWRocketLauncher X2AbilityTemplate]
 LocFriendlyName="Lanciarazzi"
-LocHelpText="Spara un razzo nell'area bersaglio.<Ability:ROCKETSCATTER/>"
+LocHelpText="Spara un razzo nell'area bersaglio.<Ability:ROCKETSCATTER>"
 
 [LWBlasterLauncher X2AbilityTemplate]
 LocFriendlyName="Bomba esplosiva"
-LocHelpText="Spara una bomba esplosiva nell'area bersaglio. <Ability:ROCKETSCATTER/>"
+LocHelpText="Spara una bomba esplosiva nell'area bersaglio. <Ability:ROCKETSCATTER>"
 
 [NapalmX X2AbilityTemplate]
 LocFriendlyName="Napalm-X"
 LocFlyOverText="Napalm-X"
 LocLongDescription="Il tuo lanciafiamme ora può disorientare o mandare nel panico i nemici."
 LocHelpText="Napalm-X"
-LocPromotionPopupText="<Bullet/> Il tuo lanciafiamme ora può disorientare o mandare nel panico i nemici. Le unità nemiche devono superare un test per evitare gli effetti negativi.<br/>"
+LocPromotionPopupText="<Bullet/> Il tuo lanciafiamme ora può disorientare o mandare nel panico i nemici. Le unità nemiche devono superare un test per evitare gli effetti negativi.<br>"
 
 [PhosphorusPassive X2AbilityTemplate]
 LocFriendlyName="Fosforo"
 LocFlyOverText="Fosforo"
 LocLongDescription=" Il tuo lanciafiamme danneggia ora le unità meccaniche e riduce le armature."
 LocHelpText=" Il tuo lanciafiamme danneggia ora le unità meccaniche e riduce le armature."
-LocPromotionPopupText="<Bullet/> Il tuo lanciafiamme può danneggiare le unità meccaniche.<br/><Bullet/> Il lanciafiamme riduce di 1 le armature.</br>"
+LocPromotionPopupText="<Bullet/> Il tuo lanciafiamme può danneggiare le unità meccaniche.<br><Bullet/> Il lanciafiamme riduce di 1 le armature.<br>"
 
 [Incinerator X2AbilityTemplate]
 LocFriendlyName="Inceneritore"
@@ -151,21 +151,21 @@ LocFriendlyName="Incendia"
 LocFlyOverText="Incendia"
 LocLongDescription="Colpo speciale con il lanciafiamme che infligge danni limitati ma obbliga i nemici a cambiare posizione."
 LocHelpText="Colpo speciale con il lanciafiamme che obbliga i nemici a cambiare posizione."
-LocPromotionPopupText="<Bullet/> Ha il 20% di probabilità di incendiare i nemici nell'area d'effetto e infligge danni limitati.<br/><Bullet/> Il getto di fiamme è più sottile e ha meno impatto sull'ambiente.<br/><Bullet/> Le unità colpite sono obbligate a muoversi e possono spesso far scattare attacchi di Guardia.<br/><Bullet/> Un utilizzo per missione, ma è possibile ottenerne altri con attrezzature aggiuntive."
+LocPromotionPopupText="<Bullet/> Ha il 20% di probabilità di incendiare i nemici nell'area d'effetto e infligge danni limitati.<br><Bullet/> Il getto di fiamme è più sottile e ha meno impatto sull'ambiente.<br><Bullet/> Le unità colpite sono obbligate a muoversi e possono spesso far scattare attacchi di Guardia.<br><Bullet/> Un utilizzo per missione, ma è possibile ottenerne altri con attrezzature aggiuntive."
 
 [Burnout X2AbilityTemplate]
 LocFriendlyName="Fumata"
 LocFlyOverText"Burnout"
 LocLongDescription="Attivare il lanciafiamme lascia una piccola nube di fumo intorno alla tua posizione, conferendo un bonus difensivo."
 LocHelpText="Attivare il lanciafiamme lascia una piccola nube di fumo intorno alla tua posizione, conferendo un bonus difensivo."
-LocPromotionPopupText="<Bullet/> Sparare con il lanciafiamme lascia una piccola nube di fumo intorno alla tua posizione, conferendo un bonus difensivo di +20 alle unità al suo interno.<br/>"
+LocPromotionPopupText="<Bullet/> Sparare con il lanciafiamme lascia una piccola nube di fumo intorno alla tua posizione, conferendo un bonus difensivo di +20 alle unità al suo interno.<br>"
 
 [BurnoutPassive X2AbilityTemplate]
 LocFriendlyName="Fumata"
 LocFlyOverText"Burnout"
 LocLongDescription="Attivare il lanciafiamme lascia una piccola nube di fumo intorno alla tua posizione, conferendo un bonus difensivo."
 LocHelpText="Attivare il lanciafiamme lascia una piccola nube di fumo intorno alla tua posizione, conferendo un bonus difensivo."
-LocPromotionPopupText="<Bullet/> Sparare con il lanciafiamme lascia una piccola nube di fumo intorno alla tua posizione, conferendo un bonus difensivo di +20 alle unità al suo interno.<br/>"
+LocPromotionPopupText="<Bullet/> Sparare con il lanciafiamme lascia una piccola nube di fumo intorno alla tua posizione, conferendo un bonus difensivo di +20 alle unità al suo interno.<br>"
 
 [HighPressure X2AbilityTemplate]
 LocFriendlyName="Alta pressione"
@@ -179,70 +179,70 @@ LocFriendlyName="Bruciatura rapida"
 LocFlyOverText="Bruciatura rapida"
 LocLongDescription="Attiva e il tuo prossimo utilizzo del lanciafiamme non costerà un'azione."
 LocHelpText="Attiva e il tuo prossimo utilizzo del lanciafiamme non costerà un'azione."
-LocPromotionPopupText="<Bullet/> Attiva e il tuo prossimo utilizzo del lanciafiamme non costerà un'azione.<br/><Bullet/> 5 turni di ricarica.<br/>"
+LocPromotionPopupText="<Bullet/> Attiva e il tuo prossimo utilizzo del lanciafiamme non costerà un'azione.<br><Bullet/> 5 turni di ricarica.<br>"
 
 [Firestorm X2AbilityTemplate]
 LocFriendlyName="Tempesta di fiamme"
 LocFlyOverText="Tempesta di fiamme"
 LocLongDescription="Una volta per battaglia, attacca tutte le unità in un cerchio completo intorno alla posizione del soldato. Conferisce anche immunità ai danni da fuoco."
 LocHelpText="Spara in un cerchio completo intorno alla tua posizione."
-LocPromotionPopupText="<Bullet/> Appicca incendi leggeri e infligge danni a tutti i nemici in un cerchio intorno al soldato, infliggendo +<ABILITY:FIRESTORM_DAMAGE_BONUS_LW> danni bonus rispetto ai normali attacchi con il lanciafiamme.<br/><Bullet/> Tempesta di fuoco conferisce anche immunità ai danni da fuoco.<br/><Bullet/> Richiede un punto azione e conclude il turno del soldato dopo l'uso.<br/><Bullet/> Utilizzabile una volta per battaglia.<br/><Bullet/> È sconsigliato usare Tempesta di fiamme sui tetti"
+LocPromotionPopupText="<Bullet/> Appicca incendi leggeri e infligge danni a tutti i nemici in un cerchio intorno al soldato, infliggendo +<ABILITY:FIRESTORM_DAMAGE_BONUS_LW> danni bonus rispetto ai normali attacchi con il lanciafiamme.<br><Bullet/> Tempesta di fuoco conferisce anche immunità ai danni da fuoco.<br><Bullet/> Richiede un punto azione e conclude il turno del soldato dopo l'uso.<br><Bullet/> Utilizzabile una volta per battaglia.<br><Bullet/> È sconsigliato usare Tempesta di fiamme sui tetti"
 
 [TechnicalFireImmunity X2AbilityTemplate]
 LocFriendlyName="Immunità al fuoco"
 LocFlyOverText="Immunità al fuoco"
 LocLongDescription="L'abilità Tempesta di fuoco conferisce immunità ai danni da fuoco."
 LocHelpText="Questa unità è immune ai danni da fuoco."
-LocPromotionPopupText="<Bullet/> Questa unità è immune ai danni da fuoco.<br/>"
+LocPromotionPopupText="<Bullet/> Questa unità è immune ai danni da fuoco.<br>"
 
 [ShockAndAwe X2AbilityTemplate]
 LocFriendlyName="Fuochi d'artificio"
 LocFlyOverText="Fuochi d'artificio"
 LocLongDescription="Hai un razzo aggiuntivo."
 LocHelpText="Hai un razzo aggiuntivo."
-LocPromotionPopupText="<Bullet/> Hai un razzo aggiuntivo.<br/>"
+LocPromotionPopupText="<Bullet/> Hai un razzo aggiuntivo.<br>"
 
 [FireInTheHole X2AbilityTemplate]
 LocFriendlyName="Bomba in buca"
 LocFlyOverText="Bomba in buca"
 LocLongDescription="I tuoi razzi sono più precisi."
 LocHelpText="I tuoi razzi sono più precisi."
-LocPromotionPopupText="<Bullet/> I tuoi razzi hanno più probabilità di colpire il punto di impatto scelto.<br/><Bullet/> Il massimo di deviazione dal punto di impatto scelto è di due caselle."
+LocPromotionPopupText="<Bullet/> I tuoi razzi hanno più probabilità di colpire il punto di impatto scelto.<br><Bullet/> Il massimo di deviazione dal punto di impatto scelto è di due caselle."
 
 [JavelinRockets X2AbilityTemplate]
 LocFriendlyName="Razzi Javelin"
 LocFlyOverText="Razzi Javelin"
 LocLongDescription="La gittata dei tuoi razzi aumenta di 6 caselle e puoi colpire bersagli oltre la tua portata visiva."
 LocHelpText="La gittata dei tuoi razzi aumenta di 6 caselle e puoi colpire bersagli oltre la tua portata visiva."
-LocPromotionPopupText="<Bullet/> La gittata dei tuoi razzi aumenta di 6 caselle e puoi colpire bersagli oltre la tua portata visiva.<br/>"
+LocPromotionPopupText="<Bullet/> La gittata dei tuoi razzi aumenta di 6 caselle e puoi colpire bersagli oltre la tua portata visiva.<br>"
 
 [BunkerBuster X2AbilityTemplate]
 LocFriendlyName="Spaccabunker"
 LocFlyOverText="Spaccabunker"
 LocHelpText="Spara un razzo speciale che distrugge edifici e altri oggetti dell'ambiente."
 LocLongDescription="Spara un razzo speciale che distrugge edifici e altri oggetti dell'ambiente."
-LocPromotionPopupText="<Bullet/> Spara un razzo speciale, con una grande area d'effetto che infligge danni moderati ai nemici e danni ingenti a edifici, veicoli e altri oggetti dell'ambiente.<br/><Bullet/> Richiede entrambe le azioni ed è utilizzabile solo una volta per missione.<br/>"
+LocPromotionPopupText="<Bullet/> Spara un razzo speciale, con una grande area d'effetto che infligge danni moderati ai nemici e danni ingenti a edifici, veicoli e altri oggetti dell'ambiente.<br><Bullet/> Richiede entrambe le azioni ed è utilizzabile solo una volta per missione.<br>"
 
 [FireandSteel X2AbilityTemplate]
 LocFriendlyName="Fuoco e acciaio"
 LocFlyOverText="Fuoco e acciaio"
 LocLongDescription="Gli attacchi con il tuo guanto e gli spari con le armi del guanto infliggono +1 danni."
 LocHelpText="Gli attacchi con il tuo guanto e gli spari con le armi del guanto infliggono +1 danni."
-LocPromotionPopupText="<Bullet/> Gli attacchi con il tuo guanto e gli spari con le armi del guanto infliggono +1 danni.<br/><Bullet/> Si applica a lanciarazzi e lanciafiamme, oltre che agli incendi che fanno scoppiare.<br/>"
+LocPromotionPopupText="<Bullet/> Gli attacchi con il tuo guanto e gli spari con le armi del guanto infliggono +1 danni.<br><Bullet/> Si applica a lanciarazzi e lanciafiamme, oltre che agli incendi che fanno scoppiare.<br>"
 
 [ConcussionRocket X2AbilityTemplate]
 LocFriendlyName="Razzo dirompente"
 LocFlyOverText="Razzo dirompente"
 LocLongDescription="Spara un razzo speciale che infligge danni limitati ma ha una probabilità di stordire o disorientare i nemici organici all'interno dell'area d'effetto. Lascia una nube di fumo."
 LocHelpText="Razzo speciale che stordisce o disorienta i bersagli e lascia una nube di fumo."
-LocPromotionPopupText="<Bullet/> Un uso per missione.<br/><Bullet/> La probabilità di stordimento e disorientamento varia in base alla Volontà del bersaglio.<br/><Bullet/> Richiede un'azione e conclude il turno del soldato."
+LocPromotionPopupText="<Bullet/> Un uso per missione.<br><Bullet/> La probabilità di stordimento e disorientamento varia in base alla Volontà del bersaglio.<br><Bullet/> Richiede un'azione e conclude il turno del soldato."
 
 [BlasterConcussionRocket X2AbilityTemplate]
 LocFriendlyName="Razzo dirompente"
 LocFlyOverText="Razzo dirompente"
 LocLongDescription="Spara un razzo speciale che infligge danni limitati ma ha una probabilità di stordire o disorientare i nemici organici all'interno dell'area d'effetto. Lascia una nube di fumo."
 LocHelpText="Razzo speciale che stordisce o disorienta i bersagli e lascia una nube di fumo."
-LocPromotionPopupText="<Bullet/> Un uso per missione.<br/><Bullet/> La probabilità di stordimento e disorientamento varia in base alla Volontà del bersaglio.<br/><Bullet/> Richiede un'azione e conclude il turno del soldato."
+LocPromotionPopupText="<Bullet/> Un uso per missione.<br><Bullet/> La probabilità di stordimento e disorientamento varia in base alla Volontà del bersaglio.<br><Bullet/> Richiede un'azione e conclude il turno del soldato."
 
 
 ;;;;;;;;;;;;;;;;;;;;  SHINOBI ABILITIES ;;;;;;;;;;;;;;;;;;;;;;;
@@ -252,14 +252,14 @@ LocFriendlyName="Colpo di grazia"
 LocFlyOverText="Colpo di grazia"
 LocLongDescription="Colpo di grazia può uccidere all'istante un nemico disorientato, stordito o privo di sensi."
 LocHelpText="Ha una probabilità di uccidere all'istante un nemico disorientato, stordito o privo di sensi."
-LocPromotionPopupText="<Bullet/> Colpo di grazie può avere come bersaglio solo nemici non robotici, disorientati, storditi o privi di sensi.<br/><Bullet/> Colpo di grazia ha un 25% di probabilità base di uccidere le unità disorientate e un 50% di uccidere le unità stordite/prive di sensi.<br/><Bullet/> Colpo di grazia conferisce fino al 75% di probabilità di uccidere in più in base alla salute rimanente del bersaglio.<br/>"
+LocPromotionPopupText="<Bullet/> Colpo di grazie può avere come bersaglio solo nemici non robotici, disorientati, storditi o privi di sensi.<br><Bullet/> Colpo di grazia ha un 25% di probabilità base di uccidere le unità disorientate e un 50% di uccidere le unità stordite/prive di sensi.<br><Bullet/> Colpo di grazia conferisce fino al 75% di probabilità di uccidere in più in base alla salute rimanente del bersaglio.<br>"
 
 [Tradecraft X2AbilityTemplate]
 LocFriendlyName="Spionaggio"
 LocFlyOverText="Spionaggio"
 LocLongDescription="Questo soldato ha tempi di infiltrazione sensibilmente ridotti durante le missioni."
 LocHelpText="Questo soldato ha tempi di infiltrazione sensibilmente ridotti durante le missioni."
-LocPromotionPopupText="<Bullet/> Questo soldato ha tempi di infiltrazione sensibilmente ridotti durante le missioni.<br/>"
+LocPromotionPopupText="<Bullet/> Questo soldato ha tempi di infiltrazione sensibilmente ridotti durante le missioni.<br>"
 
 ;;;;;;;;;;;;;;;;;;;;  SPECIALIST ABILITIES ;;;;;;;;;;;;;;;;;;;;;;;
 
@@ -275,7 +275,7 @@ LocFriendlyName="Override completo"
 LocLongDescription="Assumi il controllo permanente di un'unità robotica, acquisendo potenzialmente un MEC ADVENT per la Resistenza."
 LocHelpText="Assumi il controllo permanente di un'unità robotica, acquisendo potenzialmente un MEC ADVENT per la Resistenza."
 LocFlyOverText="Override completo"
-LocPromotionPopupText="<Bullet/> Override completo è una violazione speciale utilizzabile contro i nemici robotici.<br/><Bullet/> Ha una carica che si consuma solo in caso di successo.<br/><Bullet/> Richiede un'azione e conclude il turno del soldato.<br/><Bullet/> La prima opzione di violazione, Comanda nemico, conferisce il controllo dell'unità robotica per il resto della missione.<br/><Bullet/> La seconda opzione di violazione, Domina nemico, conferisce a tutti i robot un bonus alle statistiche per il resto della missione e trasferisce permanentemente le unità MEC alla Resistenza.<br/><Bullet/> Se Domina nemico ha successo e il MEC e lo specialista sopravvivono alla missione, il MEC verrà riprogrammato e verrà trasferito in una base della Resistenza, dove sarà al servizio della ribellione. Non deve essere estratto alla fine della missione."
+LocPromotionPopupText="<Bullet/> Override completo è una violazione speciale utilizzabile contro i nemici robotici.<br><Bullet/> Ha una carica che si consuma solo in caso di successo.<br><Bullet/> Richiede un'azione e conclude il turno del soldato.<br><Bullet/> La prima opzione di violazione, Comanda nemico, conferisce il controllo dell'unità robotica per il resto della missione.<br><Bullet/> La seconda opzione di violazione, Domina nemico, conferisce a tutti i robot un bonus alle statistiche per il resto della missione e trasferisce permanentemente le unità MEC alla Resistenza.<br><Bullet/> Se Domina nemico ha successo e il MEC e lo specialista sopravvivono alla missione, il MEC verrà riprogrammato e verrà trasferito in una base della Resistenza, dove sarà al servizio della ribellione. Non deve essere estratto alla fine della missione."
 
 [BuffEnemy_FullOverride X2HackRewardTemplate]
 FriendlyName="Overdrive"
@@ -296,20 +296,20 @@ LocFriendlyName="Protettore"
 LocLongDescription="Le granate che non infliggono danni nel tuo slot per granate hanno un utilizzo bonus."
 LocHelpText="Le granate che non infliggono danni nel tuo slot per granate hanno un utilizzo bonus."
 LocFlyOverText="Protettore"
-LocPromotionPopupText="<Bullet/> Le granate che non infliggono danni, tranne le granate fantasma, possono essere usate con Protettore.<br/>"
+LocPromotionPopupText="<Bullet/> Le granate che non infliggono danni, tranne le granate fantasma, possono essere usate con Protettore.<br>"
 
 [HeavyOrdnance_LW X2AbilityTemplate]
 LocFriendlyName="Armamento pesante"
 LocLongDescription="Le granate che infliggono danni nel tuo slot delle granate ottengono un utilizzo bonus."
 LocHelpText="Le granate che infliggono danni nel tuo slot delle granate ottengono un utilizzo bonus."
 LocFlyOverText="Armamento pesante"
-LocPromotionPopupText="<Bullet/> Tutte le granate che infliggono danni sono influenzate da Armamento pesante.<br/>"
+LocPromotionPopupText="<Bullet/> Tutte le granate che infliggono danni sono influenzate da Armamento pesante.<br>"
 
 [HeavyOrdnanceV2 X2AbilityTemplate]
 LocFriendlyName="Armamento pesante"
 LocLongDescription="La granata nel tuo slot delle granate ottiene un utilizzo bonus."
 LocHelpText="La granata nel tuo slot delle granate ottiene un utilizzo bonus."
-LocPromotionPopupText="<Bullet/> Tutte le granate funzionano con Armamento pesante, anche quelle non offensive come gli scanner militari e le granate fumogene.<br/>"
+LocPromotionPopupText="<Bullet/> Tutte le granate funzionano con Armamento pesante, anche quelle non offensive come gli scanner militari e le granate fumogene.<br>"
 
 [Sapper X2AbilityTemplate]
 LocFriendlyName="Sabotatore"
@@ -323,7 +323,7 @@ LocFriendlyName="Ingegnere bellico"
 LocLongDescription="I tuoi esplosivi infliggono molti più danni ai ripari e ad altri elementi del campo di battaglia."
 LocHelpText="I tuoi esplosivi infliggono molti più danni all'ambiente."
 LocFlyOverText="Ingegnere bellico"
-LocPromotionPopupText="<Bullet/> Più potente di Sabotatore, Ingegnere bellico si somma a Sabotatore per massimizzare i danni ambientali, anche se una sola delle due abilità dovrebbe comunque distruggere molti ripari.<br/><Bullet/> Ingegnere bellico evita anche che i danni ambientali diminuiscano con la distanza dal centro dell'esplosione, permettendo di distruggere oggetti in un'area più ampia."
+LocPromotionPopupText="<Bullet/> Più potente di Sabotatore, Ingegnere bellico si somma a Sabotatore per massimizzare i danni ambientali, anche se una sola delle due abilità dovrebbe comunque distruggere molti ripari.<br><Bullet/> Ingegnere bellico evita anche che i danni ambientali diminuiscano con la distanza dal centro dell'esplosione, permettendo di distruggere oggetti in un'area più ampia."
 
 [NeedleGrenades X2AbilityTemplate]
 LocFriendlyName="Granate ad ago"
@@ -337,34 +337,34 @@ LocFriendlyName="Testate HEAT"
 LocLongDescription="Le tue granate ora perforano fino a 2 punti di armatura e ne danneggiano uno aggiuntivo."
 LocHelpText="Le tue granate ora perforano fino a 2 punti di armatura e ne danneggiano uno aggiuntivo."
 LocFlyOverText="Testate HEAT"
-LocPromotionPopupText="<Bullet/> Le tue granate ora perforano fino a 2 punti di armatura e ne danneggiano uno aggiuntivo.<br/>"
+LocPromotionPopupText="<Bullet/> Le tue granate ora perforano fino a 2 punti di armatura e ne danneggiano uno aggiuntivo.<br>"
 
 [Bombard_LW X2AbilityTemplate]
 LocFriendlyName="Bombardiere"
 LocLongDescription="Puoi lanciare o sparare granate con due caselle di gittata in più."
 LocHelpText="Puoi lanciare o sparare granate con due caselle di gittata in più."
 LocFlyOverText="Bombardiere"
-LocPromotionPopupText="<Bullet/> Le tue granate hanno 2 caselle di portata in più.<br/><Bullet/> Include le granate lanciate o sparate.<br/>"
+LocPromotionPopupText="<Bullet/> Le tue granate hanno 2 caselle di portata in più.<br><Bullet/> Include le granate lanciate o sparate.<br>"
 
 [BluescreenBombs X2AbilityTemplate]
 LocFriendlyName="Bombe Schermo blu"
 LocLongDescription="Le tue granate flashbang ora disorientano le unità robotiche e riducono la loro resistenza alla violazione."
 LocHelpText="Le tue granate flashbang ora disorientano le unità robotiche e riducono la loro resistenza alla violazione."
 LocFlyOverText="Bombe Schermo blu"
-LocPromotionPopupText="<Bullet/> Le tue granate flashbang ora disorientano le unità robotiche.<br/><Bullet/> Le tue granate flashbang riducono anche la loro resistenza alla violazione.<br/>"
+LocPromotionPopupText="<Bullet/> Le tue granate flashbang ora disorientano le unità robotiche.<br><Bullet/> Le tue granate flashbang riducono anche la loro resistenza alla violazione.<br>"
 
 [TandemWarheads X2AbilityTemplate]
 LocFriendlyName="Testate Tandem"
 LocLongDescription="Granate e razzi infliggono il massimo dei danni alle unità per l'estensione massima della loro area d'effetto."
 LocHelpText="Granate e razzi infliggono il massimo dei danni per l'estensione massima della loro area d'effetto."
 LocFlyOverText="Testate Tandem"
-LocPromotionPopupText="<Bullet/> Granate e razzi infliggono il massimo dei danni alle unità per l'estensione massima della loro area d'effetto.<br/><Bullet/> Non si applica ai danni ambientali."
+LocPromotionPopupText="<Bullet/> Granate e razzi infliggono il massimo dei danni alle unità per l'estensione massima della loro area d'effetto.<br><Bullet/> Non si applica ai danni ambientali."
 
 [GhostGrenade X2AbilityTemplate]
 LocFriendlyName="Granata fantasma"
 LocLongDescription="Una speciale granata fumogena che fa entrare in occultamento l'alleato bersaglio."
 LocHelpText="Occulta un singolo alleato XCOM."
-LocPromotionPopupText="<Bullet/> Questa abilità ha effetto solo su un singolo alleato bersaglio; gli altri alleati nella nuvola non vengono occultati ma ricevono il bonus alla Difesa.<br/><Bullet/> Usa un'azione e conclude il turno.<br/><Bullet/> Un uso per missione; le abilità che aggiungono cariche alla granata non forniscono bonus.<br/><Bullet/> Funziona solo con i soldati XCOM, perché i civili non sono addestrati nelle tecniche di occultamento.<br/><Bullet/> La piccola nube di fumo conferisce 20 Difesa; i bonus per il fumo denso non si applicano.<br/><Bullet/> Non entra nel lanciagranate standard XCOM, quindi deve essere lanciata a un alleato visibile.<br/><Bullet/> Il granatiere non può usare questa abilità quando è nascosto."
+LocPromotionPopupText="<Bullet/> Questa abilità ha effetto solo su un singolo alleato bersaglio; gli altri alleati nella nuvola non vengono occultati ma ricevono il bonus alla Difesa.<br><Bullet/> Usa un'azione e conclude il turno.<br><Bullet/> Un uso per missione; le abilità che aggiungono cariche alla granata non forniscono bonus.<br><Bullet/> Funziona solo con i soldati XCOM, perché i civili non sono addestrati nelle tecniche di occultamento.<br><Bullet/> La piccola nube di fumo conferisce 20 Difesa; i bonus per il fumo denso non si applicano.<br><Bullet/> Non entra nel lanciagranate standard XCOM, quindi deve essere lanciata a un alleato visibile.<br><Bullet/> Il granatiere non può usare questa abilità quando è nascosto."
 
 [VanishingAct X2AbilityTemplate]
 LocFriendlyName="Granata fantasma"
@@ -373,10 +373,10 @@ LocFlyOverText="Granata fantasma"
 
 [BiggestBooms_LW X2AbilityTemplate]
 LocFriendlyName="Grandi esplosioni"
-LocLongDescription="I tuoi attacchi con granate e razzi standard possono infliggere danni critici (<Ability:BIGGESTBOOMSCHANCE/>% di probabilità di infliggere +<Ability:BIGGESTBOOMSDAMAGE/> danni aggiuntivi)."
+LocLongDescription="I tuoi attacchi con granate e razzi standard possono infliggere danni critici (<Ability:BIGGESTBOOMSCHANCE>% di probabilità di infliggere +<Ability:BIGGESTBOOMSDAMAGE> danni aggiuntivi)."
 LocHelpText="Le tue granate, i razzi standard e i micromissili possono infliggere danni critici."
 LocFlyOverText="Grandi esplosioni"
-LocPromotionPopupText="<Bullet/> I tuoi attacchi con granate, razzi standard e micromissili da MEC possono infliggere danni critici (<Ability:BIGGESTBOOMSCHANCE/>% di probabilità di infliggere +<Ability:BIGGESTBOOMSDAMAGE/> danni aggiuntivi). <br/><Bullet/> Non si applica alle granate che non infliggono danni, al razzo dirompente o alle abilità Spaccabunker.<br/><Bullet/> I colpi critici con le granate garantiscono +1 danno aggiuntivo agli altri fattori che stanno danneggiando il bersaglio, come ad esempio il fuoco."
+LocPromotionPopupText="<Bullet/> I tuoi attacchi con granate, razzi standard e micromissili da MEC possono infliggere danni critici (<Ability:BIGGESTBOOMSCHANCE>% di probabilità di infliggere +<Ability:BIGGESTBOOMSDAMAGE> danni aggiuntivi). <br><Bullet/> Non si applica alle granate che non infliggono danni, al razzo dirompente o alle abilità Spaccabunker.<br><Bullet/> I colpi critici con le granate garantiscono +1 danno aggiuntivo agli altri fattori che stanno danneggiando il bersaglio, come ad esempio il fuoco."
 
 ;;;;;;;;;;;;;;;;;;;;  GUNNER ABILITIES ;;;;;;;;;;;;;;;;;;;;;;;
 
@@ -385,21 +385,21 @@ LocFriendlyName="Combattente col coltello"
 LocLongDescription="Puoi attaccare in mischia i nemici adiacenti con il tuo coltello."
 LocHelpText="Attacco col coltello"
 LocFlyOverText="Combattente col coltello"
-LocPromotionPopupText="<Bullet/> Gli attacchi con il coltello usano un'azione e non concludono il tuo turno.<br/>"
+LocPromotionPopupText="<Bullet/> Gli attacchi con il coltello usano un'azione e non concludono il tuo turno.<br>"
 
 [Combatives X2AbilityTemplate]
 LocFriendlyName="Agguerrito"
-LocLongDescription="Puoi parare gli attacchi in mischia e contrattaccare con il tuo coltello da combattimento. Ottieni anche +<ABILITY:COMBATIVES_DODGE_LW/> Schivata."
+LocLongDescription="Puoi parare gli attacchi in mischia e contrattaccare con il tuo coltello da combattimento. Ottieni anche +<Ability:COMBATIVES_DODGE_LW> Schivata."
 LocHelpText="Puoi parare gli attacchi in mischia e contrattaccare con il tuo coltello da combattimento."
 LocFlyOverText="Agguerrito"
-LocPromotionPopupText="<Bullet/> È molto probabile che tu pari il primo attacco in mischia ai tuoi danni, contrattaccando con il tuo coltello da combattimento.<br/><Bullet/> Il soldato ottiene anche <ABILITY:COMBATIVES_DODGE_LW/> Schivata."
+LocPromotionPopupText="<Bullet/> È molto probabile che tu pari il primo attacco in mischia ai tuoi danni, contrattaccando con il tuo coltello da combattimento.<br><Bullet/> Il soldato ottiene anche <Ability:COMBATIVES_DODGE_LW> Schivata."
 
 [Flush X2AbilityTemplate]
 LocFriendlyName="Spazzata"
 LocLongDescription="Un colpo speciale con un bonus alla mira, che infligge pochi danni o nessun danno ma conferisce penalità alla difesa e alla schivata del bersaglio e che, se va a segno, lo obbliga a cambiare posizione."
 LocHelpText="Un colpo speciale che infligge pochi o nessun danno ma conferisce penalità a difesa e schivata del bersaglio, obbligandolo anche a cambiare posizione."
 LocFlyOverText="Spazzata"
-LocPromotionPopupText="<Bullet/> Consuma <Ability:SelfAmmoCost/> unità di munizioni.<br/><Bullet/> Due turni di ricarica.<br/><Bullet/> +30 Mira bonus.<br/><Bullet/> Non può mettere a segno colpi critici o applicare i bonus delle munizioni.<br/><Bullet/> Il bersaglio subisce un malus di 10 alla difesa e 10 alla schivata fino all’inizio del prossimo turno XCOM."
+LocPromotionPopupText="<Bullet/> Consuma <Ability:SelfAmmoCost> unità di munizioni.<br><Bullet/> Due turni di ricarica.<br><Bullet/> +30 Mira bonus.<br><Bullet/> Non può mettere a segno colpi critici o applicare i bonus delle munizioni.<br><Bullet/> Il bersaglio subisce un malus di 10 alla difesa e 10 alla schivata fino all’inizio del prossimo turno XCOM."
 
 ;;;;;;;;;;;;;;;;;;;;  RANGER ABILITIES ;;;;;;;;;;;;;;;;;;;;;;;
 
@@ -408,34 +408,34 @@ LocFriendlyName="A bruciapelo"
 LocLongDescription="Spara con il fucile a canne mozze a un nemico vicino."
 LocHelpText="Spara con il fucile a canne mozze."
 LocFlyOverText="A bruciapelo"
-LocPromotionPopupText="<Bullet/> Perde rapidamente precisione oltre quattro caselle di gittata.<br/><Bullet/> Usa un'azione. Non conclude il turno.<br/><Bullet/> Il fucile a pompa ha due unità di munizioni.<br/>"
+LocPromotionPopupText="<Bullet/> Perde rapidamente precisione oltre quattro caselle di gittata.<br><Bullet/> Usa un'azione. Non conclude il turno.<br><Bullet/> Il fucile a pompa ha due unità di munizioni.<br>"
 
 [BothBarrels X2AbilityTemplate]
 LocFriendlyName="Doppia canna"
 LocLongDescription="Spara con entrambe le canne di un fucile a canne mozze a un nemico vicino, infliggendo il doppio dei danni."
 LocHelpText="Spara con entrambe le canne di un fucile a canne mozze a un nemico vicino, infliggendo il doppio dei danni."
 LocFlyOverText="Doppia canna"
-LocPromotionPopupText="<Bullet/> Spara con entrambe le canne di un fucile a canne mozze a un nemico vicino, infliggendo il doppio dei danni.<br/><Bullet/> Usa <Ability:SelfAmmoCost/> unità di munizioni.<br/><Bullet/> Usa un'azione. Non conclude il turno.<br/>"
+LocPromotionPopupText="<Bullet/> Spara con entrambe le canne di un fucile a canne mozze a un nemico vicino, infliggendo il doppio dei danni.<br><Bullet/> Usa <Ability:SelfAmmoCost> unità di munizioni.<br><Bullet/> Usa un'azione. Non conclude il turno.<br>"
 
 [PumpAction X2AbilityTemplate]
 LocFriendlyName="Azione a pompa"
 LocLongDescription="Ottieni due unità di munizioni in più nel tuo fucile a canne mozze."
 LocHelpText="Ottieni due unità di munizioni in più nel tuo fucile a canne mozze."
 LocFlyOverText="Azione a pompa"
-LocPromotionPopupText="<Bullet/> Ottieni due unità di munizioni in più nel tuo fucile a canne mozze.<br/>"
+LocPromotionPopupText="<Bullet/> Ottieni due unità di munizioni in più nel tuo fucile a canne mozze.<br>"
 
 [Fortify X2AbilityTemplate]
 LocFriendlyName="Fortifica"
-LocLongDescription="Attiva per conferire +<ABILITY:FORTIFY_DEFENSE_LW/> Difesa fino all'inizio del prossimo turno. Non costa un'azione. Ha <ABILITY:FORTIFY_COOLDOWN_LW/> turno/i di ricarica."
-LocHelpText="Attiva per conferire +<ABILITY:FORTIFY_DEFENSE_LW/> Difesa. Azione gratuita. <ABILITY:FORTIFY_COOLDOWN_LW/> turno/i di ricarica."
+LocLongDescription="Attiva per conferire +<Ability:FORTIFY_DEFENSE_LW> Difesa fino all'inizio del prossimo turno. Non costa un'azione. Ha <Ability:FORTIFY_COOLDOWN_LW> turno/i di ricarica."
+LocHelpText="Attiva per conferire +<Ability:FORTIFY_DEFENSE_LW> Difesa. Azione gratuita. <Ability:FORTIFY_COOLDOWN_LW> turno/i di ricarica."
 LocFlyOverText="Fortificata"
-LocPromotionPopUpText="<Bullet/> Attiva per conferire +<ABILITY:FORTIFY_DEFENSE_LW/> Difesa al soldato fino all'inizio del prossimo turno.<br/><Bullet/> Non costa un'azione. Ha <ABILITY:FORTIFY_COOLDOWN_LW/> turno/i di ricarica."
+LocPromotionPopUpText="<Bullet/> Attiva per conferire +<Ability:FORTIFY_DEFENSE_LW> Difesa al soldato fino all'inizio del prossimo turno.<br><Bullet/> Non costa un'azione. Ha <Ability:FORTIFY_COOLDOWN_LW> turno/i di ricarica."
 
 [CombatFitness X2AbilityTemplate]
 LocFriendlyName="Forma da combattimento"
-LocLongDescription="Ottieni <ABILITY:COMBAT_FITNESS_OFFENSE_LW/> Mira, <ABILITY:COMBAT_FITNESS_MOBILITY_LW/> Mobilità, <ABILITY:COMBAT_FITNESS_HP_LW/> HP, <ABILITY:COMBAT_FITNESS_WILL_LW/> Volontà e <ABILITY:COMBAT_FITNESS_DODGE_LW/> Schivata."
+LocLongDescription="Ottieni <Ability:COMBAT_FITNESS_OFFENSE_LW> Mira, <Ability:COMBAT_FITNESS_MOBILITY_LW> Mobilità, <Ability:COMBAT_FITNESS_HP_LW> HP, <Ability:COMBAT_FITNESS_WILL_LW> Volontà e <Ability:COMBAT_FITNESS_DODGE_LW> Schivata."
 LocHelpText="Questo soldato ha numerosi bonus alle statistiche."
-LocPromotionPopUpText="<Bullet/> Forma da combattimento fornisce <ABILITY:COMBAT_FITNESS_OFFENSE_LW/> Mira, <ABILITY:COMBAT_FITNESS_MOBILITY_LW/> Mobilità, <ABILITY:COMBAT_FITNESS_HP_LW/> HP, <ABILITY:COMBAT_FITNESS_WILL_LW/> Volontà e <ABILITY:COMBAT_FITNESS_DODGE_LW/> Schivata."
+LocPromotionPopUpText="<Bullet/> Forma da combattimento fornisce <Ability:COMBAT_FITNESS_OFFENSE_LW> Mira, <Ability:COMBAT_FITNESS_MOBILITY_LW> Mobilità, <Ability:COMBAT_FITNESS_HP_LW> HP, <Ability:COMBAT_FITNESS_WILL_LW> Volontà e <Ability:COMBAT_FITNESS_DODGE_LW> Schivata."
 
 [Sprinter X2AbilityTemplate]
 LocFriendlyName="Scattista"
@@ -447,7 +447,7 @@ LocPromotionPopUpText="<Bullet/> Scattista fornisce 1 di Mobilità bonus."
 LocFriendlyName="Ti potrebbe servire"
 LocLongDescription="Passa una pistola di scorta a un alleato civile."
 LocHelpText="Passa una pistola di scorta a un alleato civile vicino."
-LocPromotionPopupText="<Bullet/> Ogni volta che hai una pistola nella dotazione (di qualunque livello tecnologico), ne hai una convenzionale di scorta che puoi dare a un civile adiacente che non ne ha già una.<br/><Bullet/> La pistola di scorta non impone penalità di peso a questo soldato, ma l'alleato avrà una penalità di 1 alla Mobilità alla ricezione dell'arma.<br/><Bullet/> Nota: questa abilità non appare nell'interfaccia tattica se non la puoi usare."
+LocPromotionPopupText="<Bullet/> Ogni volta che hai una pistola nella dotazione (di qualunque livello tecnologico), ne hai una convenzionale di scorta che puoi dare a un civile adiacente che non ne ha già una.<br><Bullet/> La pistola di scorta non impone penalità di peso a questo soldato, ma l'alleato avrà una penalità di 1 alla Mobilità alla ricezione dell'arma.<br><Bullet/> Nota: questa abilità non appare nell'interfaccia tattica se non la puoi usare."
 
 ;;;;;;;;;;;;;;;;;;;;  SHARPSHOOTER ABILITIES ;;;;;;;;;;;;;;;;;;;;;;;
 
@@ -456,14 +456,14 @@ LocFriendlyName="Puntamento olografico"
 LocLongDescription="Punta olograficamente un nemico per conferire un bonus agli attacchi ai suoi danni, a te e ai tuoi alleati, per il resto del turno."
 LocHelpText="Punta olograficamente un nemico per conferire un bonus agli attacchi ai suoi danni."
 LocFlyOverText="Puntamento olografico"
-LocPromotionPopupText="<Bullet/> Puntamento olografico richiede una sola azione e non conclude automaticamente il turno.<br/><Bullet/> L'effetto di puntamento olografico dura un solo turno.<br/><Bullet/> Non possono accumularsi più puntamenti olografici.<br/><Bullet/> Il bonus alla Mira è di +<Ability:HOLO_CV_AIM_BONUS_LW/> per il Puntamento olografico base e migliora fino a +<Ability:HOLO_MG_AIM_BONUS_LW/> e +<Ability:HOLO_BM_AIM_BONUS_LW/> con tecnologie migliori.<br/><Bullet/> Puntamento olografico non rompe l'occultamento per te o per la tua squadra."
+LocPromotionPopupText="<Bullet/> Puntamento olografico richiede una sola azione e non conclude automaticamente il turno.<br><Bullet/> L'effetto di puntamento olografico dura un solo turno.<br><Bullet/> Non possono accumularsi più puntamenti olografici.<br><Bullet/> Il bonus alla Mira è di +<Ability:HOLO_CV_AIM_BONUS_LW> per il Puntamento olografico base e migliora fino a +<Ability:HOLO_MG_AIM_BONUS_LW> e +<Ability:HOLO_BM_AIM_BONUS_LW> con tecnologie migliori.<br><Bullet/> Puntamento olografico non rompe l'occultamento per te o per la tua squadra."
 
 [RapidTargeting X2AbilityTemplate]
 LocFriendlyName="Puntamento rapido"
-LocLongDescription="Puoi usare Puntamento olografico su un nemico come azione gratuita, con una ricarica di <Ability:RAPID_TARGETING_COOLDOWN_LW/> turni. Inoltre, Puntamento olografico non conclude il tuo turno."
+LocLongDescription="Puoi usare Puntamento olografico su un nemico come azione gratuita, con una ricarica di <Ability:RAPID_TARGETING_COOLDOWN_LW> turni. Inoltre, Puntamento olografico non conclude il tuo turno."
 LocHelpText="Attiva per usare Puntamento olografico su un nemico come azione gratuita."
 LocFlyOverText="Puntamento olografico"
-LocPromotionPopupText="<Bullet/> Usare Puntamento olografico non conclude più il tuo turno.<br/><Bullet/> Inoltre, Puntamento rapido ti permette periodicamente di usare Puntamento olografico su un singolo nemico come azione gratuita.<br/><Bullet/> Funziona con Olografia HD, Tracciamento indipendente e Bersaglio vitale.<br/><Bullet/> Non si accumula con Bersagli multipli.<br/><Bullet/> Questa abilità ha una ricarica di <Ability:RAPID_TARGETING_COOLDOWN_LW/> turno/i.<br/><Bullet/> Il Puntamento olografico non rompe l'occultamento della squadra."
+LocPromotionPopupText="<Bullet/> Usare Puntamento olografico non conclude più il tuo turno.<br><Bullet/> Inoltre, Puntamento rapido ti permette periodicamente di usare Puntamento olografico su un singolo nemico come azione gratuita.<br><Bullet/> Funziona con Olografia HD, Tracciamento indipendente e Bersaglio vitale.<br><Bullet/> Non si accumula con Bersagli multipli.<br><Bullet/> Questa abilità ha una ricarica di <Ability:RAPID_TARGETING_COOLDOWN_LW> turno/i.<br><Bullet/> Il Puntamento olografico non rompe l'occultamento della squadra."
 
 [RapidTargeting_Passive X2AbilityTemplate]
 LocFriendlyName="Puntamento rapido"
@@ -474,35 +474,35 @@ LocFriendlyName="Olografia HD"
 LocLongDescription="I bersagli puntati olograficamente sono più facili da colpire criticamente."
 LocHelpText="I bersagli puntati olograficamente sono più facili da colpire criticamente."
 LocFlyOverText="Olografia HD"
-LocPromotionPopupText="<Bullet/> Il bonus al colpo critico è di +<Ability:HDHOLO_CV_CRIT_BONUS_LW/> con il normale Puntamento olografico, ma migliora fino a +<Ability:HDHOLO_MG_CRIT_BONUS_LW/> e +<Ability:HDHOLO_BM_CRIT_BONUS_LW/> con i dispositivi per l'olografia avanzata.<br/>"
+LocPromotionPopupText="<Bullet/> Il bonus al colpo critico è di +<Ability:HDHOLO_CV_CRIT_BONUS_LW> con il normale Puntamento olografico, ma migliora fino a +<Ability:HDHOLO_MG_CRIT_BONUS_LW> e +<Ability:HDHOLO_BM_CRIT_BONUS_LW> con i dispositivi per l'olografia avanzata.<br>"
 
 [IndependentTracking X2AbilityTemplate]
 LocFriendlyName="Tracciamento indipendente"
-LocLongDescription="Un nemico con Puntamento olografico rimane nello stato per <Ability:INDEPENDENT_TRACKING_BONUS_TURNS_LW/> turno/i in più."
-LocHelpText="Un nemico con Puntamento olografico rimane nello stato per <Ability:INDEPENDENT_TRACKING_BONUS_TURNS_LW/> turno/i in più."
+LocLongDescription="Un nemico con Puntamento olografico rimane nello stato per <Ability:INDEPENDENT_TRACKING_BONUS_TURNS_LW> turno/i in più."
+LocHelpText="Un nemico con Puntamento olografico rimane nello stato per <Ability:INDEPENDENT_TRACKING_BONUS_TURNS_LW> turno/i in più."
 LocFlyOverText="Tracciamento indipendente"
-LocPromotionPopupText="<Bullet/> Un nemico con Puntamento olografico rimane nello stato per <Ability:INDEPENDENT_TRACKING_BONUS_TURNS_LW/> turno/i in più.<br/><Bullet/> Gli usi aggiuntivi di Puntamento olografico sullo stesso bersaglio non si accumulano.<br/>"
+LocPromotionPopupText="<Bullet/> Un nemico con Puntamento olografico rimane nello stato per <Ability:INDEPENDENT_TRACKING_BONUS_TURNS_LW> turno/i in più.<br><Bullet/> Gli usi aggiuntivi di Puntamento olografico sullo stesso bersaglio non si accumulano.<br>"
 
 [VitalPointTargeting X2AbilityTemplate]
 LocFriendlyName="Bersaglio vitale"
 LocLongDescription="Gli attacchi contro i nemici puntati olograficamente infliggono più danni."
 LocHelpText="Gli attacchi contro i nemici puntati olograficamente infliggono più danni."
 LocFlyOverText="Bersaglio vitale"
-LocPromotionPopupText="<Bullet/> Il bonus ai danni di Bersaglio vitale è di +<Ability:VITAL_POINT_CV_BONUS_DMG_LW/> con il normale Puntamento olografico, ma migliora fino a +<Ability:VITAL_POINT_BM_BONUS_DMG_LW/> con tecnologie migliorate di Puntamento olografico.<br/>"
+LocPromotionPopupText="<Bullet/> Il bonus ai danni di Bersaglio vitale è di +<Ability:VITAL_POINT_CV_BONUS_DMG_LW> con il normale Puntamento olografico, ma migliora fino a +<Ability:VITAL_POINT_BM_BONUS_DMG_LW> con tecnologie migliorate di Puntamento olografico.<br>"
 
 [Multitargeting X2AbilityTemplate]
 LocFriendlyName="Bersagli multipli"
-LocLongDescription="Puoi usare Puntamento olografico su più nemici con una ricarica di <Ability:MULTI_TARGETING_COOLDOWN_LW/> turno/i."
+LocLongDescription="Puoi usare Puntamento olografico su più nemici con una ricarica di <Ability:MULTI_TARGETING_COOLDOWN_LW> turno/i."
 LocHelpText="Usa Puntamento olografico su più nemici in un'area d'effetto."
 LocFlyOverText="Bersagli multipli"
-LocPromotionPopupText="<Bullet/> Olografia HD, Tracciamento indipendente e Bersaglio vitale si applicano a tutti i bersagli.<br/><Bullet/> L'area d'effetto è di <Ability:MULTI_HOLO_CV_RADIUS_LW/> caselle per il Puntamento olografico base e migliora fino a <Ability:MULTI_HOLO_MG_RADIUS_LW/> e <Ability:MULTI_HOLO_BM_RADIUS_LW/> caselle con tecnologie migliori.<br/><Bullet/> Questa abilità ha una ricarica di <Ability:MULTI_TARGETING_COOLDOWN_LW/> turno/i.<br/><Bullet/> Puntamento olografico non rompe l'occultamento della squadra."
+LocPromotionPopupText="<Bullet/> Olografia HD, Tracciamento indipendente e Bersaglio vitale si applicano a tutti i bersagli.<br><Bullet/> L'area d'effetto è di <Ability:MULTI_HOLO_CV_RADIUS_LW> caselle per il Puntamento olografico base e migliora fino a <Ability:MULTI_HOLO_MG_RADIUS_LW> e <Ability:MULTI_HOLO_BM_RADIUS_LW> caselle con tecnologie migliori.<br><Bullet/> Questa abilità ha una ricarica di <Ability:MULTI_TARGETING_COOLDOWN_LW> turno/i.<br><Bullet/> Puntamento olografico non rompe l'occultamento della squadra."
 
 [AlphaMikeFoxtrot X2AbilityTemplate]
 LocFriendlyName="Addio"
 LocFlyOverText="Addio"
-LocLongDescription="Infliggi <Ability:ALPHA_MIKE_FOXTROT_DAMAGE_LW/> danni base aggiuntivi con l'arma primaria."
-LocHelpText="Infliggi <Ability:ALPHA_MIKE_FOXTROT_DAMAGE_LW/> danni base aggiuntivi con l'arma primaria."
-LocPromotionPopupText="<Bullet/> Infliggi <Ability:ALPHA_MIKE_FOXTROT_DAMAGE_LW/> danni base aggiuntivi con l'arma primaria."
+LocLongDescription="Infliggi <Ability:ALPHA_MIKE_FOXTROT_DAMAGE_LW> danni base aggiuntivi con l'arma primaria."
+LocHelpText="Infliggi <Ability:ALPHA_MIKE_FOXTROT_DAMAGE_LW> danni base aggiuntivi con l'arma primaria."
+LocPromotionPopupText="<Bullet/> Infliggi <Ability:ALPHA_MIKE_FOXTROT_DAMAGE_LW> danni base aggiuntivi con l'arma primaria."
 
 ;;;;;;;;;;;;;;;;;;;;  ASSAULT ABILITIES ;;;;;;;;;;;;;;;;;;;;;;;
 
@@ -511,28 +511,28 @@ LocFriendlyName="Stordisci"
 LocLongDescription="Spara con il tuo storditore per mettere fuori combattimento un bersaglio."
 LocHelpText="Spara con lo storditore."
 LocFlyOverText="Stordisci"
-LocPromotionPopupText="<Bullet/> Lo storditore è efficace ovunque all'interno della portata visiva. Non infligge danni ma stordisce i bersagli per il turno successivo se va a segno.<br/><Bullet/> Le versioni migliorate possono estendere la durata dell'effetto di stordimento.<br/><Bullet/> Richiede un'azione e conclude il turno del soldato quando viene usato.<br/><Bullet/> Utilizzabile un turno sì e un turno no.<br/><Bullet/> Non funziona contro le unità meccanizzate, se il soldato non ha ricevuto un addestramento aggiuntivo."
+LocPromotionPopupText="<Bullet/> Lo storditore è efficace ovunque all'interno della portata visiva. Non infligge danni ma stordisce i bersagli per il turno successivo se va a segno.<br><Bullet/> Le versioni migliorate possono estendere la durata dell'effetto di stordimento.<br><Bullet/> Richiede un'azione e conclude il turno del soldato quando viene usato.<br><Bullet/> Utilizzabile un turno sì e un turno no.<br><Bullet/> Non funziona contro le unità meccanizzate, se il soldato non ha ricevuto un addestramento aggiuntivo."
 
 [EMPulser X2AbilityTemplate]
 LocFriendlyName="Storditore a impulsi"
 LocLongDescription="Spara con il tuo storditore a impulsi per mettere fuori combattimento un bersaglio e danneggiare i nemici meccanici."
 LocHelpText="Spara con il tuo storditore a impulsi."
 LocFlyOverText="Storditore a impulsi"
-LocPromotionPopupText="<Bullet/> Lo storditore è efficace ovunque all'interno della portata visiva. Non infligge danni ma stordisce i bersagli per il turno successivo se va a segno.<br/><Bullet/> Le versioni migliorate possono estendere la durata dell'effetto di stordimento.<br/><Bullet/> Richiede un'azione e conclude il turno del soldato quando viene usato.<br/><Bullet/> Si può usare un turno sì e un turno no.<br/><Bullet/> I danni alle unità meccanizzate cominciano da 3 e aumentano col migliorare della tecnologia dello storditore.<br/><Bullet/> Riduce la difesa dalla violazione dei nemici di 20.<br/>"
+LocPromotionPopupText="<Bullet/> Lo storditore è efficace ovunque all'interno della portata visiva. Non infligge danni ma stordisce i bersagli per il turno successivo se va a segno.<br><Bullet/> Le versioni migliorate possono estendere la durata dell'effetto di stordimento.<br><Bullet/> Richiede un'azione e conclude il turno del soldato quando viene usato.<br><Bullet/> Si può usare un turno sì e un turno no.<br><Bullet/> I danni alle unità meccanizzate cominciano da 3 e aumentano col migliorare della tecnologia dello storditore.<br><Bullet/> Riduce la difesa dalla violazione dei nemici di 20.<br>"
 
 [EMPulserPassive X2AbilityTemplate]
 LocFriendlyName="Storditore a impulsi"
 LocLongDescription="Il tuo storditore ora danneggia i nemici meccanici e riduce la loro difesa dai tentativi di violazione."
 LocHelpText="Spara con il tuo storditore a impulsi."
 LocFlyOverText="Storditore a impulsi"
-LocPromotionPopupText="<Bullet/> Lo storditore a impulsi è efficace ovunque all'interno della portata visiva. Non infligge danni ma stordisce i bersagli per il turno successivo se va a segno.<br/><Bullet/> Le versioni migliorate possono estendere la durata dell'effetto di stordimento.<br/><Bullet/> Richiede un'azione e conclude il turno del soldato quando viene usato.<br/><Bullet/> Si può usare un turno sì e un turno no.<br/><Bullet/> I danni alle unità meccanizzate cominciano da 3 e aumentano col migliorare della tecnologia dello storditore.<br/><Bullet/> Riduce la difesa dalla violazione dei nemici di 20.<br/>"
+LocPromotionPopupText="<Bullet/> Lo storditore a impulsi è efficace ovunque all'interno della portata visiva. Non infligge danni ma stordisce i bersagli per il turno successivo se va a segno.<br><Bullet/> Le versioni migliorate possono estendere la durata dell'effetto di stordimento.<br><Bullet/> Richiede un'azione e conclude il turno del soldato quando viene usato.<br><Bullet/> Si può usare un turno sì e un turno no.<br><Bullet/> I danni alle unità meccanizzate cominciano da 3 e aumentano col migliorare della tecnologia dello storditore.<br><Bullet/> Riduce la difesa dalla violazione dei nemici di 20.<br>"
 
 [Electroshock X2AbilityTemplate]
 LocFriendlyName="Elettroshock"
 LocLongDescription="Il tuo storditore disorienta il bersaglio quando non va a segno."
 LocHelpText="Il tuo storditore disorienta il bersaglio quando non va a segno."
 LocFlyOverText="Elettroshock"
-LocPromotionPopupText="<Bullet/> Un colpo mancato con lo storditore disorienta comunque i bersagli non robotici.<br/>"
+LocPromotionPopupText="<Bullet/> Un colpo mancato con lo storditore disorienta comunque i bersagli non robotici.<br>"
 
 [StunGunner X2AbilityTemplate]
 LocFriendlyName="Storditore accurato"
@@ -546,14 +546,14 @@ LocFriendlyName="Piazza pulita"
 LocLongDescription="Attacco a cono che garantisce danni aggiuntivi ai bersagli privi di armatura. La traiettoria viene bloccata da coperture complete."
 LocHelpText="Attacco a cono che garantisce danni aggiuntivi ai bersagli privi di armatura. La traiettoria viene bloccata da coperture complete."
 LocFlyOverText="Piazza pulita"
-LocPromotionPopupText="<Bullet/> Attacco a cono a medio raggio.<br/><Bullet/> La traiettoria viene bloccata da coperture complete.<br/><Bullet/> Utilizza un’azione e <Ability:SelfAmmoCost/> munizioni, e richiede 4 turni di ricarica.<br/><Bullet/> Garantisce 3 danni aggiuntivi contro bersagli privi di armature entro la traiettoria.<br/><Bullet/> Può essere utilizzata solo con fucili a pompa e relative versioni potenziate.<br/><Bullet/> Gli alleati possono essere feriti da questo attacco.<br/>"
+LocPromotionPopupText="<Bullet/> Attacco a cono a medio raggio.<br><Bullet/> La traiettoria viene bloccata da coperture complete.<br><Bullet/> Utilizza un’azione e <Ability:SelfAmmoCost> munizioni, e richiede 4 turni di ricarica.<br><Bullet/> Garantisce 3 danni aggiuntivi contro bersagli privi di armature entro la traiettoria.<br><Bullet/> Può essere utilizzata solo con fucili a pompa e relative versioni potenziate.<br><Bullet/> Gli alleati possono essere feriti da questo attacco.<br>"
 
 [ChainLightning X2AbilityTemplate]
 LocFriendlyName="Fulmine a catena"
 LocLongDescription="Spara con il tuo storditore a tutti i nemici visibili che possono essere storditi."
 LocHelpText="Spara con il tuo storditore a tutti i nemici visibili che possono essere storditi."
 LocFlyOverText="Fulmine a catena"
-LocPromotionPopupText="<Bullet/> Spara con il tuo storditore a tutti i nemici visibili che possono essere storditi.<br/><Bullet/> Richiede un'azione e conclude il tuo turno.<br/><Bullet/> Cinque turni di ricarica.<br/><Bullet/> Non utilizzabile quando il soldato è in occultamento."
+LocPromotionPopupText="<Bullet/> Spara con il tuo storditore a tutti i nemici visibili che possono essere storditi.<br><Bullet/> Richiede un'azione e conclude il tuo turno.<br><Bullet/> Cinque turni di ricarica.<br><Bullet/> Non utilizzabile quando il soldato è in occultamento."
 
 [Leadership X2AbilityTemplate]
 LocFriendlyName="Leadership"
@@ -573,7 +573,7 @@ LocPromotionPopupText="<Bullet/> Questo soldato ha servito con questo ufficiale 
 
 [PlaceDelayedEvacZone X2AbilityTemplate]
 LocFriendlyName="Chiama Skyranger"
-LocHelpText="Piazza una zona di evacuazione per i tuoi soldati. Lo Skyranger arriverà tra <Ability:EVACDELAY_LW/> turno/i."
+LocHelpText="Piazza una zona di evacuazione per i tuoi soldati. Lo Skyranger arriverà tra <Ability:EVACDELAY_LW> turno/i."
 
 [SmallItemWeight X2AbilityTemplate]
 LocFriendlyName="Peso dell'oggetto"
@@ -587,55 +587,55 @@ LocLongDescription="Fornisce un riparo alto ai compagni di squadra, ovunque tu s
 
 [Scope_LW_Bsc_Ability X2AbilityTemplate]
 LocFriendlyName="Mirino"
-LocLongDescription="Hai +<Ability:SCOPE_BSC_AIM_BONUS/> al tiro sui colpi non di reazione con la tua arma primaria."
+LocLongDescription="Hai +<Ability:SCOPE_BSC_AIM_BONUS> al tiro sui colpi non di reazione con la tua arma primaria."
 LocHelpText="Mirino: bonus al tiro sui colpi non di reazione"
 LocFlyOverText="Mirino"
 
 [Scope_LW_Adv_Ability X2AbilityTemplate]
 LocFriendlyName="Mirino avanzato"
-LocLongDescription="Hai +<Ability:SCOPE_ADV_AIM_BONUS/> al tiro sui colpi non di reazione con la tua arma primaria."
+LocLongDescription="Hai +<Ability:SCOPE_ADV_AIM_BONUS> al tiro sui colpi non di reazione con la tua arma primaria."
 LocHelpText="Mirino: bonus al tiro sui colpi non di reazione"
 LocFlyOverText="Mirino avanzato"
 
 [Scope_LW_Sup_Ability X2AbilityTemplate]
 LocFriendlyName="Mirino d'élite"
-LocLongDescription="Hai +<Ability:SCOPE_SUP_AIM_BONUS/> al tiro sui colpi non di reazione con la tua arma primaria."
+LocLongDescription="Hai +<Ability:SCOPE_SUP_AIM_BONUS> al tiro sui colpi non di reazione con la tua arma primaria."
 LocHelpText="Mirino: bonus al tiro sui colpi non di reazione"
 LocFlyOverText="Mirino d'élite"
 
 [Hair_Trigger_LW_Bsc_Ability X2AbilityTemplate]
 LocFriendlyName="Grilletto sensibile"
-LocLongDescription="Hai +<Ability:TRIGGER_BSC_AIM_BONUS/> al tiro sui colpi di reazione con la tua arma primaria."
+LocLongDescription="Hai +<Ability:TRIGGER_BSC_AIM_BONUS> al tiro sui colpi di reazione con la tua arma primaria."
 LocHelpText="Grilletto sensibile: bonus al tiro sui colpi di reazione"
 LocFlyOverText="Grilletto sensibile"
 
 [Hair_Trigger_LW_Adv_Ability X2AbilityTemplate]
 LocFriendlyName="Grilletto sensibile avanzato"
-LocLongDescription="Hai +<Ability:TRIGGER_ADV_AIM_BONUS/> al tiro sui colpi di reazione con la tua arma primaria."
+LocLongDescription="Hai +<Ability:TRIGGER_ADV_AIM_BONUS> al tiro sui colpi di reazione con la tua arma primaria."
 LocHelpText="Grilletto sensibile: bonus al tiro sui colpi di reazione"
 LocFlyOverText="Grilletto sensibile avanzato"
 
 [Hair_Trigger_LW_Sup_Ability X2AbilityTemplate]
 LocFriendlyName="Grilletto sensibile d'élite"
-LocLongDescription="Hai +<Ability:TRIGGER_SUP_AIM_BONUS/> al tiro sui colpi di reazione con la tua arma primaria."
+LocLongDescription="Hai +<Ability:TRIGGER_SUP_AIM_BONUS> al tiro sui colpi di reazione con la tua arma primaria."
 LocHelpText="Grilletto sensibile: bonus al tiro sui colpi di reazione"
 LocFlyOverText="Grilletto sensibile d'élite"
 
 [Stock_LW_Bsc_Ability X2AbilityTemplate]
 LocFriendlyName="Arma stabilizzata"
-LocLongDescription="Attiva l'abilità Arma stabilizzata per ottenere +<Ability:STOCK_BSC_SW_AIM_BONUS/> alla Mira e +<Ability:STOCK_BSC_SW_AIM_BONUS/> Probabilità di critico per il prossimo colpo con l'arma in uso. Il bonus si perde se usi azioni non di tiro o vieni ferito. Gli usi ripetuti accumulano il bonus."
+LocLongDescription="Attiva l'abilità Arma stabilizzata per ottenere +<Ability:STOCK_BSC_SW_AIM_BONUS> alla Mira e +<Ability:STOCK_BSC_SW_AIM_BONUS> Probabilità di critico per il prossimo colpo con l'arma in uso. Il bonus si perde se usi azioni non di tiro o vieni ferito. Gli usi ripetuti accumulano il bonus."
 LocHelpText="Arma stabilizzata: bonus al tiro per il prossimo colpo se non sei ferito e non hai eseguito altre azioni."
 LocFlyOverText="Arma stabilizzata"
 
 [Stock_LW_Adv_Ability X2AbilityTemplate]
 LocFriendlyName="Arma stabilizzata"
-LocLongDescription="Attiva l'abilità Arma stabilizzata per ottenere +<Ability:STOCK_ADV_SW_AIM_BONUS/> alla Mira e +<Ability:STOCK_ADV_SW_AIM_BONUS/> Probabilità di critico per il prossimo colpo con l'arma in uso. Il bonus si perde se usi azioni non di tiro o vieni ferito. Gli usi ripetuti accumulano il bonus."
+LocLongDescription="Attiva l'abilità Arma stabilizzata per ottenere +<Ability:STOCK_ADV_SW_AIM_BONUS> alla Mira e +<Ability:STOCK_ADV_SW_AIM_BONUS> Probabilità di critico per il prossimo colpo con l'arma in uso. Il bonus si perde se usi azioni non di tiro o vieni ferito. Gli usi ripetuti accumulano il bonus."
 LocHelpText="Arma stabilizzata: bonus al tiro per il prossimo colpo se non sei ferito e non hai eseguito altre azioni."
 LocFlyOverText="Arma stabilizzata"
 
 [Stock_LW_Sup_Ability X2AbilityTemplate]
 LocFriendlyName="Arma stabilizzata"
-LocLongDescription="Attiva l'abilità Arma stabilizzata per ottenere +<Ability:STOCK_SUP_SW_AIM_BONUS/> alla Mira e +<Ability:STOCK_SUP_SW_AIM_BONUS/> Probabilità di critico per il prossimo colpo con l'arma in uso. Il bonus si perde se usi azioni non di tiro o vieni ferito. Gli usi ripetuti accumulano il bonus."
+LocLongDescription="Attiva l'abilità Arma stabilizzata per ottenere +<Ability:STOCK_SUP_SW_AIM_BONUS> alla Mira e +<Ability:STOCK_SUP_SW_AIM_BONUS> Probabilità di critico per il prossimo colpo con l'arma in uso. Il bonus si perde se usi azioni non di tiro o vieni ferito. Gli usi ripetuti accumulano il bonus."
 LocHelpText="Arma stabilizzata: bonus al tiro per il prossimo colpo se non sei ferito e non hai eseguito altre azioni."
 LocFlyOverText="Arma stabilizzata"
 
@@ -660,8 +660,8 @@ LocHelpText="Infligge +2 danni ai bersagli non corazzati. +1 danno aggiuntivo a 
 [Redscreen_Rounds_Ability X2AbilityTemplate]
 LocFriendlyName="Proiettili Schermo rosso"
 LocFlyOverText="Proiettili Schermo rosso"
-LocLongDescription="Abbassa la difesa dalla violazione del bersaglio di <Ability:REDSCREEN_EFFECT_LW/> con ogni colpo."
-LocHelpText="Abbassa la difesa dalla violazione del bersaglio di <Ability:REDSCREEN_EFFECT_LW/> con ogni colpo."
+LocLongDescription="Abbassa la difesa dalla violazione del bersaglio di <Ability:REDSCREEN_EFFECT_LW> con ogni colpo."
+LocHelpText="Abbassa la difesa dalla violazione del bersaglio di <Ability:REDSCREEN_EFFECT_LW> con ogni colpo."
 
 [Stiletto_Rounds_Ability_PP X2AbilityTemplate]
 LocFriendlyName="Proiettili Stiletto"
@@ -801,7 +801,7 @@ FriendlyName="Pistola al plasma"
 FriendlyNamePlural="Pistole al plasma"
 UnknownUtilityCategory="Pistola"
 BriefSummary="La pistola definitiva. Questo design integra gli effetti devastanti e la tecnologia delle armi al plasma aliene."
-TacticalText="<Bullet/> Le pistole al plasma sono le più potenti della Terra.\n<Bullet/> Le pistole possono essere usate con una singola azione.\n<Bullet/> I soldati possono apprendere varie abilità che migliorano drasticamente l'uso delle pistole.\n<Bullet/> Le pistole perdono precisione sulle lunghe distanze.<br/><Bullet/> Le armi al plasma causano al bersaglio un ulteriore danno aggiuntivo ad ogni colpo."
+TacticalText="<Bullet/> Le pistole al plasma sono le più potenti della Terra.\n<Bullet/> Le pistole possono essere usate con una singola azione.\n<Bullet/> I soldati possono apprendere varie abilità che migliorano drasticamente l'uso delle pistole.\n<Bullet/> Le pistole perdono precisione sulle lunghe distanze.<br><Bullet/> Le armi al plasma causano al bersaglio un ulteriore danno aggiuntivo ad ogni colpo."
 
 [AlienHunterPistol_CV X2WeaponTemplate]
 UnknownUtilityCategory="Pistola"
@@ -811,39 +811,39 @@ UnknownUtilityCategory="Pistola"
 
 [AlienHunterPistol_BM X2WeaponTemplate]
 UnknownUtilityCategory="Pistola"
-TacticalText="<Bullet/> La potenza della pistola dell'ombra potenziata è paragonabile a quella di una pistola energetica, ma la mira e la probabilità di colpo critico sono più alte.\n<Bullet/> A differenza del fucile di precisione, le pistole possono essere usate con una singola azione.\n<Bullet/>Le uccisioni effettuate con l'abilità \"Calo dell'ombra\" occultano istantaneamente l'unità.<br/><Bullet/> Le armi al plasma causano al bersaglio un ulteriore danno aggiuntivo ad ogni colpo."
+TacticalText="<Bullet/> La potenza della pistola dell'ombra potenziata è paragonabile a quella di una pistola energetica, ma la mira e la probabilità di colpo critico sono più alte.\n<Bullet/> A differenza del fucile di precisione, le pistole possono essere usate con una singola azione.\n<Bullet/>Le uccisioni effettuate con l'abilità \"Calo dell'ombra\" occultano istantaneamente l'unità.<br><Bullet/> Le armi al plasma causano al bersaglio un ulteriore danno aggiuntivo ad ogni colpo."
 
 [SawedOffShotgun_CV X2WeaponTemplate]
 FriendlyName="Fucile a canne mozze"
 FriendlyNamePlural="Fucili a canne mozze"
 BriefSummary="Un'arma secondaria potente ma a breve gittata."
-TacticalText="<Bullet/> Adattamento di un'arma occultabile usata prima dell'invasione.<br/><Bullet/> Due colpi per missione, senza potenziamenti."
+TacticalText="<Bullet/> Adattamento di un'arma occultabile usata prima dell'invasione.<br><Bullet/> Due colpi per missione, senza potenziamenti."
 
 [SawedOffShotgun_MG X2WeaponTemplate]
 FriendlyName="Shorty magnetico"
 FriendlyNamePlural="Shorty magnetici"
 BriefSummary="Una versione potenziata del fucile a canne mozze, che incorpora tecnologie di accelerazione magnetica per aumentare i danni."
-TacticalText="<Bullet/> Una versione potenziata del fucile a canne mozze, che incorpora tecnologie di accelerazione magnetica per aumentare i danni.<br/><Bullet/> Due colpi per missione, senza potenziamenti.<br/>"
+TacticalText="<Bullet/> Una versione potenziata del fucile a canne mozze, che incorpora tecnologie di accelerazione magnetica per aumentare i danni.<br><Bullet/> Due colpi per missione, senza potenziamenti.<br>"
 
 [ArcThrower_CV X2WeaponTemplate]
 FriendlyName="Storditore"
 FriendlyNamePlural="Storditori"
 BriefSummary="Permette di stordire i nemici dalla distanza."
-TacticalText="<Bullet/> Questa arma non letale si basa su un progetto che abbiamo trovato nei vecchi archivi XCOM. Stranamente, al progetto mancava un componente chiave, ampiamente disponibile, che avrebbe controllato la dispersione energetica, consentendo l'uso anche fuori dagli scontri ravvicinati. Il nostro storditore è efficace entro la portata visiva, non infligge danni ma stordisce i bersagli per il turno successivo, se va a segno.<br/><Bullet/> Richiede un'azione e conclude il turno del soldato quando viene usato.<br/><Bullet/> Utilizzabile un turno sì e un turno no.<br/><Bullet/> Non funziona contro le unità meccanizzate, se il soldato non ha ricevuto un addestramento aggiuntivo."
+TacticalText="<Bullet/> Questa arma non letale si basa su un progetto che abbiamo trovato nei vecchi archivi XCOM. Stranamente, al progetto mancava un componente chiave, ampiamente disponibile, che avrebbe controllato la dispersione energetica, consentendo l'uso anche fuori dagli scontri ravvicinati. Il nostro storditore è efficace entro la portata visiva, non infligge danni ma stordisce i bersagli per il turno successivo, se va a segno.<br><Bullet/> Richiede un'azione e conclude il turno del soldato quando viene usato.<br><Bullet/> Utilizzabile un turno sì e un turno no.<br><Bullet/> Non funziona contro le unità meccanizzate, se il soldato non ha ricevuto un addestramento aggiuntivo."
 AbilityDescName="storditore"
 
 [ArcThrower_MG X2WeaponTemplate]
 FriendlyName="Storditore avanzato"
 FriendlyNamePlural="Storditori avanzati"
 BriefSummary="Permette di stordire i nemici dalla distanza."
-TacticalText="<Bullet/> Non infligge danni ma stordisce i bersagli per un turno e una parte di un secondo se va a segno.<br/><Bullet/> Richiede un'azione e conclude il turno del soldato quando viene usato.<br/><Bullet/> Un turno di ricarica.<br/><Bullet/> Non funziona contro le unità meccanizzate, se il soldato non ha ricevuto un addestramento aggiuntivo."
+TacticalText="<Bullet/> Non infligge danni ma stordisce i bersagli per un turno e una parte di un secondo se va a segno.<br><Bullet/> Richiede un'azione e conclude il turno del soldato quando viene usato.<br><Bullet/> Un turno di ricarica.<br><Bullet/> Non funziona contro le unità meccanizzate, se il soldato non ha ricevuto un addestramento aggiuntivo."
 AbilityDescName="storditore"
 
 [ArcThrower_BM X2WeaponTemplate]
 FriendlyName="Blaster ad arco"
 FriendlyNamePlural="Blaster ad arco"
 BriefSummary="Permette di stordire i nemici dalla distanza."
-TacticalText="<Bullet/> Non infligge danni ma stordisce i bersagli per due turni se va a segno.<br/><Bullet/> Richiede un'azione e conclude il turno del soldato quando viene usato.<br/><Bullet/> Un turno di ricarica.<br/><Bullet/> Non funziona contro le unità meccanizzate, se il soldato non ha ricevuto un addestramento aggiuntivo."
+TacticalText="<Bullet/> Non infligge danni ma stordisce i bersagli per due turni se va a segno.<br><Bullet/> Richiede un'azione e conclude il turno del soldato quando viene usato.<br><Bullet/> Un turno di ricarica.<br><Bullet/> Non funziona contro le unità meccanizzate, se il soldato non ha ricevuto un addestramento aggiuntivo."
 AbilityDescName="storditore"
 
 [Holotargeter_CV X2WeaponTemplate]
@@ -871,14 +871,14 @@ AbilityDescName="puntamento olografico"
 FriendlyName="Coltello da combattimento"
 FriendlyNamePlural="Coltelli da combattimento"
 BriefSummary="Arma da mischia per la difesa personale ravvicinata."
-TacticalText="<Bullet/> Arma leggera secondaria, per i mitraglieri che hanno problemi a puntare il cannone su un bersaglio vicino.<br/><Bullet/> Un attacco con il coltello richiede un'azione e non conclude il turno.<br/>"
+TacticalText="<Bullet/> Arma leggera secondaria, per i mitraglieri che hanno problemi a puntare il cannone su un bersaglio vicino.<br><Bullet/> Un attacco con il coltello richiede un'azione e non conclude il turno.<br>"
 AbilityDescName="coltello da combattimento"
 
 [CombatKnife_MG X2WeaponTemplate]
 FriendlyName="Vibrolama"
 FriendlyNamePlural="Vibrolame"
 BriefSummary="Pericolosa arma da mischia per la difesa personale ravvicinata."
-TacticalText="<Bullet/> Un attacco con il coltello richiede un'azione e non conclude il turno.<br/>"
+TacticalText="<Bullet/> Un attacco con il coltello richiede un'azione e non conclude il turno.<br>"
 AbilityDescName="coltello da combattimento"
 
 ; This should probably never really be seen as it's a "hidden" item like the XPad
@@ -902,35 +902,35 @@ FriendlyNamePlural="Fucili magnetici"
 FriendlyName="Fucile coil"
 FriendlyNamePlural="Fucili coil"
 BriefSummary="Una potente coilgun perforante a media distanza, adatta a ricoprire il ruolo di un fucile d'assalto."
-TacticalText="<Bullet/> Le armi coil perforano (ignorano) automaticamente 1 punto dell'armatura nemica.<br/><Bullet/> Sparare con l'arma primaria conclude sempre il turno di un soldato, se non ha ricevuto addestramenti speciali.<br/><Bullet/> Usa i potenziamenti recuperati dai nemici ADVENT per migliorare l'efficacia tattica del fucile coil.<br/>"
+TacticalText="<Bullet/> Le armi coil perforano (ignorano) automaticamente 1 punto dell'armatura nemica.<br><Bullet/> Sparare con l'arma primaria conclude sempre il turno di un soldato, se non ha ricevuto addestramenti speciali.<br><Bullet/> Usa i potenziamenti recuperati dai nemici ADVENT per migliorare l'efficacia tattica del fucile coil.<br>"
 AbilityDescName="fucile d'assalto"
 
 [Cannon_CG X2WeaponTemplate]
 FriendlyName="Cannone Gauss"
 FriendlyNamePlural="Cannoni Gauss"
 BriefSummary="Una coilgun automatica pesante con un'incredibile cadenza di fuoco."
-TacticalText="<Bullet/> Le armi coil perforano (ignorano) automaticamente 1 punto dell'armatura nemica.<br/><Bullet/> Il cannone ricopre il ruolo di un'arma automatica, ha più munizioni e infligge più danni del fucile equivalente, ma è ingombrante da trasportare.<br/><Bullet/> Usa i potenziamenti recuperati dai nemici ADVENT per migliorare l'efficacia tattica cannone Gauss.<br/>"
+TacticalText="<Bullet/> Le armi coil perforano (ignorano) automaticamente 1 punto dell'armatura nemica.<br><Bullet/> Il cannone ricopre il ruolo di un'arma automatica, ha più munizioni e infligge più danni del fucile equivalente, ma è ingombrante da trasportare.<br><Bullet/> Usa i potenziamenti recuperati dai nemici ADVENT per migliorare l'efficacia tattica cannone Gauss.<br>"
 AbilityDescName="cannone"
 
 [SniperRifle_CG X2WeaponTemplate]
 FriendlyName="Fucile Gauss a lunga gittata"
 FriendlyNamePlural="Fucili Gauss a lunga gittata"
 BriefSummary="Un fucile coil con gittata estesa, utilizzabile dai nostri tiratori scelti."
-TacticalText="<Bullet/> Le armi coil perforano (ignorano) automaticamente 1 punto dell'armatura nemica.<br/><Bullet/> I fucili di precisione richiedono solitamente entrambe le azioni, per sparare.\n<Bullet/> Meno efficaci da vicino, letali sulla distanza.\n<Bullet/> Usa i potenziamenti recuperati dai nemici per migliorare l'efficacia tattica del fucile Gauss a lunga gittata."
+TacticalText="<Bullet/> Le armi coil perforano (ignorano) automaticamente 1 punto dell'armatura nemica.<br><Bullet/> I fucili di precisione richiedono solitamente entrambe le azioni, per sparare.\n<Bullet/> Meno efficaci da vicino, letali sulla distanza.\n<Bullet/> Usa i potenziamenti recuperati dai nemici per migliorare l'efficacia tattica del fucile Gauss a lunga gittata."
 AbilityDescName="fucile di precisione"
 
 [Shotgun_CG X2WeaponTemplate]
 FriendlyName="Fucile a dispersione"
 FriendlyNamePlural="Fucili a dispersione"
 BriefSummary="Un'arma con tecnologia coil per gli scontri ravvicinati, che ricopre il ruolo di un fucile a pompa."
-TacticalText="<Bullet/> Le armi coil perforano (ignorano) automaticamente 1 punto dell'armatura nemica.<br/><Bullet/> Le armi in stile shotgun sono estremamente efficaci a distanza ravvicinata, ma perdono rapidamente precisione con l'aumentare della distanza.\n<Bullet/> Usa i potenziamenti recuperati dai nemici per migliorare l'efficacia tattica del fucile a dispersione."
+TacticalText="<Bullet/> Le armi coil perforano (ignorano) automaticamente 1 punto dell'armatura nemica.<br><Bullet/> Le armi in stile shotgun sono estremamente efficaci a distanza ravvicinata, ma perdono rapidamente precisione con l'aumentare della distanza.\n<Bullet/> Usa i potenziamenti recuperati dai nemici per migliorare l'efficacia tattica del fucile a dispersione."
 AbilityDescName="fucile a pompa"
 
 [SMG_CG X2WeaponTemplate]
 FriendlyName="Mitragliatore Coil"
 FriendlyNamePlural="Mitragliatore Coil"
 BriefSummary="Una versione leggera del fucile coil che spara colpi più piccoli ma garantisce più mobilità all'utente."
-TacticalText="<Bullet/> Le armi coil perforano (ignorano) automaticamente 1 punto dell'armatura nemica.<br/><Bullet/> Le armi in stile fucile mitragliatore offrono, rispetto ai fucili d'assalto, mobilità bonus, precisione negli scontri ravvicinati e occultamento, ma infliggono meno danni, hanno meno munizioni e subiscono penalità alla Precisione sulla lunga distanza.<br/>"
+TacticalText="<Bullet/> Le armi coil perforano (ignorano) automaticamente 1 punto dell'armatura nemica.<br><Bullet/> Le armi in stile fucile mitragliatore offrono, rispetto ai fucili d'assalto, mobilità bonus, precisione negli scontri ravvicinati e occultamento, ma infliggono meno danni, hanno meno munizioni e subiscono penalità alla Precisione sulla lunga distanza.<br>"
 AbilityDescName="Fucile mitragliatore"
 
 ;;;;;;;;;;;;;;;;;; GEAR LOC OVERRIDES ;;;;;;;;;;;;;;;;;;;;
@@ -960,17 +960,17 @@ TacticalText="<Bullet/> La tuta W.A.R. permette a un soldato di avere un'arma pe
 
 [FragGrenade X2GrenadeTemplate]
 BriefSummary="Una granata a frammentazione standard che colpisce i nemici con le schegge in una piccola area d'effetto. Efficace nella rimozione dell'armatura. Il danno diminuisce allontanandosi dal centro dell'area d'effetto."
-TacticalText="<Bullet/> Le granate a frammentazione sono utili per rimuovere o \"danneggiare\" l'armatura nemica.<br><Bullet/> Le granate a frammentazione sono efficaci contro i nemici ADVENT di basso livello, mentre quelli più avanzati sopravvivranno senza problemi.<br><Bullet/> Le granate possono distruggere l'equipaggiamento dei nemici, riducendo così la possibilità di recuperare materiali.<br/><Bullet/> Il danno diminuisce allontanandosi dal centro dell'area d'effetto. <br/><Bullet/> Le granate a frammentazione danneggiano l'ambiente solo in alcuni casi, se non vengono usate da un soldato con esperienza aggiuntiva."
+TacticalText="<Bullet/> Le granate a frammentazione sono utili per rimuovere o \"danneggiare\" l'armatura nemica.<br><Bullet/> Le granate a frammentazione sono efficaci contro i nemici ADVENT di basso livello, mentre quelli più avanzati sopravvivranno senza problemi.<br><Bullet/> Le granate possono distruggere l'equipaggiamento dei nemici, riducendo così la possibilità di recuperare materiali.<br><Bullet/> Il danno diminuisce allontanandosi dal centro dell'area d'effetto. <br><Bullet/> Le granate a frammentazione danneggiano l'ambiente solo in alcuni casi, se non vengono usate da un soldato con esperienza aggiuntiva."
 
 [AlienGrenade X2GrenadeTemplate]
 BriefSummary="Una granata dirompente potenziata da una tecnologia aliena a impulsi energetici. La granata al plasma infligge più danni delle normali granate a frammentazione ed è altrettanto efficace nel danneggiare l'armatura nemica. Il danno diminuisce allontanandosi dal centro dell'area d'effetto."
-TacticalText="<Bullet/> Le granate al plasma migliorano le potenzialità di danno della granata a frammentazione.<br/><Bullet/> Il danno diminuisce allontanandosi dal centro dell'area d'effetto.<br/><Bullet/> Le granate a frammentazione danneggiano l'ambiente solo in alcuni casi, se non vengono usate da un soldato con esperienza aggiuntiva."
+TacticalText="<Bullet/> Le granate al plasma migliorano le potenzialità di danno della granata a frammentazione.<br><Bullet/> Il danno diminuisce allontanandosi dal centro dell'area d'effetto.<br><Bullet/> Le granate a frammentazione danneggiano l'ambiente solo in alcuni casi, se non vengono usate da un soldato con esperienza aggiuntiva."
 
 [AcidGrenade X2GrenadeTemplate]
-TacticalText="<Bullet/> Le granate acide danneggiano le armature più delle granate standard.<br><Bullet/> I nemici bruciati dall'acido subiscono danni aggiuntivi nell'arco di più turni.<br><Bullet/> Il danno diminuisce allontanandosi dal centro dell'area d'effetto.<br/><Bullet/> Le unità colpite dalle granate ad acido subiranno anche danni extra dai colpi successivi per il resto della missione."
+TacticalText="<Bullet/> Le granate acide danneggiano le armature più delle granate standard.<br><Bullet/> I nemici bruciati dall'acido subiscono danni aggiuntivi nell'arco di più turni.<br><Bullet/> Il danno diminuisce allontanandosi dal centro dell'area d'effetto.<br><Bullet/> Le unità colpite dalle granate ad acido subiranno anche danni extra dai colpi successivi per il resto della missione."
 
 [AcidGrenadeMk2 X2GrenadeTemplate]
-TacticalText="<Bullet/> Le bombe acide danneggiano le armature nemiche più di qualunque altro tipo di granata.<br><Bullet/> I nemici bruciati dall'acido subiscono danni aggiuntivi nell'arco di più turni.<br><Bullet/> Il danno diminuisce allontanandosi dal centro dell'area d'effetto.<br/><Bullet/> Le unità colpite dalle granate ad acido subiranno anche danni extra dai colpi successivi per il resto della missione."
+TacticalText="<Bullet/> Le bombe acide danneggiano le armature nemiche più di qualunque altro tipo di granata.<br><Bullet/> I nemici bruciati dall'acido subiscono danni aggiuntivi nell'arco di più turni.<br><Bullet/> Il danno diminuisce allontanandosi dal centro dell'area d'effetto.<br><Bullet/> Le unità colpite dalle granate ad acido subiranno anche danni extra dai colpi successivi per il resto della missione."
 
 [GasGrenade X2GrenadeTemplate]
 TacticalText="<Bullet/> Le granate a gas hanno una portata più ampia di quelle normali a frammentazione.<br><Bullet/> Il veleno ha potenti effetti sui nemici organici, che vengono rallentati e subiscono danni nel tempo.<br><Bullet/> Il danno diminuisce allontanandosi dal centro dell'area d'effetto."
@@ -1006,63 +1006,63 @@ m_strRemoveUpgrade="RIMUOVI POTENZIAMENTO"
 [FreeFireUpgrade_Bsc X2WeaponUpgradeTemplate]
 FriendlyName="Grilletto sensibile"
 FriendlyNamePlural="Grilletti sensibili"
-BriefSummary="Il soldato ottiene <Ability:TRIGGER_BSC_AIM_BONUS/> di Mira bonus sui colpi di reazione."
+BriefSummary="Il soldato ottiene <Ability:TRIGGER_BSC_AIM_BONUS> di Mira bonus sui colpi di reazione."
 TinySummary="Bonus ai colpi di reazione"
 LootTooltip="Questo potenziamento per l'arma, se installato, aggiunge Mira bonus ai colpi di reazione."
 
 [FreeFireUpgrade_Adv X2WeaponUpgradeTemplate]
 FriendlyName="Grilletto sensibile avanzato"
 FriendlyNamePlural="Grilletti sensibili avanzati"
-BriefSummary="Il soldato ottiene <Ability:TRIGGER_ADV_AIM_BONUS/> di Mira bonus sui colpi di reazione."
+BriefSummary="Il soldato ottiene <Ability:TRIGGER_ADV_AIM_BONUS> di Mira bonus sui colpi di reazione."
 TinySummary="Bonus ai colpi di reazione"
 LootTooltip="Questo potenziamento per l'arma, se installato, aggiunge Mira bonus ai colpi di reazione."
 
 [FreeFireUpgrade_Sup X2WeaponUpgradeTemplate]
 FriendlyName="Grilletto sensibile d'élite"
 FriendlyNamePlural="Grilletti sensibili d'élite"
-BriefSummary="Il soldato ottiene <Ability:TRIGGER_SUP_AIM_BONUS/> di Mira bonus sui colpi di reazione."
+BriefSummary="Il soldato ottiene <Ability:TRIGGER_SUP_AIM_BONUS> di Mira bonus sui colpi di reazione."
 TinySummary="Bonus ai colpi di reazione"
 LootTooltip="Questo potenziamento per l'arma, se installato, aggiunge Mira bonus ai colpi di reazione."
 
 [AimUpgrade_Bsc X2WeaponUpgradeTemplate]
 FriendlyName="Mirino"
 FriendlyNamePlural="Mirini"
-BriefSummary="Aumenta di <Ability:SCOPE_BSC_AIM_BONUS/> la Mira sui colpi non di reazione."
+BriefSummary="Aumenta di <Ability:SCOPE_BSC_AIM_BONUS> la Mira sui colpi non di reazione."
 TinySummary="Mira aumentata (no reazione)"
 LootTooltip="Questo potenziamento conferisce un bonus alla Mira all'arma su cui è montato per i colpi non di reazione."
 
 [AimUpgrade_Adv X2WeaponUpgradeTemplate]
 FriendlyName="Mirino avanzato"
 FriendlyNamePlural="Mirini avanzati"
-BriefSummary="Aumenta di <Ability:SCOPE_ADV_AIM_BONUS/> la Mira sui colpi non di reazione."
+BriefSummary="Aumenta di <Ability:SCOPE_ADV_AIM_BONUS> la Mira sui colpi non di reazione."
 TinySummary="Mira aumentata (no reazione)"
 LootTooltip="Questo potenziamento conferisce un bonus alla Mira all'arma su cui è montato per i colpi non di reazione."
 
 [AimUpgrade_Sup X2WeaponUpgradeTemplate]
 FriendlyName="Mirino d'élite"
 FriendlyNamePlural="Mirini d'élite"
-BriefSummary="Aumenta di <Ability:SCOPE_SUP_AIM_BONUS/> la Mira sui colpi non di reazione."
+BriefSummary="Aumenta di <Ability:SCOPE_SUP_AIM_BONUS> la Mira sui colpi non di reazione."
 TinySummary="Mira aumentata (no reazione)"
 LootTooltip="Questo potenziamento conferisce un bonus alla Mira all'arma su cui è montato per i colpi non di reazione."
 
 [MissDamageUpgrade_Bsc X2WeaponUpgradeTemplate]
 FriendlyName="Cassa"
 FriendlyNamePlural="Casse"
-BriefSummary="Conferisce l'abilità Arma stabilizzata, che dà +<Ability:STOCK_BSC_SW_AIM_BONUS/> di Mira e +<Ability:STOCK_BSC_SW_AIM_BONUS/> di Probabilità di critico al prossimo colpo."
+BriefSummary="Conferisce l'abilità Arma stabilizzata, che dà +<Ability:STOCK_BSC_SW_AIM_BONUS> di Mira e +<Ability:STOCK_BSC_SW_AIM_BONUS> di Probabilità di critico al prossimo colpo."
 TinySummary="Conferisce Arma stabilizzata"
 LootTooltip="Questo potenziamento per l'arma, se installato, conferisce l'abilità Arma stabilizzata."
 
 [MissDamageUpgrade_Adv X2WeaponUpgradeTemplate]
 FriendlyName="Cassa avanzata"
 FriendlyNamePlural="Casse avanzate"
-BriefSummary="Conferisce l'abilità Arma stabilizzata, che dà +<Ability:STOCK_ADV_SW_AIM_BONUS/> di Mira e +<Ability:STOCK_ADV_SW_AIM_BONUS/> di Probabilità di critico al prossimo colpo."
+BriefSummary="Conferisce l'abilità Arma stabilizzata, che dà +<Ability:STOCK_ADV_SW_AIM_BONUS> di Mira e +<Ability:STOCK_ADV_SW_AIM_BONUS> di Probabilità di critico al prossimo colpo."
 TinySummary="Conferisce Arma stabilizzata"
 LootTooltip="Questo potenziamento per l'arma, se installato, conferisce l'abilità Arma stabilizzata."
 
 [MissDamageUpgrade_Sup X2WeaponUpgradeTemplate]
 FriendlyName="Cassa d'élite"
 FriendlyNamePlural="Casse d'élite"
-BriefSummary="Conferisce l'abilità Arma stabilizzata, che dà +<Ability:STOCK_SUP_SW_AIM_BONUS/> di Mira e +<Ability:STOCK_SUP_SW_AIM_BONUS/> di Probabilità di critico al prossimo colpo."
+BriefSummary="Conferisce l'abilità Arma stabilizzata, che dà +<Ability:STOCK_SUP_SW_AIM_BONUS> di Mira e +<Ability:STOCK_SUP_SW_AIM_BONUS> di Probabilità di critico al prossimo colpo."
 TinySummary="Conferisce Arma stabilizzata"
 LootTooltip="Questo potenziamento per l'arma, se installato, conferisce l'abilità Arma stabilizzata."
 
@@ -1107,8 +1107,8 @@ FriendlyNamePlural="Caricatori automatici d'élite"
 [NanofiberVest X2EquipmentTemplate]
 FriendlyName="Corpetto in nanoplacche"
 FriendlyNamePlural="Corpetti in nanoplacche"
-BriefSummary="Questo corpetto, una protezione leggera derivata dall'armatura ADVENT, può essere indossato con tutte le armature XCOM per aumentare la salute di <ABILITY:NANOFIBER_HEALTH_BONUS_LW/> punti vita e ridurre le probabilità mettere a segno un colpo critico del nemico di <ABILITY:NANOFIBER_CRITDEF_BONUS_LW/>."
-TacticalText="<Bullet/> Conferisce un aumento di <ABILITY:NANOFIBER_HEALTH_BONUS_LW/> punti vita alla salute del soldato.\n<Bullet/> I nemici hanno -<ABILITY:NANOFIBER_CRITDEF_BONUS_LW/> Probabilità di critico contro di te.\n<Bullet/> Si può indossare un solo elemento a piastre e un solo corpetto."
+BriefSummary="Questo corpetto, una protezione leggera derivata dall'armatura ADVENT, può essere indossato con tutte le armature XCOM per aumentare la salute di <Ability:NANOFIBER_HEALTH_BONUS_LW> punti vita e ridurre le probabilità mettere a segno un colpo critico del nemico di <Ability:NANOFIBER_CRITDEF_BONUS_LW>."
+TacticalText="<Bullet/> Conferisce un aumento di <Ability:NANOFIBER_HEALTH_BONUS_LW> punti vita alla salute del soldato.\n<Bullet/> I nemici hanno -<Ability:NANOFIBER_CRITDEF_BONUS_LW> Probabilità di critico contro di te.\n<Bullet/> Si può indossare un solo elemento a piastre e un solo corpetto."
 
 [PlatedVest X2EquipmentTemplate]
 FriendlyName="Corpetto tattico"
@@ -1125,7 +1125,7 @@ TacticalText="<Bullet/> Aumenta di 3 la salute del soldato.\n<Bullet/> Fornisce 
 [Hellweave X2EquipmentTemplate]
 FriendlyName="Corpetto Inferno"
 FriendlyNamePlural="Corpetto Inferno"
-BriefSummary="Il tessuto Inferno, oltre a conferire un bonus di +6 alla salute del soldato, infligge danni a chi lo attacca in mischia, con una probabilità del <Ability:HELLWEAVEPROCCHANCE/> % di incendiarlo."
+BriefSummary="Il tessuto Inferno, oltre a conferire un bonus di +6 alla salute del soldato, infligge danni a chi lo attacca in mischia, con una probabilità del <Ability:HELLWEAVEPROCCHANCE> % di incendiarlo."
 TacticalText="<Bullet/> Oltre a infliggere danni diretti a chi attacca in mischia, il tessuto Inferno ha una probabilità di incendiarli, con i relativi effetti disabilitanti.\n<Bullet/> Il tessuto Inferno conferisce anche 6 punti vita. <Bullet/> Si può indossare un solo elemento a piastre e un solo corpetto."
 
 ;;; New
@@ -1210,7 +1210,7 @@ FriendlyName="Piastre ceramiche"
 FriendlyNamePlural="Piastre ceramiche"
 UnknownUtilityCategory="Piastre"
 BriefSummary="Conferisce 2 punti di armatura ablativa."
-TacticalText="<Bullet/> Conferisce 2 punti di armatura ablativa.<br/><Bullet/> Dopo che sono stati persi, questi punti non possono essere recuperati per il resto della missione.<br/><Bullet/> La perdita di punti vita delle piastre ceramiche non aumenta la durata della ferita.\n<Bullet/> Si può indossare un solo elemento a piastre e un solo corpetto."
+TacticalText="<Bullet/> Conferisce 2 punti di armatura ablativa.<br><Bullet/> Dopo che sono stati persi, questi punti non possono essere recuperati per il resto della missione.<br><Bullet/> La perdita di punti vita delle piastre ceramiche non aumenta la durata della ferita.\n<Bullet/> Si può indossare un solo elemento a piastre e un solo corpetto."
 
 [ChameleonSuit X2EquipmentTemplate]
 FriendlyName="Tuta Camaleonte"
@@ -1223,54 +1223,54 @@ FriendlyName="Piastre di lega"
 FriendlyNamePlural="Piastre di lega"
 UnknownUtilityCategory="Piastre"
 BriefSummary="Conferisce 3 punti di armatura ablativa."
-TacticalText="<Bullet/> Conferisce 3 punti di armatura ablativa.<br/><Bullet/> Dopo che sono stati persi, questi punti non possono essere recuperati per il resto della missione.<br/><Bullet/> La perdita di punti vita ablativi non aumenta la durata della ferita.\n<Bullet/> Si può indossare un solo elemento a piastre e un solo corpetto."
+TacticalText="<Bullet/> Conferisce 3 punti di armatura ablativa.<br><Bullet/> Dopo che sono stati persi, questi punti non possono essere recuperati per il resto della missione.<br><Bullet/> La perdita di punti vita ablativi non aumenta la durata della ferita.\n<Bullet/> Si può indossare un solo elemento a piastre e un solo corpetto."
 
 [ChitinPlating X2EquipmentTemplate]
 FriendlyName="Piastre chitinose"
 FriendlyNamePlural="Piastre chitinose"
 UnknownUtilityCategory="Piastre"
 BriefSummary="Conferisce 4 punti di armatura ablativa."
-TacticalText="<Bullet/> Conferisce 4 punti di armatura ablativa.<br/><Bullet/> Dopo che sono stati persi, questi punti non possono essere recuperati per il resto della missione.<br/><Bullet/> La perdita di punti vita ablativi non aumenta la durata della ferita.\n<Bullet/> Si può indossare un solo elemento a piastre e un solo corpetto."
+TacticalText="<Bullet/> Conferisce 4 punti di armatura ablativa.<br><Bullet/> Dopo che sono stati persi, questi punti non possono essere recuperati per il resto della missione.<br><Bullet/> La perdita di punti vita ablativi non aumenta la durata della ferita.\n<Bullet/> Si può indossare un solo elemento a piastre e un solo corpetto."
 
 [CarapacePlating X2EquipmentTemplate]
 FriendlyName="Piastre carapace"
 FriendlyNamePlural="Piastre carapace"
 UnknownUtilityCategory="Piastre"
 BriefSummary="Conferisce 5 punti di armatura ablativa."
-TacticalText="<Bullet/> Conferisce 5 punti di armatura ablativa.<br/><Bullet/> Dopo che sono stati persi, questi punti non possono essere recuperati per il resto della missione.<br/><Bullet/> La perdita di punti vita ablativi non aumenta la durata della ferita.\n<Bullet/> Si può indossare un solo elemento a piastre e un solo corpetto."
+TacticalText="<Bullet/> Conferisce 5 punti di armatura ablativa.<br><Bullet/> Dopo che sono stati persi, questi punti non possono essere recuperati per il resto della missione.<br><Bullet/> La perdita di punti vita ablativi non aumenta la durata della ferita.\n<Bullet/> Si può indossare un solo elemento a piastre e un solo corpetto."
 
 [StilettoRounds X2AmmoTemplate]
 FriendlyName="Proiettili Stiletto"
 FriendlyNamePlural="Proiettili Stiletto"
 BriefSummary="Infligge +2 danni ai bersagli non robotici alieni. +1 danno aggiuntivo a tutti i nemici."
-TacticalText="<Bullet/> Infligge +2 danni ai bersagli non robotici alieni. +1 danno aggiuntivo a tutti i nemici.<br/><Bullet/> Si può usare un solo potenziamento per i proiettili."
+TacticalText="<Bullet/> Infligge +2 danni ai bersagli non robotici alieni. +1 danno aggiuntivo a tutti i nemici.<br><Bullet/> Si può usare un solo potenziamento per i proiettili."
 
 [FlechetteRounds X2AmmoTemplate]
 FriendlyName="Proiettili flechette"
 FriendlyNamePlural="Proiettili flechette"
 BriefSummary="Infligge +2 danni ai bersagli non corazzati. +1 danno aggiuntivo a tutti i nemici."
-TacticalText="<Bullet/> Infligge +2 danni ai bersagli non corazzati. +1 danno aggiuntivo a tutti i nemici.<br/><Bullet/> Si può usare un solo potenziamento per i proiettili."
+TacticalText="<Bullet/> Infligge +2 danni ai bersagli non corazzati. +1 danno aggiuntivo a tutti i nemici.<br><Bullet/> Si può usare un solo potenziamento per i proiettili."
 
 [RedScreenRounds X2AmmoTemplate]
 FriendlyName="Proiettili Schermo rosso"
 FriendlyNamePlural="Proiettili Schermo rosso"
 BriefSummary="Abbassa la difesa dalla violazione del bersaglio di 25 con ogni colpo."
-TacticalText="<Bullet/> Abbassa la difesa dalla violazione del nemico di 25 con ogni colpo.<br/><Bullet/> Si può usare un solo potenziamento per i proiettili."
+TacticalText="<Bullet/> Abbassa la difesa dalla violazione del nemico di 25 con ogni colpo.<br><Bullet/> Si può usare un solo potenziamento per i proiettili."
 
 [NeedleRounds X2AmmoTemplate]
 FriendlyName="Proiettili ad ago"
 FriendlyNamePlural="Proiettili ad ago"
 BriefSummary="Infligge +2 danni al personale non robotico ADVENT. +1 danno aggiuntivo a tutti i nemici."
-TacticalText="<Bullet/> Infligge +2 danni al personale non robotico ADVENT. +1 danno aggiuntivo a tutti i nemici.<br/><Bullet/> Si può usare un solo potenziamento per i proiettili."
+TacticalText="<Bullet/> Infligge +2 danni al personale non robotico ADVENT. +1 danno aggiuntivo a tutti i nemici.<br><Bullet/> Si può usare un solo potenziamento per i proiettili."
 
 [FalconRounds X2AmmoTemplate]
 FriendlyName="Proiettili Shredder"
 FriendlyNamePlural="Proiettili Shredder"
 BriefSummary="Danneggia 2 punto di armatura nemica con ogni colpo."
-TacticalText="<Bullet/> Danneggia 2 punto di armatura nemica con ogni colpo.<br/><Bullet/> Si può usare un solo potenziamento per i proiettili."
+TacticalText="<Bullet/> Danneggia 2 punto di armatura nemica con ogni colpo.<br><Bullet/> Si può usare un solo potenziamento per i proiettili."
 
 [APRounds X2AmmoTemplate]
-BriefSummary="Ricavati da leghe aliene ultraresistenti e ultraleggere, questi proiettili letali penetrano <Ability:APROUNDSPIERCEBONUS/> puntos di armatura nemica, infliggendo danni accentuati."
+BriefSummary="Ricavati da leghe aliene ultraresistenti e ultraleggere, questi proiettili letali penetrano <Ability:APROUNDSPIERCEBONUS> puntos di armatura nemica, infliggendo danni accentuati."
 
 [HighPressureTanks X2WeaponTemplate]
 FriendlyName="Serbatoi ad alta pressione"
@@ -2609,7 +2609,7 @@ ObjectiveTextPools[2]="Assalta le truppe nemiche"
 ObjectiveTextPools[3]="La ADVENT solitamente muove le sue forze in grandi gruppi, ma abbiamo trovato un'unità più piccola e vulnerabile. Un assalto con il giusto tempismo ostacolerebbe gli interessi della ADVENT nella regione e ci darebbe una rara opportunità di recuperare i cadaveri dei nemici per fini di ricerca."
 ; LWOTC Needs Translation
 ObjectiveTextPools[4]="LWOTC Gatecrasher"
-ObjectiveTextPools[5]="Welcome to the first mission of LWOTC!<br/><br/>The objective is simple: kill all the enemies.<br/><br/>Note that this is one of the few missions that allows for retrieval of enemy corpses, which are needed for research and building many items. Kills with explosives destroy corpses in LWOTC!"
+ObjectiveTextPools[5]="Welcome to the first mission of LWOTC!<br><br>The objective is simple: kill all the enemies.<br><br>Note that this is one of the few missions that allows for retrieval of enemy corpses, which are needed for research and building many items. Kills with explosives destroy corpses in LWOTC!"
 ; End Translation
 
 [CovertOpsTroopManeuvers_LW X2MissionTemplate]
@@ -2626,7 +2626,7 @@ ObjectiveTextPools[2]="Assalta le truppe nemiche"
 ObjectiveTextPools[3]="La ADVENT solitamente muove le sue forze in grandi gruppi, ma abbiamo trovato un'unità più piccola e vulnerabile. Un assalto con il giusto tempismo ostacolerebbe gli interessi della ADVENT nella regione e ci darebbe una rara opportunità di recuperare i cadaveri dei nemici per fini di ricerca."
 ; LWOTC Needs Translation
 ObjectiveTextPools[4]="LWOTC Gatecrasher"
-ObjectiveTextPools[5]="Welcome to the first mission of LWOTC!<br/><br/>The objective is simple: kill all the enemies.<br/><br/>Note that this is one of the few missions that allows for retrieval of enemy corpses, which are needed for research and building many items. Kills with explosives destroy corpses in LWOTC!"
+ObjectiveTextPools[5]="Welcome to the first mission of LWOTC!<br><br>The objective is simple: kill all the enemies.<br><br>Note that this is one of the few missions that allows for retrieval of enemy corpses, which are needed for research and building many items. Kills with explosives destroy corpses in LWOTC!"
 ; End Translation
 
 [Rendezvous_LW X2MissionTemplate]
@@ -2779,7 +2779,7 @@ GameplayTips_Tactical[12]="A difficoltà elevata, i nemici ogni tanto ottengono 
 +GameplayTips_Tactical[16]="I soldati possono indossare un elemento a piastre e un corpetto protettivo. Le piastre conferiscono punti vita ablativi che non possono essere curati ma non contano come ferite."
 +GameplayTips_Tactical[17]="I fucili mitragliatori sono meno potenti di altre armi primarie, ma conferiscono bonus a Mobilità e Infiltrazione."
 +GameplayTips_Tactical[18]="I soldati possono trasportare una pistola in uno slot di utilità. Le abilità con la pistola vengono addestrate nel centro bellico avanzato."
-+GameplayTips_Tactical[19]="L'attacco Fendente di uno shinobi richiede un'azione e non conclude il turno dello shinobi.<br/>"
++GameplayTips_Tactical[19]="L'attacco Fendente di uno shinobi richiede un'azione e non conclude il turno dello shinobi.<br>"
 +GameplayTips_Tactical[20]="Le abilità Protocollo di combattimento e Storditore a impulsi sono valide per contrastare i droni ADVENT."
 +GameplayTips_Tactical[21]="Gli UFO nemici sono estremamente ben difesi e devono essere affrontati con una squadra potente."
 +GameplayTips_Tactical[22]="Chiamare lo Skyranger per l'estrazione ora richiede più turni. Preparati a difendere il punto di estrazione."
@@ -2819,7 +2819,7 @@ TacticalText="<Bullet/> La precisione rende la balestra più potente di un norma
 TacticalText="<Bullet/> L'aggiunta di una carica magnetica aumenta i danni dei singoli dardi.\n<Bullet/> Ogni attacco ha una probabilità di stordire il bersaglio e annulla l'effetto della statistica di Schivata del bersaglio.\n<Bullet/> Gli alieni geneticamente potenziati sono altamente vulnerabili allo stordimento.\n<Bullet/> Spara un singolo proiettile che infligge danni ingenti, ma va ricaricata dopo ogni uso."
 
 [AlienHunterRifle_BM X2WeaponTemplate]
-TacticalText="<Bullet/> Un sistema di lancio all'elerium dà vita alla versione più letale della balestra.\n<Bullet/> Ogni attacco ha una probabilità di stordire il bersaglio e annulla l'effetto della statistica di Schivata del bersaglio.\n<Bullet/> Gli alieni geneticamente potenziati sono altamente vulnerabili allo stordimento.\n<Bullet/> Spara un singolo proiettile che infligge danni ingenti, ma va ricaricata dopo ogni uso.<br/><Bullet/> Le armi al plasma causano al bersaglio un ulteriore danno aggiuntivo ad ogni colpo."
+TacticalText="<Bullet/> Un sistema di lancio all'elerium dà vita alla versione più letale della balestra.\n<Bullet/> Ogni attacco ha una probabilità di stordire il bersaglio e annulla l'effetto della statistica di Schivata del bersaglio.\n<Bullet/> Gli alieni geneticamente potenziati sono altamente vulnerabili allo stordimento.\n<Bullet/> Spara un singolo proiettile che infligge danni ingenti, ma va ricaricata dopo ogni uso.<br><Bullet/> Le armi al plasma causano al bersaglio un ulteriore danno aggiuntivo ad ogni colpo."
 
 [Shadowfall X2AbilityTemplate]
 LocFriendlyName="Calo dell'ombra"
@@ -4403,7 +4403,7 @@ DescriptionEntry="Il pannello di gestione della Resistenza permette agli XCOM di
 [SquadManagement X2EncyclopediaTemplate]
 ListTitle="Gestione squadra"
 DescriptionTitle="Gestione squadra"
-DescriptionEntry="La gestione della squadra permette di creare e gestire gruppi di soldati che possono essere assegnati a una particolare missione. Le squadre seguono queste linee guida:<br/><Bullet/> A una squadra può essere assegnato un massimo di 10 soldati e le squadre possono essere scelte nell'interfaccia di selezione della squadra, subito prima di una missione.<br/><Bullet/> Se un membro della squadra è ferito, in addestramento o inadatto alla missione, puoi sostituirlo con un membro temporaneo scelto tra quelli non assegnati, missione per missione.<br/><Bullet/> Puoi anche creare una squadra tutta di membri non assegnati, prima di una missione. La squadra riceverà un nome (come riferimento sul planisfero) e verrà sciolta alla fine della missione.<br/><Bullet/> Per trasferire permanentemente un soldato da una squadra a un'altra, devi prima rimuoverlo dalla squadra attuale."
+DescriptionEntry="La gestione della squadra permette di creare e gestire gruppi di soldati che possono essere assegnati a una particolare missione. Le squadre seguono queste linee guida:<br><Bullet/> A una squadra può essere assegnato un massimo di 10 soldati e le squadre possono essere scelte nell'interfaccia di selezione della squadra, subito prima di una missione.<br><Bullet/> Se un membro della squadra è ferito, in addestramento o inadatto alla missione, puoi sostituirlo con un membro temporaneo scelto tra quelli non assegnati, missione per missione.<br><Bullet/> Puoi anche creare una squadra tutta di membri non assegnati, prima di una missione. La squadra riceverà un nome (come riferimento sul planisfero) e verrà sciolta alla fine della missione.<br><Bullet/> Per trasferire permanentemente un soldato da una squadra a un'altra, devi prima rimuoverlo dalla squadra attuale."
 
 [ExperiencePoints X2EncyclopediaTemplate]
 ListTitle="Esperienza dei soldati"
@@ -4489,7 +4489,7 @@ DescriptionEntry="Costruire ripetitori radio estende la portata entro la quale p
 DescriptionEntry="Il mercato nero fornisce l'accesso a un semplice negozio gestito da una rete di contrabbandieri che agiscono fuori dall'amministrazione ADVENT. Gli XCOM possono comprare materiali aggiuntivi usando le riserve. Gli oggetti non desiderati possono essere venduti."
 
 [Avenger X2EncyclopediaTemplate]
-DescriptionEntry="L'Avenger, il quartier generale mobile del progetto XCOM, era un tempo un mezzo di trasporto usato dagli alieni durante l'invasione. Abbattuto e disattivato da forze ignote, è stato abbandonato e poi ritrovato dal dottor Raymond Shen, che per primo ha proposto di metterlo al servizio del progetto XCOM. Nonostante molti aspetti della tecnologia aliena rimangano un mistero, la nave è ora sotto il controllo XCOM e si è dimostrata una risorsa cruciale per il redivivo movimento della Resistenza.<br/><br/>Uno dei compiti più importanti dell'Avenger consiste nell'assistere durante la scansione in cerca di missioni nelle varie regioni. Effettuare la scansione in un rifugio fornisce un bonus consistente ai dati ottenuti."
+DescriptionEntry="L'Avenger, il quartier generale mobile del progetto XCOM, era un tempo un mezzo di trasporto usato dagli alieni durante l'invasione. Abbattuto e disattivato da forze ignote, è stato abbandonato e poi ritrovato dal dottor Raymond Shen, che per primo ha proposto di metterlo al servizio del progetto XCOM. Nonostante molti aspetti della tecnologia aliena rimangano un mistero, la nave è ora sotto il controllo XCOM e si è dimostrata una risorsa cruciale per il redivivo movimento della Resistenza.<br><br>Uno dei compiti più importanti dell'Avenger consiste nell'assistere durante la scansione in cerca di missioni nelle varie regioni. Effettuare la scansione in un rifugio fornisce un bonus consistente ai dati ottenuti."
 
 [Concealment X2EncyclopediaTemplate]
 DescriptionEntry="Avendo accesso a risorse tattiche limitate, gli XCOM devono ricorrere a tecniche furtive, per avere la meglio sul nemico. Molte missioni iniziano con la squadra XCOM in occultamento. Evitando la portata di rilevamento dei nemici, gli XCOM possono rimanere nascosti fino al conseguimento dell'obiettivo. Vari fattori possono influenzare il raggio di rilevamento, tra cui le attrezzature trasportate dagli XCOM e le abilità apprese."
@@ -4543,11 +4543,11 @@ AbilityDescName="ascia"
 
 [Infiltration1Unlock X2SoldierUnlockTemplate]
 DisplayName="Infiltrazioni tattiche"
-Summary="Le infiltrazioni con squadre da 6 o 7 giocatori richiedono meno tempo.<br/><br/>Requisito speciale: questo potenziamento richiede un ufficiale di grado maggiore o superiore per lo sblocco."
+Summary="Le infiltrazioni con squadre da 6 o 7 giocatori richiedono meno tempo.<br><br>Requisito speciale: questo potenziamento richiede un ufficiale di grado maggiore o superiore per lo sblocco."
 
 [Infiltration2Unlock X2SoldierUnlockTemplate]
 DisplayName="Infiltrazioni di grandi unità"
-Summary="Le infiltrazioni con squadre da 8 o 10 giocatori richiedono meno tempo.<br/><br/>Requisito speciale: questo potenziamento richiede un ufficiale di grado colonnello o superiore per lo sblocco."
+Summary="Le infiltrazioni con squadre da 8 o 10 giocatori richiedono meno tempo.<br><br>Requisito speciale: questo potenziamento richiede un ufficiale di grado colonnello o superiore per lo sblocco."
 
 [UITodoWidget]
 DescLowScienceScoreText="Non ci sono abbastanza scienziati per iniziare la maggioranza dei progetti di ricerca. Costruisci, potenzia o assegna del personale a un laboratorio, oppure compra uno scienziato dal mercato nero."
@@ -4584,7 +4584,7 @@ DisplayName="Raid ADVENT riusciti:"
 FriendlyName="Carica cava"
 FriendlyNamePlural="Cariche cave"
 BriefSummary="Un carica esplosiva direzionale di piccole dimensioni ideale per abbattere muri."
-TacticalText="<Bullet/> La carica cava ha raggio limitato e non causa ferite, anche se caricata su un lanciagranate.<br/><Bullet/> E' molto rumorosa e metterà in allerta eventuali nemici nelle vicinanzne.<br/><Bullet/> Per quanto concerne le abilità, è trattata come una granata di supporto."
+TacticalText="<Bullet/> La carica cava ha raggio limitato e non causa ferite, anche se caricata su un lanciagranate.<br><Bullet/> E' molto rumorosa e metterà in allerta eventuali nemici nelle vicinanzne.<br><Bullet/> Per quanto concerne le abilità, è trattata come una granata di supporto."
 ThrownAbilityName="Piazza Carica Cava"
 ThrownAbilityHelpText="Distrugge muri e oggetti circostanti."
 LaunchedAbilityname="Lancia Carica Cava"
@@ -4659,10 +4659,10 @@ TimerSmashnGrabTitle="Rinforzi"
 TimerSmashNGrabSubTitle="Turni mancanti al contrattacco degli alieni"
 
 [Fuse X2AbilityTemplate]
-LocPromotionPopupText="<Bullet/> La spoletta richiede <Ability:SelfCooldown/> turni di ricarica.<br/>"
+LocPromotionPopupText="<Bullet/> La spoletta richiede <Ability:SelfCooldown> turni di ricarica.<br>"
 
 [BulletShred X2AbilityTemplate]
-LocLongDescription="Un colpo di rottura ha un’elevata probabilità di critico e garantisce che il bersaglio subisca +<Ability:RuptureAmount/> danni aggiuntivi da tutti gli attacchi successivi."
+LocLongDescription="Un colpo di rottura ha un’elevata probabilità di critico e garantisce che il bersaglio subisca +<Ability:RuptureAmount> danni aggiuntivi da tutti gli attacchi successivi."
 LocHelpText="Un colpo di rottura ha un’elevata probabilità di critico e garantisce che il bersaglio subisca danni aggiuntivi da tutti gli attacchi successivi."
 
 [CoupDeGrace2 X2AbilityTemplate]
@@ -4670,19 +4670,19 @@ LocFriendlyName="Colpo di grazia"
 LocFlyOverText="Colpo di grazia"
 LocLongDescription="Bonus alla mira, ai danni ed alla probabilità di critico con armi da mischia contro nemici disorientati, storditi o nel panico."
 LocHelpText="Bonus alla mira, ai danni ed alla probabilità di critico con armi da mischia contro nemici disorientati, storditi o nel panico."
-LocPromotionPopupText="<Bullet/> Il colpo di grazia conferisce un bonus di +50 alla mira, +50 alla probabilità di critico e +2 ai danni contro nemici storditi o nel panico.<br/><Bullet/> Conferisce bonus minori contro nemici disorientati."
+LocPromotionPopupText="<Bullet/> Il colpo di grazia conferisce un bonus di +50 alla mira, +50 alla probabilità di critico e +2 ai danni contro nemici storditi o nel panico.<br><Bullet/> Conferisce bonus minori contro nemici disorientati."
 
 [SoulSteal X2AbilityTemplate]
 LocLongDescription="Soulfire trasferisce metà del danno al soldato psionico oppure garantisce un punto di armatura ablativa se non sei ferito."
 LocHelpText="Soulfire cura un soldato ferito o garantisce un punto di armatura ablativa.
-LocPromotionPopupText="<Bullet/> Soul Steal restituisce ad un soldato ferito i punti vita persi oppure fornisce ad un soldato sano un punto di armatura ablativa.<br/><Bullet/> Un soldato non può ricevere più di 8 punti di armatura ablativa quando usa Soul Steal."
+LocPromotionPopupText="<Bullet/> Soul Steal restituisce ad un soldato ferito i punti vita persi oppure fornisce ad un soldato sano un punto di armatura ablativa.<br><Bullet/> Un soldato non può ricevere più di 8 punti di armatura ablativa quando usa Soul Steal."
 
 [Solace_LW X2AbilityTemplate]
 LocFriendlyName="Solace"
 LocFlyOverText="Solace"
 LocLongDescription="L'operatore psionico può annullare immediatamente gli stati mentali negativi di un alleato."
 LocHelpText="L'operatore psionico può annullare immediatamente gli stati mentali negativi di un alleato."
-LocPromotionPopupText="<Bullet/> Solace elimina gli stati disorientato, nel panico, controllo mentale e stordito.<br/>"
+LocPromotionPopupText="<Bullet/> Solace elimina gli stati disorientato, nel panico, controllo mentale e stordito.<br>"
 
 [GrenadeLauncher_MG X2GrenadeLauncherTemplate]
 BriefSummary="Il lanciagranate avanzato utilizza la tecnologia magnetica per aumentare la gittata rispetto al lanciagranate tradizionale."
@@ -4693,7 +4693,7 @@ LocFriendlyName="Vortice"
 LocLongDescription="Se vai a segno con un attacco in mischia durante il tuo turno, guadagni un’azione di movimento extra."
 LocHelpText=" Se vai a segno con un attacco in mischia durante il tuo turno, guadagni un’azione di movimento extra."
 LocFlyOverText="Vortice"
-LocPromotionPopupText="<Bullet/> Un soldato può guadagnare solo un’azione di movimento extra per turno con questa abilità.<br/><Bullet/> Non utilizzabile insieme a Mietitore.<br/>"
+LocPromotionPopupText="<Bullet/> Un soldato può guadagnare solo un’azione di movimento extra per turno con questa abilità.<br><Bullet/> Non utilizzabile insieme a Mietitore.<br>"
 
 [QuickStudy X2AbilityTemplate]
 LocFriendlyName="Studio Rapido"
@@ -4702,10 +4702,10 @@ LocHelpText="Apprendi le abilità di ufficiale ed i bonus del Centro di Guerrigl
 LocPromotionPopupText="<Bullet/> Apprendi le abilità di ufficiale ed i bonus del Centro di Guerriglia Avanzata in metà del tempo."
 
 [Faceoff X2AbilityTemplate]
-LocPromotionPopupText="<Bullet/> Duello funziona meglio se abbinato a una posizione aggressiva in campo, che dia più probabilità di colpire bersagli multipli.<br/><Bullet/> Duello ha una ricarica di <Ability:SelfCooldown/> turni.<br/><Bullet/> Non utilizzabile quando il soldato è in occultamento."
+LocPromotionPopupText="<Bullet/> Duello funziona meglio se abbinato a una posizione aggressiva in campo, che dia più probabilità di colpire bersagli multipli.<br><Bullet/> Duello ha una ricarica di <Ability:SelfCooldown> turni.<br><Bullet/> Non utilizzabile quando il soldato è in occultamento."
 
 [InTheZone X2AbilityTemplate]
-LocPromotionPopupText="<Bullet/> Serie serve a concatenare più uccisioni nemiche in una sola azione, perché le uccisioni sono sostanzialmente gratuite.<br/><Bullet/> Ogni uccisione riduce la Probabilità di critico, in compenso.<br/><Bullet/> Serie ha <Ability:SelfCooldown/> turni di ricarica.<br/><Bullet/> Ogni uccisione riduce il danno subito dai futuri colpi.<br/>"
+LocPromotionPopupText="<Bullet/> Serie serve a concatenare più uccisioni nemiche in una sola azione, perché le uccisioni sono sostanzialmente gratuite.<br><Bullet/> Ogni uccisione riduce la Probabilità di critico, in compenso.<br><Bullet/> Serie ha <Ability:SelfCooldown> turni di ricarica.<br><Bullet/> Ogni uccisione riduce il danno subito dai futuri colpi.<br>"
 
 [FlashbangGrenade X2GrenadeTemplate]
 TacticalText="<Bullet/> Le granate flashbang non infliggono danni, ma disorientano e sabotano i nemici in un ampio raggio.<br><Bullet/> I compagni di squadra alleati non subiscono l'effetto."
@@ -4713,7 +4713,7 @@ ThrownAbilityHelpText="Disorienta i nemici nell’area bersaglio."
 LaunchedAbilityHelpText=" Disorienta i nemici nell’area bersaglio."
 
 [CoveringFire X2AbilityTemplate]
-LocPromotionPopupText="<Bullet/> Se attivato da un'azione nemica, Fuoco di copertura si attiva prima del completamento dell'azione nemica.<br/><Bullet/> L’abilità Fuoco di Copertura  conferisce un temporaneo malus alla mira di ogni unità contro la quale viene sparato un colpo di reazione, indipendentemente se questo sia o meno un colpo di Fuoco di Copertura.<br/>"
+LocPromotionPopupText="<Bullet/> Se attivato da un'azione nemica, Fuoco di copertura si attiva prima del completamento dell'azione nemica.<br><Bullet/> L’abilità Fuoco di Copertura  conferisce un temporaneo malus alla mira di ogni unità contro la quale viene sparato un colpo di reazione, indipendentemente se questo sia o meno un colpo di Fuoco di Copertura.<br>"
 
 [XComGame.ThreatAssessment X2AbilityTemplate]
 [ThreatAssessment X2AbilityTemplate]
@@ -4725,7 +4725,7 @@ LocFriendlyName="Doppio colpo"
 LocFlyOverText="Doppio colpo"
 LocLongDescription="Una volta attivato, consente di sparare un colpo standard e utilizzare una seconda azione a scelta tra guardia ed un colpo aggiuntivo."
 LocHelpText="Spara un colpo standard, seguito da un’azione bonus (guardia oppure un secondo colpo)."
-LocPromotionPopupText="<Bullet/> Una volta attivato, consente di sparare un colpo standard e utilizzare una seconda azione a scelta tra guardia ed un colpo aggiuntivo.<br/><Bullet/> <Ability:SelfCooldown/> turni di ricarica.<br/>"
+LocPromotionPopupText="<Bullet/> Una volta attivato, consente di sparare un colpo standard e utilizzare una seconda azione a scelta tra guardia ed un colpo aggiuntivo.<br><Bullet/> <Ability:SelfCooldown> turni di ricarica.<br>"
 
 [DoubleTap2Bonus X2AbilityTemplate]
 LocFriendlyName="Doppio colpo"
@@ -4736,53 +4736,53 @@ LocFriendlyName="Protocollo di salvataggio"
 LocFlyoverText=" Protocollo di salvataggio "
 LocLongDescription="Utilizza il Gremlin per garantire un’azione di movimento bonus ad un alleato."
 LocHelpText="Conferisce un’azione di movimento bonus ad un alleato."
-LocPromotionPopupText="<Bullet/> Protocollo di salvataggio può essere utilizzato solo su alleati che hanno terminato le azioni.<br/><Bullet/> Non può essere utilizzato su unità in occultamento, in guardia o che stanno utilizzando il fuoco di soppressione.<br/><Bullet/> Un alleato non può beneficiare nello stesso turno dei bonus Comando e Protocollo di salvataggio.<br/><Bullet/> Utilizza un’azione.<br/><Bullet/> Il numero di utilizzi per missione aumenta con il potenziamento tecnologico dei Gremlin.<br/>
+LocPromotionPopupText="<Bullet/> Protocollo di salvataggio può essere utilizzato solo su alleati che hanno terminato le azioni.<br><Bullet/> Non può essere utilizzato su unità in occultamento, in guardia o che stanno utilizzando il fuoco di soppressione.<br><Bullet/> Un alleato non può beneficiare nello stesso turno dei bonus Comando e Protocollo di salvataggio.<br><Bullet/> Utilizza un’azione.<br><Bullet/> Il numero di utilizzi per missione aumenta con il potenziamento tecnologico dei Gremlin.<br>
 
 [AssaultRifle_BM X2WeaponTemplate]
-TacticalText="<Bullet/> Il fucile al plasma è un'arma versatile, ma anche un potentissimo sistema balistico per la fanteria.\n<Bullet/> Sparare con l'arma primaria conclude sempre il turno di un soldato.\n<Bullet/> Usa i potenziamenti recuperati dai nemici per migliorare l'efficacia tattica del fucile al plasma.<br/><Bullet/> Le armi al plasma causano al bersaglio un ulteriore danno aggiuntivo ad ogni colpo."
+TacticalText="<Bullet/> Il fucile al plasma è un'arma versatile, ma anche un potentissimo sistema balistico per la fanteria.\n<Bullet/> Sparare con l'arma primaria conclude sempre il turno di un soldato.\n<Bullet/> Usa i potenziamenti recuperati dai nemici per migliorare l'efficacia tattica del fucile al plasma.<br><Bullet/> Le armi al plasma causano al bersaglio un ulteriore danno aggiuntivo ad ogni colpo."
 
 [SniperRifle_BM X2WeaponTemplate]
-TacticalText="<Bullet/> L'apice della tecnologia dei fucili di precisione.\n<Bullet/> I fucili di precisione richiedono sempre entrambe le azioni, per sparare.\n<Bullet/> Meno efficaci da vicino, letali sulla distanza.\n<Bullet/> Usa i potenziamenti recuperati dai nemici per migliorare l'efficacia tattica del fucile di precisione al plasma.<br/><Bullet/> Le armi al plasma causano al bersaglio un ulteriore danno aggiuntivo ad ogni colpo."
+TacticalText="<Bullet/> L'apice della tecnologia dei fucili di precisione.\n<Bullet/> I fucili di precisione richiedono sempre entrambe le azioni, per sparare.\n<Bullet/> Meno efficaci da vicino, letali sulla distanza.\n<Bullet/> Usa i potenziamenti recuperati dai nemici per migliorare l'efficacia tattica del fucile di precisione al plasma.<br><Bullet/> Le armi al plasma causano al bersaglio un ulteriore danno aggiuntivo ad ogni colpo."
 
 [Shotgun_BM X2WeaponTemplate]
-TacticalText="<Bullet/> Questa è l'arma in stile fucile a pompa più avanzata dell'arsenale XCOM.\n<Bullet/> Le armi in stile fucile a pompa sono estremamente efficaci a distanza ravvicinata, ma perdono rapidamente precisione con l'aumentare della distanza.\n<Bullet/> Usa i potenziamenti recuperati dai nemici per migliorare l'efficacia tattica del cannone Storm.<br/><Bullet/> Le armi al plasma causano al bersaglio un ulteriore danno aggiuntivo ad ogni colpo."
+TacticalText="<Bullet/> Questa è l'arma in stile fucile a pompa più avanzata dell'arsenale XCOM.\n<Bullet/> Le armi in stile fucile a pompa sono estremamente efficaci a distanza ravvicinata, ma perdono rapidamente precisione con l'aumentare della distanza.\n<Bullet/> Usa i potenziamenti recuperati dai nemici per migliorare l'efficacia tattica del cannone Storm.<br><Bullet/> Le armi al plasma causano al bersaglio un ulteriore danno aggiuntivo ad ogni colpo."
 
 [PlasmaBlaster X2WeaponTemplate]
-TacticalText="<Bullet/> Il proiettore al plasma rilascia un raggio di energia devastante in linea retta, in grado di danneggiare più bersagli.\n<Bullet/> Le munizioni sono limitate, quindi usalo solo quando può rivelarsi decisivo.<br/><Bullet/> Le armi al plasma causano al bersaglio un ulteriore danno aggiuntivo ad ogni colpo."
+TacticalText="<Bullet/> Il proiettore al plasma rilascia un raggio di energia devastante in linea retta, in grado di danneggiare più bersagli.\n<Bullet/> Le munizioni sono limitate, quindi usalo solo quando può rivelarsi decisivo.<br><Bullet/> Le armi al plasma causano al bersaglio un ulteriore danno aggiuntivo ad ogni colpo."
 
 [SparkRifle_BM X2WeaponTemplate]
-TacticalText="<Bullet/> Il cannone fasico all'elerium, progettato appositamente per infliggere il massimo dei danni con gli SPARK, è l'apice della tecnologia dei fucili.\n<Bullet/> Sparare con l'arma primaria conclude sempre il turno di un soldato, se non ha ricevuto addestramenti speciali.<br/><Bullet/> Le armi al plasma causano al bersaglio un ulteriore danno aggiuntivo ad ogni colpo."
+TacticalText="<Bullet/> Il cannone fasico all'elerium, progettato appositamente per infliggere il massimo dei danni con gli SPARK, è l'apice della tecnologia dei fucili.\n<Bullet/> Sparare con l'arma primaria conclude sempre il turno di un soldato, se non ha ricevuto addestramenti speciali.<br><Bullet/> Le armi al plasma causano al bersaglio un ulteriore danno aggiuntivo ad ogni colpo."
 
 [Overdrive X2AbilityTemplate]
 LocFriendlyName="Overdrive"
 LocLongDescription="Esegui tre azioni che non concludono il turno corrente. Sparare più Colpi standard può causare una piccola penalità per il rinculo."
 LocHelpText="Esegui tre azioni che non concludono il turno corrente. Sparare più Colpi standard può causare una piccola penalità per il rinculo."
-LocPromotionPopupText="<Bullet/> Una penalità di rinculo di <Ability:Overdrive_RecoilPenalty/>punti percentuali alla Mira si applica a tutti i Colpi standard mentre Overdrive è attivo.<br/><Bullet/> Overdrive si attiva gratuitamente ma ha una ricarica di <Ability:SelfCooldown_LW/> turni.<br/>"
+LocPromotionPopupText="<Bullet/> Una penalità di rinculo di <Ability:Overdrive_RecoilPenalty>punti percentuali alla Mira si applica a tutti i Colpi standard mentre Overdrive è attivo.<br><Bullet/> Overdrive si attiva gratuitamente ma ha una ricarica di <Ability:SelfCooldown_LW> turni.<br>"
 
 [Bulwark X2AbilityTemplate]
 LocFriendlyName="Bastione"
 LocLongDescription="Ottiene un punto bonus di Armatura e fornisce sempre un riparo alto a tutti i compagni di squadra adiacenti."
 LocHelpText="Ottiene un punto bonus di Armatura e fornisce sempre un riparo alto a tutti i compagni di squadra adiacenti."
-LocPromotionPopupText="<Bullet/> Bastione aggiunge un punto di Armatura.<br/><Bullet/> I compagni di squadra adiacenti all'unità SPARK ottengono il bonus difensivo di un riparo alto.<br/>"
+LocPromotionPopupText="<Bullet/> Bastione aggiunge un punto di Armatura.<br><Bullet/> I compagni di squadra adiacenti all'unità SPARK ottengono il bonus difensivo di un riparo alto.<br>"
 
 [Arsenal X2AbilityTemplate]
 LocFriendlyName="Arsenale"
 LocLongDescription="Il BIT può montare e usare armi pesanti."
 LocHelpText="Il BIT può montare e usare armi pesanti."
-LocPromotionPopupText="<Bullet/> Arsenale consente allo SPARK di montare armi pesanti.<br/>"
+LocPromotionPopupText="<Bullet/> Arsenale consente allo SPARK di montare armi pesanti.<br>"
 
 [Rainmaker X2AbilityTemplate]
 LocFriendlyName="Abbondanza"
-LocLongDescription="Le armi pesanti in uso infliggono +<Ability:Rainmaker_BonusDamage/> danni e hanno un'area d'effetto più ampia."
+LocLongDescription="Le armi pesanti in uso infliggono +<Ability:Rainmaker_BonusDamage> danni e hanno un'area d'effetto più ampia."
 LocHelpText="Le armi pesanti in uso infliggono più danni in un'area più ampia."
-LocPromotionPopupText="<Bullet/> Abbondanza aggiunge +<Ability:Rainmaker_BonusDamage/> danni a tutte le armi pesanti.<br/><Bullet/> Le armi pesanti con aree d'effetto circolari aumentano il raggio di azione di +<Ability:Rainmaker_BonusRadius/>.<br/><Bullet/> Le armi pesanti con area d'effetto conica aumentano il diametro di azione di +<Ability:Rainmaker_BonusDiameter/> e la distanza di +<Ability:Rainmaker_BonusLength/>.<br/>"
+LocPromotionPopupText="<Bullet/> Abbondanza aggiunge +<Ability:Rainmaker_BonusDamage> danni a tutte le armi pesanti.<br><Bullet/> Le armi pesanti con aree d'effetto circolari aumentano il raggio di azione di +<Ability:Rainmaker_BonusRadius>.<br><Bullet/> Le armi pesanti con area d'effetto conica aumentano il diametro di azione di +<Ability:Rainmaker_BonusDiameter> e la distanza di +<Ability:Rainmaker_BonusLength>.<br>"
 
 [Intimidate X2AbilityTemplate]
 LocFriendlyName="Intimidazione"
 LocLongDescription="Quando viene bersagliato da un attacco, c'è una probabilità che il nemico vada nel panico."
 LocHelpText="Quando viene bersagliato da un attacco, c'è una probabilità che il nemico vada nel panico."
 LocFlyOverText="Intimidazione"
-LocPromotionPopupText="<Bullet/> Le probabilità di Intimidazione di causare il panico aumentano con i livelli più alti delle armature dello SPARK.<br/><Bullet/> Intimidazione può attivarsi con gli attacchi in mischia e con quelli ad area.<br/><Bullet/> Intimidazione non si attiva con il fuoco dei colpi di Guardia.<br/>"
+LocPromotionPopupText="<Bullet/> Le probabilità di Intimidazione di causare il panico aumentano con i livelli più alti delle armature dello SPARK.<br><Bullet/> Intimidazione può attivarsi con gli attacchi in mischia e con quelli ad area.<br><Bullet/> Intimidazione non si attiva con il fuoco dei colpi di Guardia.<br>"
 
 [IntimidateTrigger X2AbilityTemplate]
 LocFriendlyName="Intimidazione"
@@ -4797,57 +4797,57 @@ LocFriendlyName="RIPARA"
 LocLongDescription="Invia il BIT a riparare un alleato robotico danneggiato. I BIT avanzati riparano un po' di più."
 LocHelpText="Invia il BIT a riparare un alleato robotico danneggiato."
 LocFlyOverText="Ripara"
-LocPromotionPopupText="<Bullet/> Ripara ripristina <Ability:Repair_HealHP/> salute.<br/><Bullet/> Potenzia il tuo BIT per riparare più PV.<br/><Bullet/> Usare Ripara come prima azione non conclude il turno.<br/><Bullet/> Ripara ha <Ability:Repair_Charges/> cariche per missione.<br/>"
+LocPromotionPopupText="<Bullet/> Ripara ripristina <Ability:Repair_HealHP> salute.<br><Bullet/> Potenzia il tuo BIT per riparare più PV.<br><Bullet/> Usare Ripara come prima azione non conclude il turno.<br><Bullet/> Ripara ha <Ability:Repair_Charges> cariche per missione.<br>"
 
 [AbsorptionField X2AbilityTemplate]
 LocFriendlyName="Campo canalizzante"
 LocLongDescription="Ogni volta che vieni attaccato, parte dell'energia viene incanalata nell'arma <Ability:WeaponName>. L'energia viene scaricata con il Colpo standard successivo."
 LocHelpText="Incanala l'energia nell'arma <Ability:WeaponName> quando vieni attaccato, scaricandola con il Colpo normale successivo."
 LocFlyOverText="Energia canalizzata: +1"
-LocPromotionPopupText="<Bullet/> Ogni punto di energia incanalato da Campo canalizzante aumenta di 1 i danni del successivo attacco con l'arma <Ability:WeaponName>.<br/><Bullet/> L'energia immagazzinata dalla canalizzazione viene consumata anche se il colpo va a vuoto.<br/>"
+LocPromotionPopupText="<Bullet/> Ogni punto di energia incanalato da Campo canalizzante aumenta di 1 i danni del successivo attacco con l'arma <Ability:WeaponName>.<br><Bullet/> L'energia immagazzinata dalla canalizzazione viene consumata anche se il colpo va a vuoto.<br>"
 
 [Sacrifice X2AbilityTemplate]
 LocFriendlyName="Sacrificio"
 LocLongDescription="Crea un campo protettivo che ridirige verso di te tutti gli attacchi rivolti agli alleati al suo interno. Ottieni un bonus a Difesa e Armatura mentre l'effetto è attivo."
 LocHelpText="Genera un campo protettivo che ridirige verso di te gli attacchi nemici."
 LocFlyOverText="Sacrificio"
-LocPromotionPopupText="<Bullet/> Lo SPARK ottiene +<Ability:Sacrifice_Defense/> difesa e +<Ability:Sacrifice_Armor/> armatura mentre Sacrificio è attivo.<br/><Bullet/> Sacrificio ha <Ability:SelfCooldown_LW/> turni di ricarica.<br/>"
+LocPromotionPopupText="<Bullet/> Lo SPARK ottiene +<Ability:Sacrifice_Defense> difesa e +<Ability:Sacrifice_Armor> armatura mentre Sacrificio è attivo.<br><Bullet/> Sacrificio ha <Ability:SelfCooldown_LW> turni di ricarica.<br>"
 
 [AdaptiveAim X2AbilityTemplate]
 LocFriendlyName="Mira regolabile"
 LocLongDescription="Quando Overdrive è attivo, i Colpi standard non subiscono penalità di rinculo."
 LocHelpText="Quando Overdrive è attivo, i Colpi standard non subiscono penalità di rinculo."
-LocPromotionPopupText="<Bullet/> Mira regolabile elimina la penalità di <Ability:Overdrive_RecoilPenalty/> punti percentuali alla Mira per i Colpi standard consecutivi mentre Overdrive è attivo.<br/>"
+LocPromotionPopupText="<Bullet/> Mira regolabile elimina la penalità di <Ability:Overdrive_RecoilPenalty> punti percentuali alla Mira per i Colpi standard consecutivi mentre Overdrive è attivo.<br>"
 
 [Strike X2AbilityTemplate]
 LocFriendlyName="Strike"
 LocLongDescription="Attacca un nemico entro la portata di movimento con un potente assalto in mischia."
 LocHelpText="Attacca un nemico entro la portata di movimento con un potente assalto in mischia."
-LocPromotionPopupText="<Bullet/> Puoi attivare l'abilità Strike piazzando il cursore di movimento sopra un nemico.<br/><Bullet/> Lo SPARK può eseguire uno \"scatto\", usando entrambe le azioni per il movimento, attivando comunque lo Strike ai danni di un nemico adiacente.<br/>"
+LocPromotionPopupText="<Bullet/> Puoi attivare l'abilità Strike piazzando il cursore di movimento sopra un nemico.<br><Bullet/> Lo SPARK può eseguire uno \"scatto\", usando entrambe le azioni per il movimento, attivando comunque lo Strike ai danni di un nemico adiacente.<br>"
 
 [WreckingBall X2AbilityTemplate]
 LocFriendlyName="Demolizione"
 LocLongDescription="Se Overdrive è attivo, abbatte muri e ripari quando si muove."
 LocHelpText="Se Overdrive è attivo, abbatte muri e ripari quando si muove."
-LocPromotionPopupText="<Bullet/> Demolizione può esporre i nemici agli attacchi sul fianco.<br/><Bullet/> Usa le tappe dei movimenti in modo da guidare lo SPARK sul percorso ottimale per distruggere i ripari e l'ambiente.</br>"
+LocPromotionPopupText="<Bullet/> Demolizione può esporre i nemici agli attacchi sul fianco.<br><Bullet/> Usa le tappe dei movimenti in modo da guidare lo SPARK sul percorso ottimale per distruggere i ripari e l'ambiente.<br>"
 
 [Bombard X2AbilityTemplate]
 LocFriendlyName="Bombardamento"
 LocLongDescription="Invia il BIT in una posizione visibile, dove rilascia una potente scarica esplosiva. I BIT avanzati infliggono più danni."
 LocHelpText="Invia il BIT a colpire tutte le unità entro un raggio."
-LocPromotionPopupText="<Bullet/> Bombardamento può essere usato in ogni posizione all'interno della visuale di squadra.<br/><Bullet/> Potenziare il BIT aumenta i danni di Bombardamento.<br/>"
+LocPromotionPopupText="<Bullet/> Bombardamento può essere usato in ogni posizione all'interno della visuale di squadra.<br><Bullet/> Potenziare il BIT aumenta i danni di Bombardamento.<br>"
 
 [HunterProtocol X2AbilityTemplate]
 LocFriendlyName="Protocollo di caccia"
-LocLongDescription="Quando un nemico è rivelato, c'è una probabilità di <Ability:HunterProtocol_Chance/> punti percentuali di sparare un colpo di Guardia gratuito."
-LocHelpText="Quando un nemico è rivelato, c'è una probabilità di <Ability:HunterProtocol_Chance/> punti percentuali di sparare un colpo di Guardia gratuito."
-LocPromotionPopupText="<Bullet/> Il protocollo di caccia rende lo SPARK l'unità ideale per esplorare la nebbia di guerra, visto che ogni nemico rivelato può essere attaccato all'istante.<br/>"
+LocLongDescription="Quando un nemico è rivelato, c'è una probabilità di <Ability:HunterProtocol_Chance> punti percentuali di sparare un colpo di Guardia gratuito."
+LocHelpText="Quando un nemico è rivelato, c'è una probabilità di <Ability:HunterProtocol_Chance> punti percentuali di sparare un colpo di Guardia gratuito."
+LocPromotionPopupText="<Bullet/> Il protocollo di caccia rende lo SPARK l'unità ideale per esplorare la nebbia di guerra, visto che ogni nemico rivelato può essere attaccato all'istante.<br>"
 
 [Nova X2AbilityTemplate]
 LocFriendlyName="Nova"
 LocLongDescription="Rilascia una scarica di energia che danneggia tutti i nemici nelle vicinanze. Non costa un'azione e non ha ricarica, ma gli usi successivi danneggiano lo SPARK."
 LocHelpText="Colpisce tutti i nemici nelle vicinanze. Gli attacchi Nova successivi danneggiano lo SPARK."
-LocPromotionPopupText="<Bullet/> Nova non ha un costo in punti azione e non ha ricarica.<br/><Bullet/> Il primo attacco Nova di ogni missione infligge 0 danni allo SPARK.<br/><Bullet/> Gli attacchi Nova successivi infliggono un danno accumulabile di <Ability:Nova_Damage/> allo SPARK.<br/>"
+LocPromotionPopupText="<Bullet/> Nova non ha un costo in punti azione e non ha ricarica.<br><Bullet/> Il primo attacco Nova di ogni missione infligge 0 danni allo SPARK.<br><Bullet/> Gli attacchi Nova successivi infliggono un danno accumulabile di <Ability:Nova_Damage> allo SPARK.<br>"
 
 ;Marauder
 [SkirmisherStrike X2AbilityTemplate]

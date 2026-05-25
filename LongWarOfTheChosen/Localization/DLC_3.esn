@@ -3,22 +3,22 @@
 [PlatedSparkHeavyArmor_LW X2SparkArmorTemplate_DLC_3]
 FriendlyName="Exoesqueleto con escudo reforzado"
 BriefSummary="Una modificación de nuestra armadura reforzada SPARK estándar; esta variación sacrifica la movilidad para mejorar la durabilidad, presentando un revestimiento más pesado y una armadura reactiva adicional para contrarrestar el daño entrante."
-TacticalText="<Bullet/> Proporciona mayor armadura y puntos de vida, a expensas de la movilidad y la defensa.<br/><Bullet/> También reduce el tiempo de recuperación de heridas en 2 PS."										  
+TacticalText="<Bullet/> Proporciona mayor armadura y puntos de vida, a expensas de la movilidad y la defensa.<br><Bullet/> También reduce el tiempo de recuperación de heridas en 2 PS."										  
 
 [PlatedSparkLightArmor_LW X2SparkArmorTemplate_DLC_3]
 FriendlyName="Exoesqueleto con movilidad reforzada"
 BriefSummary="Una modificación de nuestra armadura reforzada SPARK estándar; esta variación sacrifica la durabilidad para mejorar la movilidad y otorga condensadores de control de brazo adicionales, lo que desbloquea la habilidad Dedicación y permite que el SPARK use su habilidad Golpe cinético con más frecuencia."
-TacticalText="<Bullet/> Concede mayor movilidad y defensa, a expensas de la armadura y los puntos de vida.<br/><Bullet/> Agrega la habilidad Dedicación y disminuye el tiempo de reutilización de Golpe cinético en 1 turno."
+TacticalText="<Bullet/> Concede mayor movilidad y defensa, a expensas de la armadura y los puntos de vida.<br><Bullet/> Agrega la habilidad Dedicación y disminuye el tiempo de reutilización de Golpe cinético en 1 turno."
 
 [PoweredSparkHeavyArmor_LW X2SparkArmorTemplate_DLC_3]
 FriendlyName="Chasis anodizado con escudo"
 BriefSummary="Una modificación de nuestra armadura SPARK potenciada estándar; esta variación sacrifica la movilidad, presentando un revestimiento más pesado y una armadura reactiva adicional para contrarrestar el daño entrante."
-TacticalText="<Bullet/> Proporciona mayor armadura y puntos de vida, a expensas de la movilidad y la defensa.<br/><Bullet/> También reduce el tiempo de recuperación de heridas en 4 PS."										 
+TacticalText="<Bullet/> Proporciona mayor armadura y puntos de vida, a expensas de la movilidad y la defensa.<br><Bullet/> También reduce el tiempo de recuperación de heridas en 4 PS."										 
 
 [PoweredSparkLightArmor_LW X2SparkArmorTemplate_DLC_3]
 FriendlyName="Chasis anodizado movible"
 BriefSummary="Una modificación de nuestra armadura SPARK potenciada estándar; esta variación sacrifica la durabilidad para mejorar la movilidad, y otorga condensadores de control de brazo adicionales, lo que desbloquea la habilidad Dedicación y permite que el SPARK use su habilidad Golpe cinético con más frecuencia."
-TacticalText="<Bullet/> Concede mayor movilidad y defensa, a expensas de la armadura y los puntos de vida.<br/><Bullet/> Agrega la habilidad Dedicación y disminuye el tiempo de reutilización de Golpe cinético en 1 turno."																																																  
+TacticalText="<Bullet/> Concede mayor movilidad y defensa, a expensas de la armadura y los puntos de vida.<br><Bullet/> Agrega la habilidad Dedicación y disminuye el tiempo de reutilización de Golpe cinético en 1 turno."																																																  
 
 [PlatedSparkArmor X2SparkArmorTemplate_DLC_3]
 FriendlyName="Exoesqueleto reforzado"

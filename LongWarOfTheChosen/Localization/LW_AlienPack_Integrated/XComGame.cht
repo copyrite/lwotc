@@ -21,21 +21,21 @@ LocFriendlyName="戰爭咆哮"
 LocLongDescription="為其他異變者提供大量命中、意志力、移動力加成；其他智慧外星人和變種人獲得少量加成。6回合冷卻。"
 LocHelpText="給其他異變者和外星人加成。"
 LocFlyOverText="戰爭咆哮"
-LocPromotionPopupText="<Bullet/>為其他異變者提供大量命中、意志力、移動力加成；其他智慧外星人和變種人獲得少量加成。<br/><Bullet/>6回合冷卻。<br/>"
+LocPromotionPopupText="<Bullet/>為其他異變者提供大量命中、意志力、移動力加成；其他智慧外星人和變種人獲得少量加成。<br><Bullet/>6回合冷卻。<br>"
 
 [BayonetCharge X2AbilityTemplate]
 LocFriendlyName="刺刀衝鋒"
 LocLongDescription="在衝刺距離內可以在任何地方發動近戰攻擊。4回合冷卻時間。"
 LocHelpText="在衝刺距離內可以在任何地方發動近戰攻擊。"
 LocFlyOverText="刺刀衝鋒"
-LocPromotionPopupText="<Bullet/>在衝刺距離內可以在任何地方發動近戰攻擊。<br/><Bullet/>4回合冷卻時間。<br/>"
+LocPromotionPopupText="<Bullet/>在衝刺距離內可以在任何地方發動近戰攻擊。<br><Bullet/>4回合冷卻時間。<br>"
 
 [Beastmaster_LW X2AbilityTemplate]
 LocFriendlyName="馴獸師"
 LocLongDescription="免疫狂戰士的傷害。"
 LocHelpText="免疫狂戰士的傷害。"
 LocFlyOverText="馴獸師"
-LocPromotionPopupText="<Bullet/>免疫狂戰士的傷害。<br/>"
+LocPromotionPopupText="<Bullet/>免疫狂戰士的傷害。<br>"
 
 [MassMindSpin X2AbilityTemplate]
 LocFriendlyName="群體心靈扭曲"
@@ -50,7 +50,7 @@ LocFriendlyName="無人機震擊"
 LocLongDescription="為鎮壓平民而設計，此武器只會造成最小的傷害並使目標混亂。"
 LocHelpText="武器造成最小傷害並削弱目標。"
 LocFlyOverText="無人機電擊"
-LocPromotionPopupText="<Bullet/>為鎮壓平民而設計，此武器只會造成最小的傷害並使目標混亂。<br/>"
+LocPromotionPopupText="<Bullet/>為鎮壓平民而設計，此武器只會造成最小的傷害並使目標混亂。<br>"
 
 [LWDroneRepair X2AbilityTemplate]
 LocFriendlyName="修理"
@@ -64,7 +64,7 @@ LocFriendlyName="無人機眩暈"
 LocFlyOverText="眩暈"
 LocHelpText="嘗試眩暈/癱瘓近戰範圍內的指定敵人2回合。"
 LocLongDescription="嘗試眩暈/癱瘓近戰範圍內的指定敵人2回合。"
-LocPromotionPopupText="<Bullet/> 嘗試眩暈/癱瘓近戰範圍內的指定敵人2回合。<br/><Bullet/> 3回合冷卻。"
+LocPromotionPopupText="<Bullet/> 嘗試眩暈/癱瘓近戰範圍內的指定敵人2回合。<br><Bullet/> 3回合冷卻。"
 LocMissMessage="未命中！"
 
 [PersonalShield X2AbilityTemplate]
@@ -72,7 +72,7 @@ LocFriendlyName="專屬護盾"
 LocFlyOverText="專屬護盾"
 LocHelpText="提供5點額外護盾。5回合冷卻。"
 LocLongDescription="提供5點額外護盾。5回合冷卻。"
-LocPromotionPopupText="<Bullet/>提供5點額外護盾。<br/><Bullet/>5回合冷卻。<br/><Bullet/>使用一個行動點；不會結束回合<br/>"
+LocPromotionPopupText="<Bullet/>提供5點額外護盾。<br><Bullet/>5回合冷卻。<br><Bullet/>使用一個行動點；不會結束回合<br>"
 
 [MassReanimation_LW X2AbilityTemplate]
 LocFriendlyName="群體復生"
@@ -100,14 +100,14 @@ LocFriendlyName="傷害控制"
 LocFlyOverText="傷害控制"
 LocLongDescription="在受到傷害後，到下回合結束前獲得2點護甲。"
 LocHelpText="在受到傷害後，到下回合結束前獲得2點護甲。"
-LocPromotionPopupText="<Bullet/>在受到衝擊後你的護甲暫時強化。在受到傷害後，到下回合結束前獲得2點護甲。<br/><Bullet/>在接下來的回合中受到多次命中會延長有效時間。<br/>"
+LocPromotionPopupText="<Bullet/>在受到衝擊後你的護甲暫時強化。在受到傷害後，到下回合結束前獲得2點護甲。<br><Bullet/>在接下來的回合中受到多次命中會延長有效時間。<br>"
 
 [RepairServosPassive X2AbilityTemplate]
 LocFriendlyName="傷害控制"
 LocFlyOverText="傷害控制"
 LocLongDescription="在受到傷害後，到下回合結束前獲得2點護甲。"
 LocHelpText="在受到傷害後，到下回合結束前獲得2點護甲。"
-LocPromotionPopupText="<Bullet/>在受到傷害後，到下回合結束前獲得2點護甲。<br/><Bullet/>在接下來的回合中受到多次命中會延長有效時間。<br/>"
+LocPromotionPopupText="<Bullet/>在受到傷害後，到下回合結束前獲得2點護甲。<br><Bullet/>在接下來的回合中受到多次命中會延長有效時間。<br>"
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;; MutonM2_LW ;;;;;;;;;;;;;;;;;;;;;;;;;;;
 

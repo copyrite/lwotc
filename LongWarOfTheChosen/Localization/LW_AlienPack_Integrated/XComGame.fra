@@ -21,21 +21,21 @@ LocFriendlyName="Cri de guerre"
 LocLongDescription="D'importants bonus de visée, de volonté et de mobilité sont octroyés aux autres Goliaths et des bonus moins importants sont accordés aux autres extraterrestres et créatures d'ADVENT. Temps de rechargement: 6 tours."
 LocHelpText="Bonus accordés aux autres Goliaths et certains autres extraterrestres"
 LocFlyOverText="Cri de guerre"
-LocPromotionPopupText="<Bullet/> D'importants bonus de visée, de volonté et de mobilité sont octroyés aux autres Goliaths et des bonus moins importants sont accordés aux autres extraterrestres et créatures d'ADVENT.<br/><Bullet/> Temps de rechargement: 6 tours.<br/>"
+LocPromotionPopupText="<Bullet/> D'importants bonus de visée, de volonté et de mobilité sont octroyés aux autres Goliaths et des bonus moins importants sont accordés aux autres extraterrestres et créatures d'ADVENT.<br><Bullet/> Temps de rechargement: 6 tours.<br>"
 
 [BayonetCharge X2AbilityTemplate]
 LocFriendlyName="Charge de baïonnette"
 LocLongDescription="Permet une attaque au corps à corps, n'importe où dans la zone de sprint. Temps de rechargement: 4 tours."
 LocHelpText="Permet une attaque au corps à corps, n'importe où dans la zone de sprint."
 LocFlyOverText="Charge de baïonnette"
-LocPromotionPopupText="<Bullet/> Permet une attaque au corps à corps, n'importe où dans la zone de sprint.<br/><Bullet/> Temps de rechargement: 4 tours.<br/>"
+LocPromotionPopupText="<Bullet/> Permet une attaque au corps à corps, n'importe où dans la zone de sprint.<br><Bullet/> Temps de rechargement: 4 tours.<br>"
 
 [Beastmaster_LW X2AbilityTemplate]
 LocFriendlyName="Maître bestial"
 LocLongDescription="Invulnérable aux Berserkers."
 LocHelpText="Invulnérable aux Berserkers."
 LocFlyOverText="Maître bestial"
-LocPromotionPopupText="<Bullet/> Invulnérable aux Berserkers.<br/>"
+LocPromotionPopupText="<Bullet/> Invulnérable aux Berserkers.<br>"
 
 [MassMindSpin X2AbilityTemplate]
 LocFriendlyName="Vrille mentale de masse"
@@ -72,7 +72,7 @@ LocFriendlyName="Bouclier personnel"
 LocFlyOverText="Bouclier personnel"
 LocHelpText="Octroie 5 points d'armure bonus. Temps de rechargement: 5 tours."
 LocLongDescription="Octroie 5 points d'armure bonus. Temps de rechargement: 5 tours."
-LocPromotionPopupText="<Bullet/> Octroie 5 points d'armure bonus. <br/><Bullet/> Temps de rechargement: 5 tours. <br/><Bullet/> Consomme une action et ne met pas fin au tour.<br/>"
+LocPromotionPopupText="<Bullet/> Octroie 5 points d'armure bonus. <br><Bullet/> Temps de rechargement: 5 tours. <br><Bullet/> Consomme une action et ne met pas fin au tour.<br>"
 
 [MassReanimation_LW X2AbilityTemplate]
 LocFriendlyName="Réanimation de masse"
@@ -102,14 +102,14 @@ LocFriendlyName="Contrôle des dégâts"
 LocFlyOverText="Contrôle des dégâts"
 LocLongDescription="Après avoir essuyé des dégâts, vous gagnez deux points d'armure jusqu'à la fin du tour suivant."
 LocHelpText="Après avoir essuyé des dégâts, vous gagnez deux points d'armure jusqu'à la fin du tour suivant."
-LocPromotionPopupText="<Bullet/> Votre armure se renforce temporairement après un impact. Après avoir essuyé des dégâts, vous gagnez deux points d'armure jusqu'à la fin du tour suivant. <br/><Bullet/> Si l'unité est blessée plusieurs fois au cours de tours successifs, le bonus se prolonge. <br/>"
+LocPromotionPopupText="<Bullet/> Votre armure se renforce temporairement après un impact. Après avoir essuyé des dégâts, vous gagnez deux points d'armure jusqu'à la fin du tour suivant. <br><Bullet/> Si l'unité est blessée plusieurs fois au cours de tours successifs, le bonus se prolonge. <br>"
 
 [RepairServosPassive X2AbilityTemplate]
 LocFriendlyName="Contrôle des dégâts"
 LocFlyOverText="Contrôle des dégâts"
 LocLongDescription="Après avoir essuyé des dégâts, vous gagnez deux points d'armure jusqu'à la fin du tour suivant."
 LocHelpText="Après avoir essuyé des dégâts, vous gagnez deux points d'armure jusqu'à la fin du tour suivant."
-LocPromotionPopupText="<Bullet/> Après avoir essuyé des dégâts, vous gagnez deux points d'armure jusqu'à la fin du tour suivant. <br/><Bullet/> Si l'unité est blessée plusieurs fois au cours de tours successifs, le bonus se prolonge. <br/>"
+LocPromotionPopupText="<Bullet/> Après avoir essuyé des dégâts, vous gagnez deux points d'armure jusqu'à la fin du tour suivant. <br><Bullet/> Si l'unité est blessée plusieurs fois au cours de tours successifs, le bonus se prolonge. <br>"
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;; MutonM2_LW ;;;;;;;;;;;;;;;;;;;;;;;;;;;
 

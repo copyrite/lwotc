@@ -21,21 +21,21 @@ LocFriendlyName="ウォークライ"
 LocLongDescription="他のミュートンの命中率、意志力、機動力を大きく向上させる。また、知性のある他のエイリアンとアドヴェントに多少のボーナスをもたらす。クールダウン：6ターン。"
 LocHelpText="他のミュートンや他のエイリアン数体にボーナスをもたらす。"
 LocFlyOverText="ウォークライ"
-LocPromotionPopupText="<Bullet/>他のミュートンの命中率、意志力、機動力を大きく向上させる。また、知性のある他の多くのエイリアンとアドヴェントに多少のボーナスをもたらす。<br/><Bullet/>クールダウン：6ターン。<br/>"
+LocPromotionPopupText="<Bullet/>他のミュートンの命中率、意志力、機動力を大きく向上させる。また、知性のある他の多くのエイリアンとアドヴェントに多少のボーナスをもたらす。<br><Bullet/>クールダウン：6ターン。<br>"
 
 [BayonetCharge X2AbilityTemplate]
 LocFriendlyName="銃剣突撃"
 LocLongDescription="ダッシュ距離内であればどこからでも近接攻撃が行える。クールダウン：4ターン。"
 LocHelpText="ダッシュ距離内であればどこからでも近接攻撃が行える。"
 LocFlyOverText="銃剣突撃"
-LocPromotionPopupText="<Bullet/>ダッシュ距離内であればどこからでも近接攻撃が行える。<br/><Bullet/> クールダウン：4ターン。<br/>"
+LocPromotionPopupText="<Bullet/>ダッシュ距離内であればどこからでも近接攻撃が行える。<br><Bullet/> クールダウン：4ターン。<br>"
 
 [Beastmaster_LW X2AbilityTemplate]
 LocFriendlyName="ビーストマスター"
 LocLongDescription="バーサーカーからの攻撃でダメージを受けない。"
 LocHelpText="バーサーカーからの攻撃でダメージを受けない。"
 LocFlyOverText="ビーストマスター"
-LocPromotionPopupText="<Bullet/>バーサーカーからの攻撃を無効化。<br/>"
+LocPromotionPopupText="<Bullet/>バーサーカーからの攻撃を無効化。<br>"
 
 [MassMindSpin X2AbilityTemplate]
 LocFriendlyName="マス・マインドスピン"
@@ -50,7 +50,7 @@ LocFriendlyName="ドローンショック"
 LocLongDescription="民間人制圧用兵器。目標に与えるダメージを最小限に抑え、行動の自由を奪うのみにとどめるよう設計されている。"
 LocHelpText="民間人制圧用兵器。目標に与えるダメージは最小限に抑えられている。"
 LocFlyOverText="ドローンショック"
-LocPromotionPopupText="<Bullet/>民間人制圧用兵器。目標に与えるダメージを最小限に抑え、行動の自由を奪うのみにとどめるよう設計されている。<br/>"
+LocPromotionPopupText="<Bullet/>民間人制圧用兵器。目標に与えるダメージを最小限に抑え、行動の自由を奪うのみにとどめるよう設計されている。<br>"
 
 [LWDroneRepair X2AbilityTemplate]
 LocFriendlyName="修復"
@@ -72,7 +72,7 @@ LocFriendlyName="パーソナルシールド"
 LocFlyOverText="パーソナルシールド"
 LocHelpText="5ポイントの摩耗アーマーが得られる。クールダウン：5ターン。"
 LocLongDescription="5ポイントの摩耗アーマーが得られる。クールダウン：5ターン。"
-LocPromotionPopupText="<Bullet/>5ポイントの摩耗アーマーが得られる。<br/><Bullet/>クールダウン：5ターン。<br/><Bullet/>行動値1を消費。使用してもターン終了にはならない。<br/>"
+LocPromotionPopupText="<Bullet/>5ポイントの摩耗アーマーが得られる。<br><Bullet/>クールダウン：5ターン。<br><Bullet/>行動値1を消費。使用してもターン終了にはならない。<br>"
 
 [MassReanimation_LW X2AbilityTemplate]
 LocFriendlyName="マス・リアニメート"
@@ -100,14 +100,14 @@ LocFriendlyName="ダメージコントロール"
 LocFlyOverText="ダメージコントロール"
 LocLongDescription="ダメージを受けると、次のターンが終了するまでアーマー+2となる。"
 LocHelpText="ダメージを受けると、次のターンが終了するまでアーマー+2となる。"
-LocPromotionPopupText="<Bullet/>衝撃を受けたアーマーが一時的に硬化する。ダメージを受けると、次のターンが終了するまでアーマー+2となる。<br/><Bullet/>続くターンに連続して攻撃を受けると、効果が延長される。<br/>"
+LocPromotionPopupText="<Bullet/>衝撃を受けたアーマーが一時的に硬化する。ダメージを受けると、次のターンが終了するまでアーマー+2となる。<br><Bullet/>続くターンに連続して攻撃を受けると、効果が延長される。<br>"
 
 [RepairServosPassive X2AbilityTemplate]
 LocFriendlyName="ダメージコントロール"
 LocFlyOverText="ダメージコントロール"
 LocLongDescription="ダメージを受けると、次のターンが終了するまでアーマー+2となる。"
 LocHelpText="ダメージを受けると、次のターンが終了するまでアーマー+2となる。"
-LocPromotionPopupText="<Bullet/>ダメージを受けると、次のターンが終了するまでアーマー+2となる。<br/><Bullet/>続くターンに連続して攻撃を受けると、効果が延長される。<br/>"
+LocPromotionPopupText="<Bullet/>ダメージを受けると、次のターンが終了するまでアーマー+2となる。<br><Bullet/>続くターンに連続して攻撃を受けると、効果が延長される。<br>"
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;; MutonM2_LW ;;;;;;;;;;;;;;;;;;;;;;;;;;;
 

@@ -21,21 +21,21 @@ LocFriendlyName="War Cry"
 LocLongDescription="Grant major Aim, Will and Mobility bonuses to other Mutons and lesser bonuses to other sapient aliens and ADVENT. 6-turn cooldown."
 LocHelpText="Grant bonuses to other Mutons and some other aliens."
 LocFlyOverText="War Cry"
-LocPromotionPopupText="<Bullet/> Grant major Aim, Will and Mobility bonuses to other Mutons and lesser bonuses to many other sapient aliens and ADVENT.<br/><Bullet/> 6-turn cooldown.<br/>"
+LocPromotionPopupText="<Bullet/> Grant major Aim, Will and Mobility bonuses to other Mutons and lesser bonuses to many other sapient aliens and ADVENT.<br><Bullet/> 6-turn cooldown.<br>"
 
 [BayonetCharge X2AbilityTemplate]
 LocFriendlyName="Bayonet Charge"
 LocLongDescription="Allows a melee attack anywhere within sprint distance. Four-turn cooldown."
 LocHelpText="Allows a melee attack anywhere within sprint distance."
 LocFlyOverText="Bayonet Charge"
-LocPromotionPopupText="<Bullet/> Allows a melee attack anywhere within sprint distance.<br/><Bullet/> 4-turn cooldown.<br/>"
+LocPromotionPopupText="<Bullet/> Allows a melee attack anywhere within sprint distance.<br><Bullet/> 4-turn cooldown.<br>"
 
 [Beastmaster_LW X2AbilityTemplate]
 LocFriendlyName="Beastmaster"
 LocLongDescription="Immune to damage from Berserkers."
 LocHelpText="Immune to damage from Berserkers."
 LocFlyOverText="Beastmaster"
-LocPromotionPopupText="<Bullet/> Immune to damage from Berserkers.<br/>"
+LocPromotionPopupText="<Bullet/> Immune to damage from Berserkers.<br>"
 
 [MassMindSpin X2AbilityTemplate]
 LocFriendlyName="Mass Mindspin"
@@ -50,7 +50,7 @@ LocFriendlyName="Drone Shock"
 LocLongDescription="Intended to pacify civilians, this effect does minimal damage and only disorients."
 LocHelpText="This weapon does minimal damage and impairs the target."
 LocFlyOverText="Drone Shock"
-LocPromotionPopupText="<Bullet/> Intended to pacify civilians, this effect does minimal damage and only disorients the target.<br/>"
+LocPromotionPopupText="<Bullet/> Intended to pacify civilians, this effect does minimal damage and only disorients the target.<br>"
 
 [LWDroneRepair X2AbilityTemplate]
 LocFriendlyName="Repair"
@@ -72,7 +72,7 @@ LocFriendlyName="Personal Shield"
 LocFlyOverText="Personal Shield"
 LocHelpText="Grants 5 points of ablative armor. 5-turn cooldown."
 LocLongDescription="Grants 5 points of ablative armor. 5-turn cooldown."
-LocPromotionPopupText="<Bullet/> Grants 5 points of ablative armor.<br/><Bullet/> 5-turn cooldown.<br/><Bullet/> Uses one action; does not end turn.<br/>"
+LocPromotionPopupText="<Bullet/> Grants 5 points of ablative armor.<br><Bullet/> 5-turn cooldown.<br><Bullet/> Uses one action; does not end turn.<br>"
 
 [MassReanimation_LW X2AbilityTemplate]
 LocFriendlyName="Mass Reanimate"
@@ -99,14 +99,14 @@ LocFriendlyName="Damage Control"
 LocFlyOverText="Damage Control"
 LocLongDescription="After taking damage, gain two armor through the end of the next turn."
 LocHelpText="After taking damage, gain two armor through the end of the next turn."
-LocPromotionPopupText="<Bullet/> Your armor hardens temporarily after an impact. After taking damage, gain two armor through the end of the next turn.<br/><Bullet/> Taking multiple hits on successive turns extends the timer.<br/>"
+LocPromotionPopupText="<Bullet/> Your armor hardens temporarily after an impact. After taking damage, gain two armor through the end of the next turn.<br><Bullet/> Taking multiple hits on successive turns extends the timer.<br>"
 
 [RepairServosPassive X2AbilityTemplate]
 LocFriendlyName="Damage Control"
 LocFlyOverText="Damage Control"
 LocLongDescription="After taking damage, gain two armor through the end of the next turn."
 LocHelpText="After taking damage, gain two armor through the end of the next turn."
-LocPromotionPopupText="<Bullet/> After taking damage, gain two armor through the end of the next turn.<br/><Bullet/> Taking multiple hits on successive turns extends the timer.<br/>"
+LocPromotionPopupText="<Bullet/> After taking damage, gain two armor through the end of the next turn.<br><Bullet/> Taking multiple hits on successive turns extends the timer.<br>"
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;; MutonM2_LW ;;;;;;;;;;;;;;;;;;;;;;;;;;;
 

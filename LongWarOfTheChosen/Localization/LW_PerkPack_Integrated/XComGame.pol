@@ -79,252 +79,252 @@ LocFriendlyName="Atakuj i uciekaj"
 LocFlyOverText="Atakuj i uciekaj"
 LocLongDescription="Raz na turę otrzymasz dodatkową akcję po oddaniu zwykłego strzału z broni głównej w kierunku oskrzydlonego lub odsłoniętego wroga."
 LocHelpText="Raz na turę otrzymasz dodatkową akcję po oddaniu zwykłego strzału z broni głównej w kierunku oskrzydlonego lub odsłoniętego wroga."
-LocPromotionPopupText="<Bullet/> Nie można używać jednocześnie z aktywną zdolnością \"Strzelanie w biegu\".<br/><Bullet/> Bonus dodatkowej akcji będzie przyznany przed zdolnościami \"Seria\" oraz \"Bomby w dół\"."
+LocPromotionPopupText="<Bullet/> Nie można używać jednocześnie z aktywną zdolnością \"Strzelanie w biegu\".<br><Bullet/> Bonus dodatkowej akcji będzie przyznany przed zdolnościami \"Seria\" oraz \"Bomby w dół\"."
 
 [HitandSlither X2AbilityTemplate]
 LocFriendlyName="Wślizgnij się i wystrzel"
 LocFlyoverText="Wślizgnij się i wystrzel"
 LocLongDescription="Raz na turę otrzymujesz dodatkową akcję ruchu po oddaniu zwykłego strzału z broni głównej do oskrzydlonego lub odsłoniętego wroga."
 LocHelpText="Raz na turę otrzymujesz dodatkową akcję ruchu po oddaniu zwykłego strzału z broni głównej do oskrzydlonego lub odsłoniętego wroga."
-LocPromotionPopupText="<Bullet/> Raz na turę otrzymujesz dodatkową akcję ruchu po oddaniu zwykłego strzału z broni głównej do oskrzydlonego lub odsłoniętego wroga.<br/><Bullet/> Zdolności \"atakuj i uciekaj\" nie można użyć po uruchomieniu strzelania w biegu.<br/><Bullet/> Najpierw zostaną przyznane dodatkowe pełne akcje ze zdolności \"seria\" i \"bomby w dół\"."
+LocPromotionPopupText="<Bullet/> Raz na turę otrzymujesz dodatkową akcję ruchu po oddaniu zwykłego strzału z broni głównej do oskrzydlonego lub odsłoniętego wroga.<br><Bullet/> Zdolności \"atakuj i uciekaj\" nie można użyć po uruchomieniu strzelania w biegu.<br><Bullet/> Najpierw zostaną przyznane dodatkowe pełne akcje ze zdolności \"seria\" i \"bomby w dół\"."
 
 [CloseCombatSpecialist X2AbilityTemplate]
 LocFriendlyName="Specjalista od walki bezpośredniej"
 LocFlyOverText="Specjalista od walki bezpośredniej"
 LocLongDescription="W turze wroga może oddać darmowy strzał reakcji z broni głównej do widocznego wroga w promieniu 4 pól, który poruszy się albo strzeli."
 LocHelpText="W turze wroga może oddać darmowy strzał reakcji do widocznego wroga w promieniu 4 pól, który poruszy się albo strzeli."
-LocPromotionPopupText="<Bullet/> Nie działa gdy żołnierz jest w ukryciu.<br/><Bullet/> Dzięki tej zdolności możesz raz na turę strzelić do każdego wroga.<br/><Bullet/> Zużywa 2 szt. amunicji.<br/>"
+LocPromotionPopupText="<Bullet/> Nie działa gdy żołnierz jest w ukryciu.<br><Bullet/> Dzięki tej zdolności możesz raz na turę strzelić do każdego wroga.<br><Bullet/> Zużywa 2 szt. amunicji.<br>"
 
 [CloseCombatSpecialistAttack X2AbilityTemplate]
 LocFriendlyName="Specjalista od walki bezpośredniej"
 LocFlyOverText="Specjalista od walki bezpośredniej"
 LocLongDescription="W turze wroga może oddać darmowy strzał reakcji z broni głównej do widocznego wroga w promieniu 4 pól, który poruszy się albo strzeli."
 LocHelpText="W turze wroga może oddać darmowy strzał reakcji do widocznego wroga w promieniu 4 pól, który poruszy się albo strzeli."
-LocPromotionPopupText="<Bullet/> Nie działa gdy żołnierz jest w ukryciu.<br/><Bullet/> Dzięki tej zdolności możesz raz na turę strzelić do każdego wroga.</br><Bullet/> Zużywa <Ability:SelfAmmoCost/> szt. amunicji.<br/>""
+LocPromotionPopupText="<Bullet/> Nie działa gdy żołnierz jest w ukryciu.<br><Bullet/> Dzięki tej zdolności możesz raz na turę strzelić do każdego wroga.<br><Bullet/> Zużywa <Ability:SelfAmmoCost> szt. amunicji.<br>""
 
 [CloseandPersonal X2AbilityTemplate]
 LocFriendlyName="Zabójcza bliskość"
 LocFlyOverText="Zabójcza bliskość"
 LocLongDescription="Daje +30 do szansy trafienia krytycznego celów znajdujących się na sąsiednich polach. Premia maleje wraz z odległością do celu."
 LocHelpText="Daje +30 do szansy trafienia krytycznego celów znajdujących się na sąsiednich polach. Premia maleje wraz z odległością do celu."
-LocPromotionPopupText="<Bullet/> Zapewnia +30 do szansy trafienia krytycznego celów na sąsiednich polach.<br/><Bullet/> Premia spada o 5% za każde pole od celu aż do 0% przy 7 polach.<br/>"
+LocPromotionPopupText="<Bullet/> Zapewnia +30 do szansy trafienia krytycznego celów na sąsiednich polach.<br><Bullet/> Premia spada o 5% za każde pole od celu aż do 0% przy 7 polach.<br>"
 
 [DamnGoodGround X2AbilityTemplate]
 LocFriendlyName="Cholernie dobry teren"
 LocFlyOverText="Cholernie dobry teren"
 LocLongDescription="Daje +10 do celności i +10 do obrony przeciwko celom, które znajdują się niżej."
 LocHelpText="Daje +10 do celności i +10 do obrony przeciwko celom, które znajdują się niżej."
-LocPromotionPopupText="<Bullet/> Daje +10 do celności i +10 do obrony przeciwko celom, które znajdują się niżej.<br/><Bullet/> Ta zdolność nie zapewnia bonusów do obrony jednostkom zdezorientowanym, ogłuszonym, panikującym, podpalonym lub osłabionym w inny sposób."
+LocPromotionPopupText="<Bullet/> Daje +10 do celności i +10 do obrony przeciwko celom, które znajdują się niżej.<br><Bullet/> Ta zdolność nie zapewnia bonusów do obrony jednostkom zdezorientowanym, ogłuszonym, panikującym, podpalonym lub osłabionym w inny sposób."
 
 [Executioner_LW X2AbilityTemplate]
 LocFriendlyName="Kat"
 LocFlyOverText="Kat"
 LocLongDescription="Daje +10 do celności i +10 do szansy trafienia krytycznego przeciwko celom, które mają połowę początkowych punktów zdrowia lub mniej."
 LocHelpText="Daje +10 do celności i +10 do szansy trafienia krytycznego przeciwko celom, które mają połowę początkowych punktów zdrowia lub mniej."
-LocPromotionPopupText="<Bullet/> Daje +10 do celności i +10 do szansy trafienia krytycznego przeciwko celom, które mają połowę początkowych punktów zdrowia lub mniej.<br/>"
+LocPromotionPopupText="<Bullet/> Daje +10 do celności i +10 do szansy trafienia krytycznego przeciwko celom, które mają połowę początkowych punktów zdrowia lub mniej.<br>"
 
 [Resilience X2AbilityTemplate]
 LocFriendlyName="Wytrzymałość"
 LocFlyOverText="Wytrzymałość"
-LocLongDescription="Ataki wroga, których jesteś celem, otrzymują karę -<ABILITY:RESILIENCE_BONUS_LW/> do szansy trafienia krytycznego."
-LocHelpText="Ataki wroga, których jesteś celem, otrzymują karę -<ABILITY:RESILIENCE_BONUS_LW/> do szansy trafienia krytycznego."
-LocPromotionPopupText="<Bullet/> Ataki wroga, których jesteś celem, otrzymują karę -<ABILITY:RESILIENCE_BONUS_LW/> do szansy trafienia krytycznego.<br/>"
+LocLongDescription="Ataki wroga, których jesteś celem, otrzymują karę -<Ability:RESILIENCE_BONUS_LW> do szansy trafienia krytycznego."
+LocHelpText="Ataki wroga, których jesteś celem, otrzymują karę -<Ability:RESILIENCE_BONUS_LW> do szansy trafienia krytycznego."
+LocPromotionPopupText="<Bullet/> Ataki wroga, których jesteś celem, otrzymują karę -<Ability:RESILIENCE_BONUS_LW> do szansy trafienia krytycznego.<br>"
 
 [TacticalSense X2AbilityTemplate]
 LocFriendlyName="Zmysł taktyczny"
 LocFlyOverText="Zmysł taktyczny"
 LocLongDescription="Otrzymasz +3 do obrony za każdego widocznego wroga, maksymalnie +15."
 LocHelpText="Otrzymasz +3 do obrony za każdego widocznego wroga, maksymalnie +15."
-LocPromotionPopupText="<Bullet/> Otrzymasz +3 do obrony za każdego widocznego wroga, maksymalnie +15.<br/><Bullet/> Premia nie jest przyznawana za jednostki wykrywane przez widok drużynowy.<br/><Bullet/> Ta zdolność nie zapewnia bonusów do obrony jednostkom zdezorientowanym, ogłuszonym, panikującym, podpalonym lub osłabionym w inny sposób."
+LocPromotionPopupText="<Bullet/> Otrzymasz +3 do obrony za każdego widocznego wroga, maksymalnie +15.<br><Bullet/> Premia nie jest przyznawana za jednostki wykrywane przez widok drużynowy.<br><Bullet/> Ta zdolność nie zapewnia bonusów do obrony jednostkom zdezorientowanym, ogłuszonym, panikującym, podpalonym lub osłabionym w inny sposób."
 
 [Aggression X2AbilityTemplate]
 LocFriendlyName="Agresja"
 LocFlyOverText="Agresja"
 LocLongDescription="Otrzymasz +5 do szansy trafienia krytycznego za każdego widocznego wroga, maksymalnie +30."
 LocHelpText="Otrzymasz +5 do szansy trafienia krytycznego za każdego widocznego wroga, maksymalnie +30."
-LocPromotionPopupText="<Bullet/> Otrzymasz +5 do szansy trafienia krytycznego za każdego widocznego wroga, maksymalnie +30.<br/><Bullet/> Premia przyznawana jest też za jednostki wykrywane przez widok drużynowy.<br/>"
+LocPromotionPopupText="<Bullet/> Otrzymasz +5 do szansy trafienia krytycznego za każdego widocznego wroga, maksymalnie +30.<br><Bullet/> Premia przyznawana jest też za jednostki wykrywane przez widok drużynowy.<br>"
 
 [BringEmOn X2AbilityTemplate]
 LocFriendlyName="Dajcie mi ich"
 LocFlyOverText="Dajcie mi ich"
 LocLongDescription="Otrzymasz +1 do uszkodzeń przy trafieniach krytycznych za każdych dwóch widocznych wrogów, maksymalnie +8."
 LocHelpText="Otrzymasz +1 do uszkodzeń przy trafieniach krytycznych za każdych dwóch widocznych wrogów, maksymalnie +8."
-LocPromotionPopupText="<Bullet/> Otrzymasz +1 do uszkodzeń przy trafieniach krytycznych za każdych dwóch widocznych wrogów, maksymalnie +8.<br/><Bullet/> Premia przyznawana jest też za jednostki wykrywane przez widok drużynowy.<br/>"
+LocPromotionPopupText="<Bullet/> Otrzymasz +1 do uszkodzeń przy trafieniach krytycznych za każdych dwóch widocznych wrogów, maksymalnie +8.<br><Bullet/> Premia przyznawana jest też za jednostki wykrywane przez widok drużynowy.<br>"
 
 [HardTarget X2AbilityTemplate]
 LocFriendlyName="Trudny cel"
 LocFlyOverText="Trudny cel"
 LocLongDescription="Otrzymasz +5 do uniku za każdego widocznego wroga, maksymalnie +30."
 LocHelpText="Otrzymasz +5 do uniku za każdego widocznego wroga, maksymalnie +30."
-LocPromotionPopupText="<Bullet/> Otrzymasz +5 do uniku za każdego widocznego wroga, maksymalnie +30.<br/><Bullet/> Premia przyznawana jest też za jednostki wykrywane przez widok drużynowy.<br/><Bullet/> Ta zdolność nie zapewnia bonusów do obrony jednostkom zdezorientowanym, ogłuszonym, panikującym, podpalonym lub osłabionym w inny sposób."
+LocPromotionPopupText="<Bullet/> Otrzymasz +5 do uniku za każdego widocznego wroga, maksymalnie +30.<br><Bullet/> Premia przyznawana jest też za jednostki wykrywane przez widok drużynowy.<br><Bullet/> Ta zdolność nie zapewnia bonusów do obrony jednostkom zdezorientowanym, ogłuszonym, panikującym, podpalonym lub osłabionym w inny sposób."
 
 [Infighter X2AbilityTemplate]
 LocFriendlyName="Z bliska"
 LocFlyOverText="Z bliska"
-LocLongDescription="Otrzymujesz +<Ability:INFIGHTER_DODGE_BONUS/> do unikania ataków z odległości do 4 pól."
-LocHelpText="Otrzymujesz +<Ability:INFIGHTER_DODGE_BONUS/> do unikania ataków z odległości do 4 pól."
-LocPromotionPopupText="<Bullet/> Otrzymujesz +<Ability:INFIGHTER_DODGE_BONUS/> do unikania ataków z odległości do 4 pól.<br/><Bullet/> Premia do uników liczy się także w przypadku ataków wręcz.<br/><Bullet/> Ta zdolność nie zapewnia bonusów do obrony jednostkom zdezorientowanym, ogłuszonym, panikującym, podpalonym lub osłabionym w inny sposób."
+LocLongDescription="Otrzymujesz +<Ability:INFIGHTER_DODGE_BONUS> do unikania ataków z odległości do 4 pól."
+LocHelpText="Otrzymujesz +<Ability:INFIGHTER_DODGE_BONUS> do unikania ataków z odległości do 4 pól."
+LocPromotionPopupText="<Bullet/> Otrzymujesz +<Ability:INFIGHTER_DODGE_BONUS> do unikania ataków z odległości do 4 pól.<br><Bullet/> Premia do uników liczy się także w przypadku ataków wręcz.<br><Bullet/> Ta zdolność nie zapewnia bonusów do obrony jednostkom zdezorientowanym, ogłuszonym, panikującym, podpalonym lub osłabionym w inny sposób."
 
 [DepthPerception X2AbilityTemplate]
 LocFriendlyName="Postrzeganie głębi"
 LocFlyOverText="Postrzeganie głębi"
 LocLongDescription="Gdy znajdujesz się wyżej niż twój cel, otrzymujesz +5 do celności, a wróg ma karę -25 do uników."
 LocHelpText="Gdy znajdujesz się wyżej niż twój cel, otrzymujesz +5 do celności, a wróg ma karę -25 do uników."
-LocPromotionPopupText="<Bullet/> Gdy znajdujesz się wyżej niż twój cel, otrzymujesz +5 do celności, a wróg ma karę 25 do uników.<br/>"
+LocPromotionPopupText="<Bullet/> Gdy znajdujesz się wyżej niż twój cel, otrzymujesz +5 do celności, a wróg ma karę 25 do uników.<br>"
 
 [WilltoSurvive X2AbilityTemplate]
 LocFriendlyName="Instynkt przetrwania"
 LocFlyOverText="Instynkt przetrwania"
 LocLongDescription="Obrażenia zadawane przez wroga są zmniejszone o 1, gdy atakuje on przez osłonę, za którą się znajdujesz. Zapewnia też premię +5 do woli."
 LocHelpText="Obrażenia zadawane przez wroga są zmniejszone o 1, gdy znajdujesz się za osłoną, a przeciwnik atakuje przez tę osłonę."
-LocPromotionPopupText="<Bullet/> Obrażenia zadawane przez wroga są zmniejszone o 1, gdy atakuje on przez osłonę, za którą się znajdujesz.<br/><Bullet/> Osłona przed ładunkami wybuchowymi i innymi atakami pośrednimi zależy od ich miejsca wybuchu.<br/><Bullet/> Efekty przeciwpancerne nie anulują tej premii.<br/><Bullet/> Ta jednostka zyskuje też na stałe dodatkowe 5 punktów woli.<br/><Bullet/> Ta zdolność nie zapewnia bonusów do obrony jednostkom zdezorientowanym, ogłuszonym, panikującym, podpalonym lub osłabionym w inny sposób."
+LocPromotionPopupText="<Bullet/> Obrażenia zadawane przez wroga są zmniejszone o 1, gdy atakuje on przez osłonę, za którą się znajdujesz.<br><Bullet/> Osłona przed ładunkami wybuchowymi i innymi atakami pośrednimi zależy od ich miejsca wybuchu.<br><Bullet/> Efekty przeciwpancerne nie anulują tej premii.<br><Bullet/> Ta jednostka zyskuje też na stałe dodatkowe 5 punktów woli.<br><Bullet/> Ta zdolność nie zapewnia bonusów do obrony jednostkom zdezorientowanym, ogłuszonym, panikującym, podpalonym lub osłabionym w inny sposób."
 
 [LightEmUp X2AbilityTemplate]
 LocFriendlyName="Walcie do nich"
 LocFlyOverText="Walcie do nich"
 LocLongDescription="Zwykły strzał z broni głównej w pierwszej akcji nie kończy już twojej tury."
 LocHelpText="Zwykły strzał z broni głównej w pierwszej akcji nie kończy już twojej tury."
-LocPromotionPopupText="<Bullet/> Zwykły strzał z broni głównej w pierwszej akcji nie kończy już twojej tury.<br/>"
+LocPromotionPopupText="<Bullet/> Zwykły strzał z broni głównej w pierwszej akcji nie kończy już twojej tury.<br>"
 
 [CloseEncounters X2AbilityTemplate]
 LocFriendlyName="Bliskie spotkania"
 LocFlyOverText="Bliskie spotkania"
-LocLongDescription="Raz na turę otrzymujesz dodatkową akcję po oddaniu zwykłego strzału z broni głównej do wroga w promieniu <Ability:CLOSE_ENCOUNTERS_RANGE/> pól."
-LocHelpText="Raz na turę otrzymujesz dodatkową akcję po oddaniu zwykłego strzału z broni głównej do wroga w promieniu <Ability:CLOSE_ENCOUNTERS_RANGE/> pól."
-LocPromotionPopupText="<Bullet/> Raz na turę otrzymujesz dodatkową akcję po oddaniu zwykłego strzału z broni głównej do wroga w promieniu <Ability:CLOSE_ENCOUNTERS_RANGE/> pól.<br/><Bullet/> Bliskich spotkań nie można uruchomić po użyciu strzelania w biegu.<br/><Bullet/> Zasięg tej zdolności pokazuje czerwony okrąg.<br/><Bullet/> Nie można używać jednocześnie z aktywną zdolnością \"Strzelanie w biegu\".<br/>"
+LocLongDescription="Raz na turę otrzymujesz dodatkową akcję po oddaniu zwykłego strzału z broni głównej do wroga w promieniu <Ability:CLOSE_ENCOUNTERS_RANGE> pól."
+LocHelpText="Raz na turę otrzymujesz dodatkową akcję po oddaniu zwykłego strzału z broni głównej do wroga w promieniu <Ability:CLOSE_ENCOUNTERS_RANGE> pól."
+LocPromotionPopupText="<Bullet/> Raz na turę otrzymujesz dodatkową akcję po oddaniu zwykłego strzału z broni głównej do wroga w promieniu <Ability:CLOSE_ENCOUNTERS_RANGE> pól.<br><Bullet/> Bliskich spotkań nie można uruchomić po użyciu strzelania w biegu.<br><Bullet/> Zasięg tej zdolności pokazuje czerwony okrąg.<br><Bullet/> Nie można używać jednocześnie z aktywną zdolnością \"Strzelanie w biegu\".<br>"
 
 [LoneWolf X2AbilityTemplate]
 LocFriendlyName="Samotny wilk"
 LocFlyOverText="Samotny wilk"
 LocLongDescription="Otrzymasz +10 do celności i +10 do obrony, gdy znajdujesz się w odległości 7 lub więcej pól od dowolnego sojusznika."
 LocHelpText="Otrzymasz +10 do celności i +10 do obrony, gdy znajdujesz się w odległości 7 lub więcej pól od dowolnego sojusznika."
-LocPromotionPopupText="<Bullet/> Otrzymasz +10 do celności i +10 do obrony, gdy znajdujesz się w odległości 7 lub więcej pól od dowolnego sojusznika.<br/><Bullet/> Ta zdolność nie zapewnia bonusów do obrony jednostkom zdezorientowanym, ogłuszonym, panikującym, podpalonym lub osłabionym w inny sposób."
+LocPromotionPopupText="<Bullet/> Otrzymasz +10 do celności i +10 do obrony, gdy znajdujesz się w odległości 7 lub więcej pól od dowolnego sojusznika.<br><Bullet/> Ta zdolność nie zapewnia bonusów do obrony jednostkom zdezorientowanym, ogłuszonym, panikującym, podpalonym lub osłabionym w inny sposób."
 
 [LowProfile X2AbilityTemplate]
 LocFriendlyName="Dyskretność"
 LocFlyOverText="Dyskretność"
 LocLongDescription="Sprawia, że częściowa osłona liczy się jako pełna."
 LocHelpText="Sprawia, że częściowa osłona liczy się jako pełna."
-LocPromotionPopupText="<Bullet/> Sprawia, że częściowa osłona liczy się jako pełna.<br/>"
+LocPromotionPopupText="<Bullet/> Sprawia, że częściowa osłona liczy się jako pełna.<br>"
 
 [DoubleTap X2AbilityTemplate]
 LocFriendlyName="Dublet"
 LocFlyOverText="Dublet"
 LocLongDescription="Strzał specjalny: oddaj dwa strzały z broni głównej do tego samego celu. Zabiera obie akcje. Do drugiego strzału otrzymujesz karę -10 do celności."
 LocHelpText="Oddanie dwóch strzałów do jednego celu. Drugi strzał ma karę do celności."
-LocPromotionPopupText="<Bullet/> Dublet pozwala ci oddać dwa strzały do tego samego celu, ale drugi strzał ma karę -10 do celności. Wymaga dwóch akcji i kończy turę żołnierza.<br/><Bullet/> Zużywa <Ability:SelfAmmoCost/> szt. amunicji, czas odnawiania wynosi jedną turę.<br/>"
+LocPromotionPopupText="<Bullet/> Dublet pozwala ci oddać dwa strzały do tego samego celu, ale drugi strzał ma karę -10 do celności. Wymaga dwóch akcji i kończy turę żołnierza.<br><Bullet/> Zużywa <Ability:SelfAmmoCost> szt. amunicji, czas odnawiania wynosi jedną turę.<br>"
 
 [TraverseFire X2AbilityTemplate]
 LocFriendlyName="Przeniesienie ostrzału"
 LocFlyOverText="Przeniesienie ostrzału"
 LocLongDescription="Po oddaniu zwykłego strzału z broni głównej w pierwszej akcji możesz wykonać dodatkową akcję niebędącą ruchem."
 LocHelpText="Po oddaniu zwykłego strzału z broni głównej w pierwszej akcji możesz wykonać dodatkową akcję niebędącą ruchem."
-LocPromotionPopupText="<Bullet/> Po oddaniu zwykłego strzału z broni głównej w pierwszej akcji możesz wykonać dodatkową akcję niebędącą ruchem.<br/>"
+LocPromotionPopupText="<Bullet/> Po oddaniu zwykłego strzału z broni głównej w pierwszej akcji możesz wykonać dodatkową akcję niebędącą ruchem.<br>"
 
 [WalkFire X2AbilityTemplate]
 LocFriendlyName="Bezpieczny strzał"
 LocFlyOverText="Bezpieczny strzał"
-LocLongDescription="Bardzo celny strzał z premią +30 do trafienia, ale zadający połowę obrażeń i mający -30 do trafienia krytycznego. Zużywa <Ability:SelfAmmoCost/> szt. amunicji."
-LocHelpText="Strzał specjalny: +30 do celności, -30 do szansy trafienia krytycznego, połowa obrażeń, zużywa <Ability:SelfAmmoCost/> szt. amunicji."
-LocPromotionPopupText="<Bullet/> To strzał specjalny, w którym żołnierz wprowadza poprawkę celowania w trakcie serii z broni automatycznej, co daje +30 do celności, -30 do szansy trafienia krytycznego i zadaje połowę obrażeń.<br/><Bullet/> Zużywa <Ability:SelfAmmoCost/> szt. amunicji.<br/><Bullet/> Można użyć tylko raz na turę.<br/><Bullet/> Wymaga broni strzelającej seriami; tej zdolności nie można używać, gdy bronią główną jest strzelba lub karabin snajperski."
+LocLongDescription="Bardzo celny strzał z premią +30 do trafienia, ale zadający połowę obrażeń i mający -30 do trafienia krytycznego. Zużywa <Ability:SelfAmmoCost> szt. amunicji."
+LocHelpText="Strzał specjalny: +30 do celności, -30 do szansy trafienia krytycznego, połowa obrażeń, zużywa <Ability:SelfAmmoCost> szt. amunicji."
+LocPromotionPopupText="<Bullet/> To strzał specjalny, w którym żołnierz wprowadza poprawkę celowania w trakcie serii z broni automatycznej, co daje +30 do celności, -30 do szansy trafienia krytycznego i zadaje połowę obrażeń.<br><Bullet/> Zużywa <Ability:SelfAmmoCost> szt. amunicji.<br><Bullet/> Można użyć tylko raz na turę.<br><Bullet/> Wymaga broni strzelającej seriami; tej zdolności nie można używać, gdy bronią główną jest strzelba lub karabin snajperski."
 
 [PrecisionShot X2AbilityTemplate]
 LocFriendlyName="Precyzyjny strzał"
 LocFlyOverText="Precyzyjny strzał"
 LocLongDescription="Oddaj strzał specjalny z premią +30 do szansy trafienia krytycznego i 33% do obrażeń krytycznych. Czas odnawiania wynosi 3 tury."
 LocHelpText="Oddaj strzał specjalny z premią +30 do szansy trafienia krytycznego i 33% do obrażeń krytycznych. Czas odnawiania wynosi 3 tury."
-LocPromotionPopupText="<Bullet/> Oddaj strzał specjalny z premią +30 do szansy trafienia krytycznego i 33% do obrażeń krytycznych. Czas odnawiania wynosi 3 tury.<br/>"
+LocPromotionPopupText="<Bullet/> Oddaj strzał specjalny z premią +30 do szansy trafienia krytycznego i 33% do obrażeń krytycznych. Czas odnawiania wynosi 3 tury.<br>"
 
 [CyclicFire X2AbilityTemplate]
 LocFriendlyName="Szybki ostrzał"
 LocFlyOverText="Szybki ostrzał"
 LocLongDescription="Strzał specjalny: oddanie trzech strzałów w jednym ataku. Zużywa obie akcje, a wszystkie strzały mają karę do celności. Odnawianie trwa 4 tury."
 LocHelpText="Strzał specjalny: oddanie trzech strzałów w jednym ataku. Zużywa obie akcje, a wszystkie strzały mają karę do celności. Odnawianie trwa 4 tury."
-LocPromotionPopupText="<Bullet/> Strzał specjalny: oddanie trzech strzałów w jednym ataku. Zużywa dwie akcje, a wszystkie strzały mają karę -15 do celności.<br/><Bullet/> Wymaga <Ability:SelfAmmoCost/> szt. amunicji.<br/><Bullet/> Wymaga broni strzelającej seriami; tej zdolności nie można używać, gdy bronią główną jest strzelba lub karabin snajperski."
+LocPromotionPopupText="<Bullet/> Strzał specjalny: oddanie trzech strzałów w jednym ataku. Zużywa dwie akcje, a wszystkie strzały mają karę -15 do celności.<br><Bullet/> Wymaga <Ability:SelfAmmoCost> szt. amunicji.<br><Bullet/> Wymaga broni strzelającej seriami; tej zdolności nie można używać, gdy bronią główną jest strzelba lub karabin snajperski."
 
 [StreetSweeper X2AbilityTemplate]
 LocFriendlyName="Strzelba bojowa"
 LocFlyOverText="Strzelba bojowa"
 LocLongDescription="Specjalny strzał tylko dla strzelb będących bronią główną: oddanie strzału o krótkim zasięgu i polu rażenia w kształcie stożka. Czas odnawiania wynosi 3 tury."
 LocHelpText="Specjalny strzał tylko dla strzelb będących bronią główną: oddanie strzału o krótkim zasięgu i polu rażenia w kształcie stożka. Czas odnawiania wynosi 3 tury."
-LocPromotionPopupText="<Bullet/> Specjalny strzał tylko dla strzelb będących bronią główną: oddanie strzału o krótkim zasięgu i polu rażenia w kształcie stożka.<br/><Bullet/> Czas odnawiania wynosi 3 tury, zdolność zużywa <Ability:SelfAmmoCost/> szt. amunicji.<br/><Bullet/> Ta zdolność nie działa z innymi rodzajami broni głównej.<br/><Bullet/> Strzał nie przebije ciężkiej osłony, więc najlepiej używać zdolności w czasie oskrzydlania.<br/><Bullet/> Sojusznicy znajdujący się w polu rażenia mogą zostać zranieni.<br/>"
+LocPromotionPopupText="<Bullet/> Specjalny strzał tylko dla strzelb będących bronią główną: oddanie strzału o krótkim zasięgu i polu rażenia w kształcie stożka.<br><Bullet/> Czas odnawiania wynosi 3 tury, zdolność zużywa <Ability:SelfAmmoCost> szt. amunicji.<br><Bullet/> Ta zdolność nie działa z innymi rodzajami broni głównej.<br><Bullet/> Strzał nie przebije ciężkiej osłony, więc najlepiej używać zdolności w czasie oskrzydlania.<br><Bullet/> Sojusznicy znajdujący się w polu rażenia mogą zostać zranieni.<br>"
 
 [SlugShot X2AbilityTemplate]
 LocFriendlyName="Świetny strzał"
 LocFlyOverText="Świetny strzał"
-LocLongDescription="Specjalny strzał tylko dla strzelb będących bronią główną: oddanie strzału przebijającego 2 punkty pancerza i nie otrzymującego kary za dużą odległość. Zużywa <Ability:SelfAmmoCost/> szt. amunicji. Czas odnawiania wynosi 3 tury."
+LocLongDescription="Specjalny strzał tylko dla strzelb będących bronią główną: oddanie strzału przebijającego 2 punkty pancerza i nie otrzymującego kary za dużą odległość. Zużywa <Ability:SelfAmmoCost> szt. amunicji. Czas odnawiania wynosi 3 tury."
 LocHelpText="Specjalny strzał ze strzelby. Przebija pancerz i nie otrzymuje kary za dużą odległość."
-LocPromotionPopupText="<Bullet/> Specjalny strzał tylko dla strzelb będących bronią główną: oddanie strzału bez kary za zasięg.<br/><Bullet/> Strzał przebija 2 punkty pancerza.<br/><Bullet/> Czas odnawiania wynosi 3 tury.<br/><Bullet/> Zużywa <Ability:SelfAmmoCost/> szt. amunicji.<br/>"
+LocPromotionPopupText="<Bullet/> Specjalny strzał tylko dla strzelb będących bronią główną: oddanie strzału bez kary za zasięg.<br><Bullet/> Strzał przebija 2 punkty pancerza.<br><Bullet/> Czas odnawiania wynosi 3 tury.<br><Bullet/> Zużywa <Ability:SelfAmmoCost> szt. amunicji.<br>"
 
 [SlugShotRangeEffect X2AbilityTemplate]
 LocFriendlyName="Świetny strzał"
 LocFlyOverText="Świetny strzał"
-LocLongDescription="Specjalny strzał tylko dla strzelb będących bronią główną: oddanie strzału bez kary za zasięg. Zużywa <Ability:SelfAmmoCost/> szt. amunicji. Czas odnawiania wynosi 5 tur."
-LocHelpText="Specjalny strzał tylko dla strzelb będących bronią główną: oddanie strzału bez kary za zasięg. Zużywa <Ability:SelfAmmoCost/> szt. amunicji. Czas odnawiania wynosi 5 tur."
-LocPromotionPopupText="<Bullet/> Specjalny strzał tylko dla strzelb będących bronią główną: oddanie strzału bez kary za zasięg.<br/><Bullet/> Czas odnawiania wynosi 5 tur.<br/><Bullet/> Zużywa <Ability:SelfAmmoCost/> szt. amunicji.<br/>"
+LocLongDescription="Specjalny strzał tylko dla strzelb będących bronią główną: oddanie strzału bez kary za zasięg. Zużywa <Ability:SelfAmmoCost> szt. amunicji. Czas odnawiania wynosi 5 tur."
+LocHelpText="Specjalny strzał tylko dla strzelb będących bronią główną: oddanie strzału bez kary za zasięg. Zużywa <Ability:SelfAmmoCost> szt. amunicji. Czas odnawiania wynosi 5 tur."
+LocPromotionPopupText="<Bullet/> Specjalny strzał tylko dla strzelb będących bronią główną: oddanie strzału bez kary za zasięg.<br><Bullet/> Czas odnawiania wynosi 5 tur.<br><Bullet/> Zużywa <Ability:SelfAmmoCost> szt. amunicji.<br>"
 
 [Commissar X2AbilityTemplate]
 LocFriendlyName="Komisarz"
 LocFlyOverText="Komisarz"
 LocLongDescription="Strzały z pistoletu do sojuszników, których umysły są kontrolowane przez wrogów, mają +50 do celności, nie można ich unikać, a po trafieniu automatycznie zabijają cel."
 LocHelpText="Strzały z pistoletu do sojuszników, których umysły są kontrolowane przez wrogów, mają +50 do celności, nie można ich unikać, a po trafieniu automatycznie zabijają cel."
-LocPromotionPopupText="<Bullet/> Strzały z pistoletu do sojuszników, których umysły są kontrolowane przez wrogów, mają +50 do celności, nie można ich unikać, a po trafieniu automatycznie zabijają cel.<br/>"
+LocPromotionPopupText="<Bullet/> Strzały z pistoletu do sojuszników, których umysły są kontrolowane przez wrogów, mają +50 do celności, nie można ich unikać, a po trafieniu automatycznie zabijają cel.<br>"
 
 [ClutchShot X2AbilityTemplate]
 LocFriendlyName="Pewny strzał"
 LocFlyOverText="Pewny strzał"
 LocLongDescription="Raz w ciągu misji możesz oddać z pistoletu strzał, który na pewno trafi."
 LocHelpText="Raz w ciągu misji możesz oddać z pistoletu strzał, który na pewno trafi."
-LocPromotionPopupText="<Bullet/> Raz w ciągu misji możesz oddać z pistoletu strzał, który na pewno trafi.<br/>"
+LocPromotionPopupText="<Bullet/> Raz w ciągu misji możesz oddać z pistoletu strzał, który na pewno trafi.<br>"
 
 [Gunslinger X2AbilityTemplate]
 LocFriendlyName="Rewolwerowiec"
 LocFlyOverText="Rewolwerowiec"
 LocLongDescription="Oddaj strzał reakcji do wroga z pistoletu, który poruszy się lub zaatakuje w odległości do 12 pól i w szerokim stożku widzenia."
 LocHelpText="Ulepszony tryb warty pistoletu z polem ostrzału w kształcie stożka."
-LocPromotionPopupText="<Bullet/> Zasięg wynosi 12 pól.<br/><Bullet/> Czas odnawiania wynosi 3 tury.<br/>"
+LocPromotionPopupText="<Bullet/> Zasięg wynosi 12 pól.<br><Bullet/> Czas odnawiania wynosi 3 tury.<br>"
 
 [HyperReactivePupils X2AbilityTemplate]
 LocFriendlyName="Hiperreaktywne źrenice"
 LocFlyOverText="Hiperreaktywne źrenice"
 LocLongDescription="Po spudłowaniu otrzymujesz premię +10 do celności następnego strzału z broni głównej."
 LocHelpText="Po spudłowaniu otrzymujesz premię +10 do celności następnego strzału z broni głównej."
-LocPromotionPopupText="<Bullet/> Premia działa aż do trafienia następnego celu lub zakończenia misji.<br/><Bullet/> Strzały obszarowe nie dają tej premii.<br/>"
+LocPromotionPopupText="<Bullet/> Premia działa aż do trafienia następnego celu lub zakończenia misji.<br><Bullet/> Strzały obszarowe nie dają tej premii.<br>"
 
 [SteadyWeapon X2AbilityTemplate]
 LocFriendlyName="Stabilizacja broni"
 LocFlyOverText="Stabilizacja broni"
 LocLongDescription="Otrzymasz +20 do celności następnego strzału z broni głównej. Kolejne użycia zdolności zwiększają premię. Premia przepadnie, jeżeli wykonasz jakąś akcję albo odniesiesz rany."
 LocHelpText="Otrzymasz +20 do celności następnego strzału z broni głównej. Kolejne użycia zdolności zwiększają premię. Premia przepadnie, jeżeli wykonasz jakąś akcję albo odniesiesz rany."
-LocPromotionPopupText="<Bullet/> Otrzymasz +20 do celności następnego strzału z broni głównej. Premia przepadnie, jeżeli wykonasz jakąś akcję albo odniesiesz rany.<br/><Bullet/> Nie można stabilizować broni w przygwożdżeniu.<br/><Bullet/> Jeżeli niczego nie zrobisz, efekt przejdzie na następne tury.<br/><Bullet/> Użycie zdolności \"stabilizacja broni\" w kolejnych turach zwiększa premię."
+LocPromotionPopupText="<Bullet/> Otrzymasz +20 do celności następnego strzału z broni głównej. Premia przepadnie, jeżeli wykonasz jakąś akcję albo odniesiesz rany.<br><Bullet/> Nie można stabilizować broni w przygwożdżeniu.<br><Bullet/> Jeżeli niczego nie zrobisz, efekt przejdzie na następne tury.<br><Bullet/> Użycie zdolności \"stabilizacja broni\" w kolejnych turach zwiększa premię."
 
 [LockedOn X2AbilityTemplate]
 LocFriendlyName="Cel namierzony"
 LocFlyOverText="Cel namierzony"
 LocLongDescription="Otrzymasz +10 do celności i +10 do szansy trafienia krytycznego kolejnych strzałów oddawanych do tego samego celu."
 LocHelpText="Otrzymasz +10 do celności kolejnych strzałów oddawanych do tego samego celu."
-LocPromotionPopupText="<Bullet/> Otrzymasz +10 do celności i +10 do szansy trafienia krytycznego kolejnych strzałów z broni głównej oddawanych do tego samego celu. Premia nie kumuluje się i ma zastosowanie tylko do jednostek wroga.<br/><Bullet/> Strzały obszarowe nie wywołują tej premii."
+LocPromotionPopupText="<Bullet/> Otrzymasz +10 do celności i +10 do szansy trafienia krytycznego kolejnych strzałów z broni głównej oddawanych do tego samego celu. Premia nie kumuluje się i ma zastosowanie tylko do jednostek wroga.<br><Bullet/> Strzały obszarowe nie wywołują tej premii."
 
 [Sentinel_LW X2AbilityTemplate]
 LocFriendlyName="Strażnik"
 LocFlyOverText="Strażnik"
 LocLongDescription="W trybie warty możesz oddać dwa strzały reakcji."
 LocHelpText="W trybie warty możesz oddać dwa strzały reakcji."
-LocPromotionPopupText="<Bullet/> Strzały reakcji mogą być skierowane w jeden lub kilka celów, w zależności od ruchu obcych.<br/>"
+LocPromotionPopupText="<Bullet/> Strzały reakcji mogą być skierowane w jeden lub kilka celów, w zależności od ruchu obcych.<br>"
 
 [RapidReaction X2AbilityTemplate]
 LocFriendlyName="Błyskawiczna reakcja"
 LocFlyOverText="Błyskawiczna reakcja"
 LocLongDescription="W trybie warty każdy celny strzał umożliwia ci oddanie kolejnego. Maksymalnie możesz strzelić trzy razy."
 LocHelpText="W trybie warty każdy celny strzał umożliwia ci oddanie kolejnego. Maksymalnie możesz strzelić trzy razy."
-LocPromotionPopupText="<Bullet/> W trybie warty każdy celny strzał umożliwia ci oddanie kolejnego. Maksymalnie możesz strzelić trzy razy.<br/>"
+LocPromotionPopupText="<Bullet/> W trybie warty każdy celny strzał umożliwia ci oddanie kolejnego. Maksymalnie możesz strzelić trzy razy.<br>"
 
 [LightningReflexes_LW X2AbilityTemplate]
 LocFriendlyName="Błyskawiczny refleks"
 LocFlyOverText="Błyskawiczny refleks"
 LocLongDescription="Każdy strzał reakcji przeciwko tobie ma znacznie mniejsze szanse trafienia. Premia spada z każdym kolejnym strzałem reakcji, którego jesteś celem."
 LocHelpText="Każdy strzał reakcji przeciwko tobie ma mniejsze szanse trafienia."
-LocPromotionPopupText="<Bullet/> Każdy strzał reakcji przeciwko tobie ma znacznie mniejsze szanse trafienia.<br/><Bullet/> Pierwszy oddany do ciebie w turze strzał reakcji ma -100 do trafienia, drugi -80, trzeci -60, czwarty -40, a piąty -20. Kolejne strzały reakcji mają standardową szansę trafienia.<br/><Bullet/> Ta zdolność nie zapewnia bonusów do obrony jednostkom zdezorientowanym, ogłuszonym, panikującym, podpalonym lub osłabionym w inny sposób."
+LocPromotionPopupText="<Bullet/> Każdy strzał reakcji przeciwko tobie ma znacznie mniejsze szanse trafienia.<br><Bullet/> Pierwszy oddany do ciebie w turze strzał reakcji ma -100 do trafienia, drugi -80, trzeci -60, czwarty -40, a piąty -20. Kolejne strzały reakcji mają standardową szansę trafienia.<br><Bullet/> Ta zdolność nie zapewnia bonusów do obrony jednostkom zdezorientowanym, ogłuszonym, panikującym, podpalonym lub osłabionym w inny sposób."
 
 [Cutthroat X2AbilityTemplate]
 LocFriendlyName="Rzezimieszek"
@@ -338,35 +338,35 @@ LocFriendlyName="Instynkt zabójcy"
 LocFlyOverText="Instynkt zabójcy"
 LocLongDescription="Uruchomienie strzelania w biegu zwiększa na resztę tury obrażenia krytyczne o 50%."
 LocHelpText="Uruchomienie strzelania w biegu zwiększa na resztę tury obrażenia krytyczne o 50%."
-LocPromotionPopupText="<Bullet/> Uruchomienie strzelania w biegu zwiększa na resztę tury obrażenia krytyczne o 50%.<br/>"
+LocPromotionPopupText="<Bullet/> Uruchomienie strzelania w biegu zwiększa na resztę tury obrażenia krytyczne o 50%.<br>"
 
 [ExtraConditioning X2AbilityTemplate]
 LocFriendlyName="Trening kondycyjny"
 LocFlyOverText="Trening kondycyjny"
 LocLongDescription="Czas odnawiania strzelania w biegu jest krótszy o jedną turę."
 LocHelpText="Czas odnawiania strzelania w biegu jest krótszy o jedną turę."
-LocPromotionPopupText="<Bullet/> Czas odnawiania strzelania w biegu jest krótszy o jedną turę.<br/>"
+LocPromotionPopupText="<Bullet/> Czas odnawiania strzelania w biegu jest krótszy o jedną turę.<br>"
 
 [RunAndGun_LW X2AbilityTemplate]
 LocFriendlyName="Strzelanie w biegu"
 LocFlyOverText="Strzelanie w biegu"
 LocLongDescription="Wykonaj akcję po sprincie."
 LocHelpText="Wykonaj akcję po sprincie."
-LocPromotionPopupText="<Bullet/> Strzelanie w biegu umożliwia żołnierzom szybkie zbliżenie się do wroga albo jego oskrzydlenie.<br/><Bullet/> Czas odnawiania strzelania w biegu wynosi 3 tury.<br/>"
+LocPromotionPopupText="<Bullet/> Strzelanie w biegu umożliwia żołnierzom szybkie zbliżenie się do wroga albo jego oskrzydlenie.<br><Bullet/> Czas odnawiania strzelania w biegu wynosi 3 tury.<br>"
 
 [Suppression_LW X2AbilityTemplate]
 LocFriendlyName="Przygwożdżenie"
 LocFlyOverText="Przygwożdżenie"
-LocLongDescription="Wystrzel salwę przygniatającą cel i dającą możliwość zareagowania ogniem na jego ruch oraz ograniczającą mu dostęp do wielu zdolności. Wróg otrzymuje też karę <Ability:SUPPRESSIONPENALTY/> do celności."
+LocLongDescription="Wystrzel salwę przygniatającą cel i dającą możliwość zareagowania ogniem na jego ruch oraz ograniczającą mu dostęp do wielu zdolności. Wróg otrzymuje też karę <Ability:SUPPRESSIONPENALTY> do celności."
 LocHelpText="Utrudnij wrogowi celowanie i strzel do niego, jeśli się poruszy."
-LocPromotionPopupText="<Bullet/> Przygwożdżenie zużywa amunicję (<Ability:SelfAmmoCost/>), ale nie wymaga odnawiania.<br/><Bullet/> Przygwożdżenie zostanie anulowane, jeśli używająca go jednostka odniesie obrażenia.<br/><Bullet/> Jeśli cel jest przygważdżany przez kilka jednostek, jego kara do celności będzie się kumulować.<br/><Bullet/> Nie można używać z karabinem snajperskim ani strzelbą.<br/><Bullet/> Przygwożdżenie nie pozwala ofierze korzystać z wielu zdolności - w tym używać rakiet i granatów."
+LocPromotionPopupText="<Bullet/> Przygwożdżenie zużywa amunicję (<Ability:SelfAmmoCost>), ale nie wymaga odnawiania.<br><Bullet/> Przygwożdżenie zostanie anulowane, jeśli używająca go jednostka odniesie obrażenia.<br><Bullet/> Jeśli cel jest przygważdżany przez kilka jednostek, jego kara do celności będzie się kumulować.<br><Bullet/> Nie można używać z karabinem snajperskim ani strzelbą.<br><Bullet/> Przygwożdżenie nie pozwala ofierze korzystać z wielu zdolności - w tym używać rakiet i granatów."
 
 [AreaSuppression X2AbilityTemplate]
 LocFriendlyName="Przygwożdżenie obszarowe"
 LocFlyOverText="Przygwożdżenie obszarowe"
-LocLongDescription="Wystrzel salwę przygniatającą kilka celów w promieniu 4 pól i dającą możliwość zareagowania ogniem na ruch każdego z nich. Wrogowie otrzymują też karę <Ability:SUPPRESSIONPENALTY/> do celności na czas działania przygwożdżenia. Nie można korzystać z tego w ukryciu."
+LocLongDescription="Wystrzel salwę przygniatającą kilka celów w promieniu 4 pól i dającą możliwość zareagowania ogniem na ruch każdego z nich. Wrogowie otrzymują też karę <Ability:SUPPRESSIONPENALTY> do celności na czas działania przygwożdżenia. Nie można korzystać z tego w ukryciu."
 LocHelpText="Przygwożdżenie kilku celów w obszarze działania."
-LocPromotionPopupText="<Bullet/> Przygwożdżenie obszarowe nie może zostać użyte przez żołnierza pozostającego w ukryciu.<br/><Bullet/> Póki masz amunicję, każda jednostka, która spróbuje się poruszyć, zostanie ostrzelana w trybie reakcji.<br/><Bullet/> Nie działa ze strzelbami i karabinami snajperskimi.<br/><Bullet/> Przygwożdżenie obszarowe zużywa <Ability:SelfAmmoCost/> szt. amunicji, a potem 1 sztukę za każdy strzał reakcji. Nie wymaga odnawiania.<br/><Bullet/> Przygwożdżenie obszarowe zostanie anulowane, jeśli używająca go jednostka otrzyma obrażenia.<br/><Bullet/> Jeśli cel jest przygważdżany przez kilka jednostek, kara do celności będzie się kumulować.<br/><Bullet/> Przygwożdżenie nie pozwala ofierze korzystać z wielu zdolności - w tym używać rakiet i granatów."
+LocPromotionPopupText="<Bullet/> Przygwożdżenie obszarowe nie może zostać użyte przez żołnierza pozostającego w ukryciu.<br><Bullet/> Póki masz amunicję, każda jednostka, która spróbuje się poruszyć, zostanie ostrzelana w trybie reakcji.<br><Bullet/> Nie działa ze strzelbami i karabinami snajperskimi.<br><Bullet/> Przygwożdżenie obszarowe zużywa <Ability:SelfAmmoCost> szt. amunicji, a potem 1 sztukę za każdy strzał reakcji. Nie wymaga odnawiania.<br><Bullet/> Przygwożdżenie obszarowe zostanie anulowane, jeśli używająca go jednostka otrzyma obrażenia.<br><Bullet/> Jeśli cel jest przygważdżany przez kilka jednostek, kara do celności będzie się kumulować.<br><Bullet/> Przygwożdżenie nie pozwala ofierze korzystać z wielu zdolności - w tym używać rakiet i granatów."
 
 [SuppressionShot_LW X2AbilityTemplate]
 LocFriendlyName="Przygwożdżenie"
@@ -377,56 +377,56 @@ LocFriendlyName="Strefa zagrożenia"
 LocFlyOverText="Strefa zagrożenia"
 LocLongDescription="Przygwożdżenie obszarowe działa na wrogów w promieniu 5 pól."
 LocHelpText="Większe przygwożdżenie obszarowe"
-LocPromotionPopupText="<Bullet/> Przygwożdżenie obszarowe działa na wrogów w promieniu 5 pól.<br/>"
+LocPromotionPopupText="<Bullet/> Przygwożdżenie obszarowe działa na wrogów w promieniu 5 pól.<br>"
 
 [Lockdown X2AbilityTemplate]
 LocFriendlyName="Blokada"
 LocFlyOverText="Blokada"
 LocLongDescription="+15 do szansy trafienia wrogów, którzy próbują poruszyć się w czasie przygwożdżenia."
 LocHelpText="Premia do szansy trafienia i obrażeń przeciw wrogom, którzy próbują poruszyć się w czasie przygwożdżenia."
-LocPromotionPopupText="<Bullet/> +15 do szansy trafienia wrogów, którzy próbują poruszyć się w czasie przygwożdżenia.<br/><Bullet/> Łączy się z innymi premiami do strzałów reakcji."
+LocPromotionPopupText="<Bullet/> +15 do szansy trafienia wrogów, którzy próbują poruszyć się w czasie przygwożdżenia.<br><Bullet/> Łączy się z innymi premiami do strzałów reakcji."
 
 [Lockdown X2AbilityTemplate]
 LocFriendlyName="Blokada"
 LocFlyOverText="Blokada"
 LocLongDescription="+15 do szansy trafienia wrogów, którzy próbują poruszyć się w czasie przygwożdżenia."
 LocHelpText="Premia do szansy trafienia i obrażeń przeciw wrogom, którzy próbują poruszyć się w czasie przygwożdżenia."
-LocPromotionPopupText="<Bullet/> +15 do szansy trafienia wrogów, którzy próbują poruszyć się w czasie przygwożdżenia.<br/><Bullet/> Łączy się z innymi premiami do strzałów reakcji."
+LocPromotionPopupText="<Bullet/> +15 do szansy trafienia wrogów, którzy próbują poruszyć się w czasie przygwożdżenia.<br><Bullet/> Łączy się z innymi premiami do strzałów reakcji."
 
 [Mayhem X2AbilityTemplate]
 LocFriendlyName="Chaos"
 LocFlyOverText="Chaos"
 LocLongDescription="25% dodatkowych obrażeń przeciwko wrogom, którzy próbują poruszyć się w czasie przygwożdżenia."
 LocHelpText="Premia do obrażeń przeciw wrogom, którzy próbują poruszyć się w czasie przygwożdżenia."
-LocPromotionPopupText="<Bullet/> 25% dodatkowych obrażeń przeciwko wrogom, którzy próbują poruszyć się w czasie przygwożdżenia.<br/>"
+LocPromotionPopupText="<Bullet/> 25% dodatkowych obrażeń przeciwko wrogom, którzy próbują poruszyć się w czasie przygwożdżenia.<br>"
 
 [MayhemBonuses X2AbilityTemplate]
 LocFriendlyName="Chaos"
 LocFlyOverText="Chaos"
 LocLongDescription="20% dodatkowych obrażeń przeciwko wrogom, którzy próbują poruszyć się w czasie przygwożdżenia."
 LocHelpText="Premia do obrażeń przeciw wrogom, którzy próbują poruszyć się w czasie przygwożdżenia."
-LocPromotionPopupText="<Bullet/> 20% dodatkowych obrażeń przeciwko wrogom, którzy próbują poruszyć się w czasie przygwożdżenia.<br/>"
+LocPromotionPopupText="<Bullet/> 20% dodatkowych obrażeń przeciwko wrogom, którzy próbują poruszyć się w czasie przygwożdżenia.<br>"
 
 [Interference X2AbilityTemplate]
 LocFriendlyName="Ingerencja"
 LocFlyOverText="Ingerencja"
 LocLongDescription="Gremlin anuluje tryb warty wybranej jednostki. Można użyć trzy razy w każdej bitwie."
 LocHelpText="Anuluje tryb warty wybranej jednostki."
-LocPromotionPopupText="<Bullet/> Anuluje tryb warty wybranej jednostki.<br/><Bullet/> Zabiera jedną akcję.<br/><Bullet/> 3 ładunki w każdej bitwie.<br/>"
+LocPromotionPopupText="<Bullet/> Anuluje tryb warty wybranej jednostki.<br><Bullet/> Zabiera jedną akcję.<br><Bullet/> 3 ładunki w każdej bitwie.<br>"
 
 [DamageControl X2AbilityTemplate]
 LocFriendlyName="Ograniczenie szkód"
 LocFlyOverText="Ograniczenie szkód"
 LocLongDescription="Po odniesieniu obrażeń otrzymasz dwa punkty pancerza do końca następnej tury."
 LocHelpText="Po odniesieniu obrażeń otrzymasz dwa punkty pancerza do końca następnej tury."
-LocPromotionPopupText="<Bullet/> Twój pancerz wzmacnia się na pewien czas po tym, jak zostanie trafiony. Po odniesieniu obrażeń otrzymasz dwa punkty pancerza do końca następnej tury.<br/><Bullet/> Otrzymanie kilku trafień w kolejnych turach wydłuża czas działania tej zdolności.<br/>"
+LocPromotionPopupText="<Bullet/> Twój pancerz wzmacnia się na pewien czas po tym, jak zostanie trafiony. Po odniesieniu obrażeń otrzymasz dwa punkty pancerza do końca następnej tury.<br><Bullet/> Otrzymanie kilku trafień w kolejnych turach wydłuża czas działania tej zdolności.<br>"
 
 [DamageControlPassive X2AbilityTemplate]
 LocFriendlyName="Ograniczenie szkód"
 LocFlyOverText="Ograniczenie szkód"
 LocLongDescription="Po odniesieniu obrażeń otrzymasz dwa punkty pancerza do końca następnej tury."
 LocHelpText="Po odniesieniu obrażeń otrzymasz dwa punkty pancerza do końca następnej tury."
-LocPromotionPopupText="<Bullet/> Po odniesieniu obrażeń otrzymasz dwa punkty pancerza do końca następnej tury.<br/><Bullet/> Otrzymanie trafień w kolejnych turach wydłuża czas działania tej zdolności.<br/>"
+LocPromotionPopupText="<Bullet/> Po odniesieniu obrażeń otrzymasz dwa punkty pancerza do końca następnej tury.<br><Bullet/> Otrzymanie trafień w kolejnych turach wydłuża czas działania tej zdolności.<br>"
 
 [Evasive X2AbilityTemplate]
 LocFriendlyName="Nieuchwytny"
@@ -447,7 +447,7 @@ LocFriendlyName="Szybki strzał"
 LocFlyOverText="Szybki strzał"
 LocLongDescription="Możesz po wykonanym ruchu oddawać standardowe strzały karabinem snajperskim, ale otrzymujesz do wszystkich strzałów duże kary za zasięg, gdy cel znajduje się poza zasięgiem widoku drużynowego o więcej niż 5 pól."
 LocHelpText="Ostrzelanie celu."
-LocPromotionPopupText="<Bullet/> Strzelec wyborowy może teraz używać karabinu snajperskiego do standardowych strzałów po wykonanym ruchu, ale otrzymuje do wszystkich strzałów duże kary za zasięg, gdy cel znajduje się poza zasięgiem ponad 22 pól terenu.<br/><Bullet/> Strzelec wyborowy nie może wejść w tryb warty po wykonaniu ruchu.<br/>"
+LocPromotionPopupText="<Bullet/> Strzelec wyborowy może teraz używać karabinu snajperskiego do standardowych strzałów po wykonanym ruchu, ale otrzymuje do wszystkich strzałów duże kary za zasięg, gdy cel znajduje się poza zasięgiem ponad 22 pól terenu.<br><Bullet/> Strzelec wyborowy nie może wejść w tryb warty po wykonaniu ruchu.<br>"
 
 [SnapShotOverwatch X2AbilityTemplate]
 LocFriendlyName="Warta"
@@ -467,76 +467,76 @@ LocFriendlyName="Trojan"
 LocFlyOverText="Trojan"
 LocLongDescription="Zhakowane jednostki wroga odnoszą obrażenia i tracą akcje w turze, w której kończy się efekt hakowania."
 LocHelpText="Zhakowane jednostki odnoszą obrażenia i tracą akcję, gdy zakończy się efekt hakowania."
-LocPromotionPopupText="<Bullet/> Jednostki wroga zhakowane przez protokół przechwytujący odnoszą od 0 do 8 obrażeń i tracą akcje w turze, w której kończy się efekt hakowania.<br/><Bullet/> Odnosi się do jednostek ogłuszonych lub przejętych za pomocą protokołu przechwytującego.<br/><Bullet/> Obrażenia oblicza się w oparciu o porównanie statystyki hakowania z obroną przed hakowaniem celu.<br/>"
+LocPromotionPopupText="<Bullet/> Jednostki wroga zhakowane przez protokół przechwytujący odnoszą od 0 do 8 obrażeń i tracą akcje w turze, w której kończy się efekt hakowania.<br><Bullet/> Odnosi się do jednostek ogłuszonych lub przejętych za pomocą protokołu przechwytującego.<br><Bullet/> Obrażenia oblicza się w oparciu o porównanie statystyki hakowania z obroną przed hakowaniem celu.<br>"
 
 [Covert X2AbilityTemplate]
 LocFriendlyName="Zamaskowanie"
 LocFlyOverText="Zamaskowanie"
 LocLongDescription="Wrogowie mają o 25% mniejszy zasięg wykrywania cię."
 LocHelpText="Wrogowie mają mniejszy zasięg wykrywania cię."
-LocPromotionPopupText="<Bullet/> Wrogowie mają o 25% mniejszy zasięg wykrywania, co pokazują czerwone pola otaczające wrogów, którzy nie wiedzą o twojej obecności.<br/><Bullet/> Zapewnia niewielkie zmniejszenie wpływu tego żołnierza na czas infiltracji.<br/><Bullet/> Nie działa na wieżyczki strażnicze ADVENT-u."
+LocPromotionPopupText="<Bullet/> Wrogowie mają o 25% mniejszy zasięg wykrywania, co pokazują czerwone pola otaczające wrogów, którzy nie wiedzą o twojej obecności.<br><Bullet/> Zapewnia niewielkie zmniejszenie wpływu tego żołnierza na czas infiltracji.<br><Bullet/> Nie działa na wieżyczki strażnicze ADVENT-u."
 
 [Ghostwalker X2AbilityTemplate]
 LocFriendlyName="Bezszelestny"
 LocFlyOverText="Bezszelestny"
 LocLongDescription="Aktywuj tę zdolność, żeby do końca następnej tury zmniejszyć zasięg wykrywania cię przez wroga o 25%."
 LocHelpText="Zasięg wykrywania przez wroga zostaje na dwie tury zmniejszony o 25%."
-LocPromotionPopupText="<Bullet/> Aktywuj tę zdolność, żeby do końca następnej tury zmniejszyć o 25% zasięg wykrywania cię przez wroga, co pokazują czerwone pola wokół wrogów, którzy nie wiedzą o twojej obecności.<br/><Bullet/> Odnawianie trwa <Ability:SelfCooldown/> tur.<br/><Bullet/> Nie wymaga akcji.<br/><Bullet/> Zapewnia niewielkie zmniejszenie wpływu tego żołnierza na czas infiltracji.<br/><Bullet/> Nie działa na wieżyczki strażnicze ADVENT-u."
+LocPromotionPopupText="<Bullet/> Aktywuj tę zdolność, żeby do końca następnej tury zmniejszyć o 25% zasięg wykrywania cię przez wroga, co pokazują czerwone pola wokół wrogów, którzy nie wiedzą o twojej obecności.<br><Bullet/> Odnawianie trwa <Ability:SelfCooldown> tur.<br><Bullet/> Nie wymaga akcji.<br><Bullet/> Zapewnia niewielkie zmniejszenie wpływu tego żołnierza na czas infiltracji.<br><Bullet/> Nie działa na wieżyczki strażnicze ADVENT-u."
 
 [Kubikuri X2AbilityTemplate]
 LocFriendlyName="Kubikiri"
 LocFlyOverText="Kubikiri"
 LocLongDescription="Specjalny strzał przeciwko wrogom z niepełnym zdrowiem: zabije ich każde trafienie krytyczne, ale zwykłe trafienia zadają im tylko połowę obrażeń. Wymaga dwóch akcji, czas odnawiania wynosi 4 tury."
 LocHelpText="Trafienia krytyczne zabijają każdego wroga mającego mniej niż 50% punktów zdrowia. Zwykłe trafienia zadają połowę obrażeń."
-LocPromotionPopupText="<Bullet/> Specjalny strzał przeciwko rannym wrogom. Każde trafienie krytyczne zabije ich, ale zwykłe trafienia zadają im tylko połowę obrażeń.<br/><Bullet/> Wymaga dwóch akcji.<br/><Bullet/> Czas odnawiania wynosi 4 tury.<br/><Bullet/> Trafienia krytyczne nie zabijają władców obcych i jedynie zadają im podwójne obrażenia.<br/>"
+LocPromotionPopupText="<Bullet/> Specjalny strzał przeciwko rannym wrogom. Każde trafienie krytyczne zabije ich, ale zwykłe trafienia zadają im tylko połowę obrażeń.<br><Bullet/> Wymaga dwóch akcji.<br><Bullet/> Czas odnawiania wynosi 4 tury.<br><Bullet/> Trafienia krytyczne nie zabijają władców obcych i jedynie zadają im podwójne obrażenia.<br>"
 
 [CombatAwareness X2AbilityTemplate]
 LocFriendlyName="Zmysł bojowy"
 LocFlyOverText="Zmysł bojowy"
 LocLongDescription="W trybie warty zapewnia 15 pkt. obrony i 1 pkt pancerza."
 LocHelpText="W trybie warty zapewnia 15 pkt. obrony i 1 pkt pancerza."
-LocPromotionPopupText="<Bullet/> W trybie warty zapewnia 15 pkt. obrony i 1 pkt pancerza.<br/><Bullet/> Ta zdolność nie zapewnia bonusów do obrony jednostkom zdezorientowanym, ogłuszonym, panikującym, podpalonym lub osłabionym w inny sposób."
+LocPromotionPopupText="<Bullet/> W trybie warty zapewnia 15 pkt. obrony i 1 pkt pancerza.<br><Bullet/> Ta zdolność nie zapewnia bonusów do obrony jednostkom zdezorientowanym, ogłuszonym, panikującym, podpalonym lub osłabionym w inny sposób."
 
 [FieldSurgeon X2AbilityTemplate]
 LocFriendlyName="Lekarz polowy"
 LocFlyOverText="Lekarz polowy"
 LocLongDescription="Skrócenie czasu leczenia ran większości żołnierzy."
 LocHelpText="Skrócenie czasu leczenia ran większości żołnierzy."
-LocPromotionPopupText="<Bullet/> Lekarz polowy zmniejsza o 1 liczbę punktów zdrowia, które musi odzyskać żołnierz po odniesieniu ran w walce.<br/><Bullet/> Kilku lekarzy polowych w misji może dodatkowo skrócić czas zdrowienia.<br/><Bullet/> Ten efekt obejmuje także żołnierza posiadającego tę zdolność.<br/><Bullet/> Nie wpływa na żołnierzy, którzy odnieśli śmiertelne rany i zostali ustabilizowani, gdy wykrwawiali się."
+LocPromotionPopupText="<Bullet/> Lekarz polowy zmniejsza o 1 liczbę punktów zdrowia, które musi odzyskać żołnierz po odniesieniu ran w walce.<br><Bullet/> Kilku lekarzy polowych w misji może dodatkowo skrócić czas zdrowienia.<br><Bullet/> Ten efekt obejmuje także żołnierza posiadającego tę zdolność.<br><Bullet/> Nie wpływa na żołnierzy, którzy odnieśli śmiertelne rany i zostali ustabilizowani, gdy wykrwawiali się."
 
 [Flashbanger X2AbilityTemplate]
 LocFriendlyName="Błyskomistrz"
 LocFlyOverText="Błyskomistrz"
 LocLongDescription="W twoim wyposażeniu znajduje się 1 darmowy granat błyskowy."
 LocHelpText="W twoim wyposażeniu znajduje się 1 darmowy granat błyskowy."
-LocPromotionPopupText="<Bullet/> W twoim wyposażeniu znajduje się 1 darmowy granat błyskowy.<br/>"
+LocPromotionPopupText="<Bullet/> W twoim wyposażeniu znajduje się 1 darmowy granat błyskowy.<br>"
 
 [SmokeGrenade X2AbilityTemplate]
 LocFriendlyName="Dymiarz"
 LocFlyOverText="Dymiarz"
 LocLongDescription="Dodaje do twojego wyposażenia jeden darmowy granat dymny."
 LocHelpText="Dodaje do twojego wyposażenia jeden darmowy granat dymny."
-LocPromotionPopupText="<Bullet/> Dodaje do twojego wyposażenia jeden darmowy granat dymny.<br/>"
+LocPromotionPopupText="<Bullet/> Dodaje do twojego wyposażenia jeden darmowy granat dymny.<br>"
 
 [Savior X2AbilityTemplate]
 LocFriendlyName="Zbawca"
 LocFlyOverText="Zbawca"
-LocLongDescription="Zdolności leczenia przywracają dodatkowe <Ability:SAVIOR_BONUS_HEAL/> punkty zdrowia."
-LocHelpText="Zdolności leczenia przywracają dodatkowe <Ability:SAVIOR_BONUS_HEAL/> punkty zdrowia."
-LocPromotionPopupText="<Bullet/> Efekt dotyczy leczenia przez gremlina, apteczki i zdolności regeneracji.<br/>"
+LocLongDescription="Zdolności leczenia przywracają dodatkowe <Ability:SAVIOR_BONUS_HEAL> punkty zdrowia."
+LocHelpText="Zdolności leczenia przywracają dodatkowe <Ability:SAVIOR_BONUS_HEAL> punkty zdrowia."
+LocPromotionPopupText="<Bullet/> Efekt dotyczy leczenia przez gremlina, apteczki i zdolności regeneracji.<br>"
 
 [DenseSmoke X2AbilityTemplate]
 LocFriendlyName="Gęsty dym"
 LocFlyOverText="Gęsty dym"
 LocLongDescription="Twoje granaty dymne zapewniają dodatkowe <Ability:DenseSmoke_DefenseBonus_LW> pkt. do obrony."
 LocHelpText="Twoje granaty dymne zapewniają dodatkowe <Ability:DenseSmoke_DefenseBonus_LW> pkt. do obrony."
-LocPromotionPopupText="<Bullet/> Twoje granaty dymne zapewniają dodatkowe <Ability:DenseSmoke_DefenseBonus_LW> pkt. do obrony, łącznie <Ability:DenseSmoke_DefenseTotal_LW>, jednostkom znajdującym się w obrębie dymu.<br/>"
+LocPromotionPopupText="<Bullet/> Twoje granaty dymne zapewniają dodatkowe <Ability:DenseSmoke_DefenseBonus_LW> pkt. do obrony, łącznie <Ability:DenseSmoke_DefenseTotal_LW>, jednostkom znajdującym się w obrębie dymu.<br>"
 
 [DenseSmokeGrenade X2GrenadeTemplate]
 FriendlyName="Granat z gęstym dymem"
 FriendlyNamePlural="Granaty z gęstym dymem"
 BriefSummary="Zapewnia większą premię do obrony każdej jednostce w zasięgu obłoku dymu, zarówno sprzymierzonej, jak i wrogiej."
-TacticalText="<Bullet/> Zasłonę dymną wznosi się, by błyskawicznie zwiększyć obronę pobliskich jednostek.<br/><Bullet/> Granaty dymne można rzucać albo wystrzeliwać na znacznie większe odległości niż zwykłe granaty."
+TacticalText="<Bullet/> Zasłonę dymną wznosi się, by błyskawicznie zwiększyć obronę pobliskich jednostek.<br><Bullet/> Granaty dymne można rzucać albo wystrzeliwać na znacznie większe odległości niż zwykłe granaty."
 ThrownAbilityName="Rzuć granat z gęstym dymem"
 ThrownAbilityHelpText="Zapewnia premię do obrony jednostkom w zasięgu."
 LaunchedAbilityname="Wystrzel granat z gęstym dymem"
@@ -546,7 +546,7 @@ LaunchedAbilityHelpText="Zapewnia premię do obrony jednostkom w zasięgu."
 FriendlyName="Bomba z gęstym dymem"
 FriendlyNamePlural="Bomby z gęstym dymem"
 BriefSummary="Ulepszona bomba z gęstym dymem zapewnia dużą premię do obrony wszystkim jednostkom w zasięgu obłoku, zarówno sprzymierzonym, jak i wrogim."
-TacticalText="<Bullet/> Bomby z gęstym dymem, potężne ulepszenie wcześniejszych granatów dymnych, dają większą premię do obrony na większym obszarze.<br/><Bullet/> Zasłonę dymną wznosi się, by błyskawicznie zwiększyć obronę pobliskich jednostek.<br/><Bullet/> Bomby z dymem można rzucać albo wystrzeliwać na znacznie większe odległości niż zwykłe granaty."
+TacticalText="<Bullet/> Bomby z gęstym dymem, potężne ulepszenie wcześniejszych granatów dymnych, dają większą premię do obrony na większym obszarze.<br><Bullet/> Zasłonę dymną wznosi się, by błyskawicznie zwiększyć obronę pobliskich jednostek.<br><Bullet/> Bomby z dymem można rzucać albo wystrzeliwać na znacznie większe odległości niż zwykłe granaty."
 ThrownAbilityName="Rzuć bombę z gęstym dymem"
 ThrownAbilityHelpText="Zapewnia dużą premię do obrony jednostkom w zasięgu."
 LaunchedAbilityname="Wystrzel bombę z gęstym dymem"
@@ -557,7 +557,7 @@ LocFriendlyName="Granaty obezwładniające"
 LocFlyOverText="Granaty obezwładniające"
 LocLongDescription="Twoje granaty błyskowe mają 50% szans na ogłuszenie na jedną turę wrogów znajdujących się w ich polu rażenia."
 LocHelpText="Twoje granaty błyskowe mają 50% szans na ogłuszenie wrogów."
-LocPromotionPopupText="<Bullet/> Twoje granaty błyskowe mają 50% szans na ogłuszenie wrogów.<br/>"
+LocPromotionPopupText="<Bullet/> Twoje granaty błyskowe mają 50% szans na ogłuszenie wrogów.<br>"
 
 [X2Item_StingGrenade]
 DenseSmokeGrenadeEffectDisplayName="Granat igłowy"
@@ -567,7 +567,7 @@ DenseSmokeGrenadeEffectDisplayDesc="Granaty igłowe mają 50% szans na ogłuszen
 FriendlyName="Granat obezwładniający"
 FriendlyNamePlural="Granaty obezwładniające"
 BriefSummary="Daje 50% szans na ogłuszenia celów w polu rażenia na jedną turę, może też wywołać ich dezorientację."
-TacticalText="<Bullet/> Daje 50% szans na ogłuszenia celów w polu rażenia na jedną turę, może też wywołać ich dezorientację.<br/>"
+TacticalText="<Bullet/> Daje 50% szans na ogłuszenia celów w polu rażenia na jedną turę, może też wywołać ich dezorientację.<br>"
 ThrownAbilityName="Rzuć granat obezwładniający"
 ThrownAbilityHelpText="Daje 50% szans na ogłuszenia celów w polu rażenia na jedną turę, może też wywołać ich dezorientację."
 LaunchedAbilityname="Wystrzel granat obezwładniający"
@@ -578,14 +578,14 @@ LocFriendlyName="Szybkie użycie"
 LocFlyOverText="Szybkie użycie"
 LocLongDescription="Uruchom tę zdolność, zanim rzucisz lub wystrzelisz granat wsparcia, żeby nie wymagało to wydania akcji."
 LocHelpText="Uruchom tę zdolność, zanim rzucisz lub wystrzelisz granat wsparcia, żeby nie wymagało to wydania akcji."
-LocPromotionPopupText="<Bullet/> Uruchom tę zdolność, zanim rzucisz lub wystrzelisz granat wsparcia, żeby uniknąć kosztu w punktach akcji.<br/><Bullet/> Dotyczy granatów dymnych, błyskowych i skanerów bojowych.<br/><Bullet/> Czas odnawiania wynosi dwie tury.<br/>"
+LocPromotionPopupText="<Bullet/> Uruchom tę zdolność, zanim rzucisz lub wystrzelisz granat wsparcia, żeby uniknąć kosztu w punktach akcji.<br><Bullet/> Dotyczy granatów dymnych, błyskowych i skanerów bojowych.<br><Bullet/> Czas odnawiania wynosi dwie tury.<br>"
 
 [CombatRush X2AbilityTemplate]
 LocFriendlyName="Gorączka walki"
 LocFlyOverText="Gorączka walki"
 LocLongDescription="Kiedy zabijesz wroga, znajdujący się w pobliżu sojusznicy otrzymają tymczasowe premie do celności, szansy trafienia krytycznego i mobilności. Odnawianie trwa 5 tur."
 LocHelpText="Kiedy zabijesz wroga, znajdujący się w pobliżu sojusznicy otrzymają tymczasową premię do celności, szansy trafienia krytycznego i mobilności."
-LocPromotionPopupText="<Bullet/> Gorączka bojowa zostanie uruchomiona, gdy zabijesz jednostkę wroga. Sojusznicy w odległości do 7 pół otrzymają premię +10 do celności, +10 do szansy trafienia krytycznego oraz +1 do mobilności.<br/><Bullet/> Ten efekt trwa do końca następnej tury.<br/><Bullet/> Można z niego korzystać tylko co pięć tur.<br/>"
+LocPromotionPopupText="<Bullet/> Gorączka bojowa zostanie uruchomiona, gdy zabijesz jednostkę wroga. Sojusznicy w odległości do 7 pół otrzymają premię +10 do celności, +10 do szansy trafienia krytycznego oraz +1 do mobilności.<br><Bullet/> Ten efekt trwa do końca następnej tury.<br><Bullet/> Można z niego korzystać tylko co pięć tur.<br>"
 
 [BroadcastCombatRush X2AbilityTemplate]
 LocFriendlyName="Gorączka walki"
@@ -598,77 +598,77 @@ LocFriendlyName="Draśnięcie"
 LocFlyOverText="Draśnięcie"
 LocLongDescription="Niecelne strzały z broni głównej mają dodatkową szansę zadania draśnięcia."
 LocHelpText="Pudła mogą stać się draśnięciami."
-LocPromotionPopupText="<Bullet/> Niecele strzały z broni głównej żołnierza posiadają <Ability:GRAZING_FIRE_SUCCESS_CHANCE>% szans na zadanie draśnięcia.<br/><Bullet/> Ten efekt działa po przeliczeniu normalnej procedury trafienie, pudło, draśnięcie.<br/><Bullet/> Jeśli cel posiada punkty uniku, ich wartość zostanie odjęta od szansy powodzenia zdolności."
+LocPromotionPopupText="<Bullet/> Niecele strzały z broni głównej żołnierza posiadają <Ability:GRAZING_FIRE_SUCCESS_CHANCE>% szans na zadanie draśnięcia.<br><Bullet/> Ten efekt działa po przeliczeniu normalnej procedury trafienie, pudło, draśnięcie.<br><Bullet/> Jeśli cel posiada punkty uniku, ich wartość zostanie odjęta od szansy powodzenia zdolności."
 
 [HeavyFrags X2AbilityTemplate]
 LocFriendlyName="Wzmocnione rdzenie"
 LocFlyOverText="Wzmocnione rdzenie"
 LocLongDescription="Wybuchające granaty zadają jedno dodatkowe obrażenie."
 LocHelpText="Wybuchające granaty zadają jedno dodatkowe obrażenie."
-LocPromotionPopupText="<Bullet/> Twoje granaty mają dodatkowy ładunek i zadają o 1 pkt. obrażeń więcej, ale korzystanie z nich wymaga specjalnego szkolenia.<br/><Bullet/> Premia dotyczy również dodatkowych efektów, jak płomienie z granatów zapalających.<br/>"
+LocPromotionPopupText="<Bullet/> Twoje granaty mają dodatkowy ładunek i zadają o 1 pkt. obrażeń więcej, ale korzystanie z nich wymaga specjalnego szkolenia.<br><Bullet/> Premia dotyczy również dodatkowych efektów, jak płomienie z granatów zapalających.<br>"
 
 [Airdrop X2AbilityTemplate]
 LocFriendlyName="Zrzut"
 LocFlyOverText="Zrzut"
 LocLongDescription="Gremlin daje granat wybranemu sojusznikowi. Można użyć dwukrotnie w trakcie misji."
 LocHelpText="Daje granat wybranemu sojusznikowi."
-LocPromotionPopupText="<Bullet/> Daje granat wybranemu sojusznikowi.<br/><Bullet/> Początkowo \"zrzut\" daje granat odłamkowy, ale w miarę rozwoju technologii XCOM będzie on zastępowany nowocześniejszymi konstrukcjami.<br/> Aktywacja \"zrzutu\" zużywa jedną akcję i nie kończy tury żołnierza.<br/><Bullet/> Można użyć tylko dwa razy na misję."
+LocPromotionPopupText="<Bullet/> Daje granat wybranemu sojusznikowi.<br><Bullet/> Początkowo \"zrzut\" daje granat odłamkowy, ale w miarę rozwoju technologii XCOM będzie on zastępowany nowocześniejszymi konstrukcjami.<br> Aktywacja \"zrzutu\" zużywa jedną akcję i nie kończy tury żołnierza.<br><Bullet/> Można użyć tylko dwa razy na misję."
 
 [SwordSlice_LW X2AbilityTemplate]
 LocFriendlyName="Strzała"
 LocFlyOverText="Strzała"
-LocLongDescription="Zaatakowanie mieczem dowolnego wroga, który znajduje się w zasięgu ruchu. Zadaje 1 pkt. dodatkowych obrażeń za każdy odcinek złożony z <Ability:FLECHE_BONUS_DAMAGE_PER_TILES/> pól dzielący twoją pozycję początkową od celu."
+LocLongDescription="Zaatakowanie mieczem dowolnego wroga, który znajduje się w zasięgu ruchu. Zadaje 1 pkt. dodatkowych obrażeń za każdy odcinek złożony z <Ability:FLECHE_BONUS_DAMAGE_PER_TILES> pól dzielący twoją pozycję początkową od celu."
 LocHelpText="Zaatakowanie mieczem dowolnego wroga, który znajduje się w zasięgu ruchu. Ataki z większej odległości zadają dodatkowe obrażenia."
-LocPromotionPopupText="<Bullet/> Możesz użyć zdolności wypadu, naprowadzając kursor ruchu na wroga.<br/><Bullet/> Żołnierz może wykonać ruch sprintem, zużywając obie akcje na przemieszczenie się, i nadal użyć ataku przeciwko wrogowi na sąsiednim polu.<br/><Bullet/> Wypad zadaje 1 dodatkowe obrażenie za każdy odcinek złożony z <Ability:FLECHE_BONUS_DAMAGE_PER_TILES/> pól dzielący jednostkę od celu na początku jej tury.<br/>"
+LocPromotionPopupText="<Bullet/> Możesz użyć zdolności wypadu, naprowadzając kursor ruchu na wroga.<br><Bullet/> Żołnierz może wykonać ruch sprintem, zużywając obie akcje na przemieszczenie się, i nadal użyć ataku przeciwko wrogowi na sąsiednim polu.<br><Bullet/> Wypad zadaje 1 dodatkowe obrażenie za każdy odcinek złożony z <Ability:FLECHE_BONUS_DAMAGE_PER_TILES> pól dzielący jednostkę od celu na początku jej tury.<br>"
 
 [Fleche X2AbilityTemplate]
 LocFriendlyName="Strzała"
 LocFlyOverText="Strzała"
-LocLongDescription="Zaatakowanie mieczem dowolnego wroga, który znajduje się w zasięgu ruchu. Zadaje 1 pkt. dodatkowych obrażeń za każdy odcinek złożony z <Ability:FLECHE_BONUS_DAMAGE_PER_TILES/> pól dzielący twoją pozycję początkową od celu."
+LocLongDescription="Zaatakowanie mieczem dowolnego wroga, który znajduje się w zasięgu ruchu. Zadaje 1 pkt. dodatkowych obrażeń za każdy odcinek złożony z <Ability:FLECHE_BONUS_DAMAGE_PER_TILES> pól dzielący twoją pozycję początkową od celu."
 LocHelpText="Zaatakowanie mieczem dowolnego wroga, który znajduje się w zasięgu ruchu. Ataki z większej odległości zadają dodatkowe obrażenia."
-LocPromotionPopupText="<Bullet/> Możesz użyć zdolności wypadu, naprowadzając kursor ruchu na wroga.<br/><Bullet/> Żołnierz może wykonać ruch sprintem, zużywając obie akcje na przemieszczenie się, i nadal użyć ataku przeciwko wrogowi na sąsiednim polu.<br/><Bullet/> Wypad zadaje 1 dodatkowe obrażenie za każdy odcinek złożony z <Ability:FLECHE_BONUS_DAMAGE_PER_TILES/> pól dzielący jednostkę od celu na początku jej tury.<br/>"
+LocPromotionPopupText="<Bullet/> Możesz użyć zdolności wypadu, naprowadzając kursor ruchu na wroga.<br><Bullet/> Żołnierz może wykonać ruch sprintem, zużywając obie akcje na przemieszczenie się, i nadal użyć ataku przeciwko wrogowi na sąsiednim polu.<br><Bullet/> Wypad zadaje 1 dodatkowe obrażenie za każdy odcinek złożony z <Ability:FLECHE_BONUS_DAMAGE_PER_TILES> pól dzielący jednostkę od celu na początku jej tury.<br>"
 
 [FullKit X2AbilityTemplate]
 LocFriendlyName="Pełny arsenał"
 LocFlyOverText="Pełny arsenał"
 LocLongDescription="Daje dodatkowy ładunek za każdy granat w miejscu na przedmiot pomocniczy."
 LocHelpText="Daje dodatkowy ładunek za każdy granat w miejscu na przedmiot pomocniczy."
-LocPromotionPopupText="<Bullet/> Daje +1 ładunek za każdy granat w miejscu na przedmiot pomocniczy.<br/><Bullet/> Dotyczy granatów wybuchowych i wsparcia, a także skanerów bojowych.<br/>"
+LocPromotionPopupText="<Bullet/> Daje +1 ładunek za każdy granat w miejscu na przedmiot pomocniczy.<br><Bullet/> Dotyczy granatów wybuchowych i wsparcia, a także skanerów bojowych.<br>"
 
 [Bastion X2AbilityTemplate]
 LocFriendlyName="Twierdza"
 LocLongDescription="Forteca daje teraz nietykalność członkom drużyny znajdującym się w pobliżu."
 LocHelpText="Forteca daje teraz nietykalność członkom drużyny znajdującym się w pobliżu."
 LocFlyOverText="Twierdza"
-LocPromotionPopupText="<Bullet/> Twierdza ma zasięg 4 pól.<br/><Bullet/> Ustawienie się obok chorych sojuszników natychmiast usunie z nich negatywne skutki ich stanu fizycznego.<br/>"
+LocPromotionPopupText="<Bullet/> Twierdza ma zasięg 4 pól.<br><Bullet/> Ustawienie się obok chorych sojuszników natychmiast usunie z nich negatywne skutki ich stanu fizycznego.<br>"
 
 [BastionPassive X2AbilityTemplate]
 LocFriendlyName="Twierdza"
 LocLongDescription="Forteca daje teraz nietykalność członkom drużyny znajdującym się w pobliżu."
 LocHelpText="Forteca daje teraz nietykalność członkom drużyny znajdującym się w pobliżu."
 LocFlyOverText="Twierdza"
-LocPromotionPopupText="<Bullet/> Twierdza ma zasięg 4 pól.<br/><Bullet/> Ustawienie się obok chorych sojuszników natychmiast usunie z nich negatywne skutki ich stanu fizycznego.<br/>"
+LocPromotionPopupText="<Bullet/> Twierdza ma zasięg 4 pól.<br><Bullet/> Ustawienie się obok chorych sojuszników natychmiast usunie z nich negatywne skutki ich stanu fizycznego.<br>"
 
 [BastionCleanse X2AbilityTemplate]
 LocFriendlyName="Twierdza"
 LocLongDescription="Forteca daje teraz nietykalność członkom drużyny znajdującym się w pobliżu."
 LocHelpText="Forteca daje teraz nietykalność członkom drużyny znajdującym się w pobliżu."
 LocFlyOverText="Twierdza"
-LocPromotionPopupText="<Bullet/> Twierdza ma zasięg 4 pól.<br/><Bullet/> Ustawienie się obok chorych sojuszników natychmiast usunie z nich negatywne skutki ich stanu fizycznego.<br/>"
+LocPromotionPopupText="<Bullet/> Twierdza ma zasięg 4 pól.<br><Bullet/> Ustawienie się obok chorych sojuszników natychmiast usunie z nich negatywne skutki ich stanu fizycznego.<br>"
 
 [IronCurtain X2AbilityTemplate]
 LocFriendlyName="Żelazna kurtyna"
 LocFlyOverText="Żelazna kurtyna"
 LocLongDescription="Specjalny strzał zadający niewielkie obrażenia, ale zmniejszający mobilność celu na kolejne dwie tury. Atak bronią główną o polu rażenia w kształcie stożka."
 LocHelpText="Specjalny strzał zadający niewielkie obrażenia, ale zmniejszający mobilność wroga na kolejne dwie tury."
-LocPromotionPopupText="<Bullet/> Jeżeli żelazna kurtyna trafi atakiem o strefie rażenia w kształcie stożka, zadaje połowę zwykłych obrażeń i zmniejszy mobilność wroga o 5 pkt. na dwie tury.<br/><Bullet/> Czas odnawiania wynosi 3 tury.<br/><Bullet/> Zużywa 3 sztuki amunicji.<br/><Bullet/> Można użyć po wykonaniu ruchu.<br/><Bullet/> Żelazna kurtyna nie działa ze strzelbami i karabinami snajperskimi.<br/><Bullet/> Sojusznicy znajdujący się w stożkowym polu rażenia mogą zostać trafieni przez tę zdolność.<br/>"
+LocPromotionPopupText="<Bullet/> Jeżeli żelazna kurtyna trafi atakiem o strefie rażenia w kształcie stożka, zadaje połowę zwykłych obrażeń i zmniejszy mobilność wroga o 5 pkt. na dwie tury.<br><Bullet/> Czas odnawiania wynosi 3 tury.<br><Bullet/> Zużywa 3 sztuki amunicji.<br><Bullet/> Można użyć po wykonaniu ruchu.<br><Bullet/> Żelazna kurtyna nie działa ze strzelbami i karabinami snajperskimi.<br><Bullet/> Sojusznicy znajdujący się w stożkowym polu rażenia mogą zostać trafieni przez tę zdolność.<br>"
 
 [IronCurtainShot X2AbilityTemplate]
 LocFriendlyName="Żelazna kurtyna"
 LocFlyOverText="Żelazna kurtyna"
 LocLongDescription="Specjalny strzał zadający niewielkie obrażenia, ale zmniejszający mobilność wroga na dwie kolejne tury. Atak bronią główną o polu rażenia w kształcie stożka."
 LocHelpText="Specjalny strzał zadający niewielkie obrażenia, ale zmniejszający mobilność wroga na kolejne dwie tury."
-LocPromotionPopupText="<Bullet/> Jeżeli żelazna kurtyna trafi, zadaje 25% zwykłych obrażeń i na dwie tury zmniejszy mobilność wroga o 4 pkt.<br/><Bullet/> Czas odnawiania wynosi 4 tury.<br/><Bullet/> Zużywa <Ability:SelfAmmoCost/> szt. amunicji.<br/><Bullet/> Można użyć po wykonaniu ruchu.<br/><Bullet/> Żelazna kurtyna nie działa ze strzelbami i karabinami snajperskimi.<br/>"
+LocPromotionPopupText="<Bullet/> Jeżeli żelazna kurtyna trafi, zadaje 25% zwykłych obrażeń i na dwie tury zmniejszy mobilność wroga o 4 pkt.<br><Bullet/> Czas odnawiania wynosi 4 tury.<br><Bullet/> Zużywa <Ability:SelfAmmoCost> szt. amunicji.<br><Bullet/> Można użyć po wykonaniu ruchu.<br><Bullet/> Żelazna kurtyna nie działa ze strzelbami i karabinami snajperskimi.<br>"
 str_IronCurtainEffect="Żelazna kurtyna"
 
 [Slash_LW X2AbilityTemplate]
@@ -676,69 +676,69 @@ LocFriendlyName="Cięcie"
 LocFlyOverText="Cięcie"
 LocLongDescription="Zaatakuj mieczem cel znajdujący się na sąsiednim polu. Zużywa jedną akcję."
 LocHelpText="Zaatakuj mieczem cel znajdujący się na sąsiednim polu. Zużywa jedną akcję."
-LocPromotionPopupText="<Bullet/> Zaatakuj mieczem cel znajdujący się na sąsiednim polu.<br/><Bullet/> Zużywa jedną akcję i nie kończy automatycznie twojej tury, więc możesz wykonać dwa ataki w turze.<br/>"
+LocPromotionPopupText="<Bullet/> Zaatakuj mieczem cel znajdujący się na sąsiednim polu.<br><Bullet/> Zużywa jedną akcję i nie kończy automatycznie twojej tury, więc możesz wykonać dwa ataki w turze.<br>"
 
 [AbsorptionFields X2AbilityTemplate]
 LocFriendlyName="Pola uderzeniowe"
 LocFlyOverText="Pola uderzeniowe"
 LocLongDescription="Uruchom pole siłowe, które przez dwie tury zmniejsza otrzymywane obrażenia o 33%. Odnawianie trwa 6 tur."
 LocHelpText="Uruchom pole siłowe, które przez dwie tury zmniejsza otrzymywane obrażenia o 33%. Odnawianie trwa 6 tur."
-LocPromotionPopupText="<Bullet/> Uruchom pole siłowe, które przez dwie tury zmniejsza otrzymywane obrażenia o 33%.<br/><Bullet/> Odnawianie trwa 6 tur (włącznie z turą, w której je uruchomiono).<br/><Bullet/> Zużywa jedną akcję i nie kończy twojej tury.<br/><Bullet/> Broń przeciwpancerna nie anuluje tego efektu.<br/>"
+LocPromotionPopupText="<Bullet/> Uruchom pole siłowe, które przez dwie tury zmniejsza otrzymywane obrażenia o 33%.<br><Bullet/> Odnawianie trwa 6 tur (włącznie z turą, w której je uruchomiono).<br><Bullet/> Zużywa jedną akcję i nie kończy twojej tury.<br><Bullet/> Broń przeciwpancerna nie anuluje tego efektu.<br>"
 
 [BodyShield X2AbilityTemplate]
 LocFriendlyName="Pancerz ochronny"
 LocFlyOverText="Pancerz ochronny"
 LocLongDescription="Wróg będący celem otrzymuje -20 do celności i -50 do szansy trafienia krytycznego, gdy atakuje tego żołnierza."
 LocHelpText="Wróg będący celem otrzymuje -20 do celności i -50 do szansy trafienia krytycznego, gdy atakuje tego żołnierza."
-LocPromotionPopupText="<Bullet/> Wróg będący celem otrzymuje -20 do celności i -50 do szansy trafienia krytycznego, gdy atakuje tego żołnierza.<br/>"
+LocPromotionPopupText="<Bullet/> Wróg będący celem otrzymuje -20 do celności i -50 do szansy trafienia krytycznego, gdy atakuje tego żołnierza.<br>"
 
 [EmergencyLifeSupport X2AbilityTemplate]
 LocFriendlyName="Podtrzymywanie życia"
 LocFlyOverText="Podtrzymywanie życia"
 LocLongDescription="Podtrzymywanie życia sprawia, że pierwsze śmiertelne trafienie w misji nie spowoduje natychmiastowego zgonu. Ponadto przedłuża czas wykrwawiania się żołnierza."
 LocHelpText="Sprawia, że pierwsze śmiertelne trafienie w misji nie spowoduje natychmiastowego zgonu, i przedłuża czas wykrwawiania się."
-LocPromotionPopupText="<Bullet/> Podtrzymywanie życia gwarantuje sukces w pierwszym teście wykrwawiania się w każdej misji.<br/><Bullet/> Wydłuża czas wykrwawiania się o dwie tury.<br/>"
+LocPromotionPopupText="<Bullet/> Podtrzymywanie życia gwarantuje sukces w pierwszym teście wykrwawiania się w każdej misji.<br><Bullet/> Wydłuża czas wykrwawiania się o dwie tury.<br>"
 
 [IronSkin X2AbilityTemplate]
 LocFriendlyName="Żelazna skóra"
 LocFlyOverText="Żelazna skóra"
 LocLongDescription="Obrażenia otrzymywane w walce wręcz są mniejsze o 3 pkt."
 LocHelpText="Obrażenia otrzymywane w walce wręcz są mniejsze o 3 pkt."
-LocPromotionPopupText="<Bullet/> Obrażenia otrzymywane w walce wręcz zostają zmniejszone o 3 pkt.<br/>"
+LocPromotionPopupText="<Bullet/> Obrażenia otrzymywane w walce wręcz zostają zmniejszone o 3 pkt.<br>"
 
 [SmartMacrophages X2AbilityTemplate]
 LocFriendlyName="Inteligentne makrofagi"
 LocFlyOverText="Inteligentne makrofagi"
 LocLongDescription="Leczy rany po bitwie, skraca czas powrotu do zdrowia oraz daje odporność na trucizny i kwas."
 LocHelpText="Skraca czas gojenia ran oraz daje odporność na trucizny i kwas."
-LocPromotionPopupText="<Bullet/> Liczba punktów zdrowia straconych w walce, na podstawie której oblicza się czas powrotu do zdrowia, jest zmniejszona o 1.<br/><Bullet/> Nie działają na ciebie trucizny i kwas.<br/>"
+LocPromotionPopupText="<Bullet/> Liczba punktów zdrowia straconych w walce, na podstawie której oblicza się czas powrotu do zdrowia, jest zmniejszona o 1.<br><Bullet/> Nie działają na ciebie trucizny i kwas.<br>"
 
 [MindMerge X2AbilityTemplate]
 LocFriendlyName="Zespolenie umysłów"
 LocFlyOverText="Zespolenie umysłów"
 LocLongDescription="Zapewnia bonus do woli, szansy na zadanie obrażeń krytycznych i punktów tarczy dla wszystkich sojuszników aż do czasu rozpoczęcia kolejnej tury."
 LocHelptext="Czasowo zapewnia bonus do woli, szansy na zadanie obrażeń krytycznych i punktów tarczy dla wszystkich sojuszników."
-LocPromotionPopupText="<Bullet/> Zapewnia wybranemu sojusznikowi 1 ablacyjny punkt zdrowia (czyli tarczy) oraz dodatkowy punkt za każde 30 punktów ofensywy PSI operatora używającego tej zdolności.<br/><Bullet/> Zapewnia wybranemu sojusznikowi 1 punkt woli za każde 10 punktów ofensywy PSI operatora.<br/><Bullet/> Efekt utrzymuje się do kolejnej tury operatora PSI.<br/><Bullet/> Czas odnawiania wynosi 3 tury.<br/><Bullet/> Cel musi być w zasięgu wzroku.<br/><Bullet/> Zaawansowany wzmacniacz PSI zapewnia więcej woli i ablacyjnych punktów zdrowia.<br/><Bullet/> Wymaga jednej akcji.<br/><Bullet/> Sojusznicy otrzymują +1% do szansy zadania obrażeń krytycznych na każde 10 pkt. ofensywy PSI Operatora używającego tej zdolności.<br/>""
+LocPromotionPopupText="<Bullet/> Zapewnia wybranemu sojusznikowi 1 ablacyjny punkt zdrowia (czyli tarczy) oraz dodatkowy punkt za każde 30 punktów ofensywy PSI operatora używającego tej zdolności.<br><Bullet/> Zapewnia wybranemu sojusznikowi 1 punkt woli za każde 10 punktów ofensywy PSI operatora.<br><Bullet/> Efekt utrzymuje się do kolejnej tury operatora PSI.<br><Bullet/> Czas odnawiania wynosi 3 tury.<br><Bullet/> Cel musi być w zasięgu wzroku.<br><Bullet/> Zaawansowany wzmacniacz PSI zapewnia więcej woli i ablacyjnych punktów zdrowia.<br><Bullet/> Wymaga jednej akcji.<br><Bullet/> Sojusznicy otrzymują +1% do szansy zadania obrażeń krytycznych na każde 10 pkt. ofensywy PSI Operatora używającego tej zdolności.<br>""
 
 [SoulMerge X2AbilityTemplate]
 LocFriendlyName="Zespolenie duszy"
 LocFlyOverText="Zespolenie duszy"
 LocLongDescription="Zwiększa skuteczność zespolenia umysłów, zapewniając większe premie do woli i ablacyjnych punktów zdrowia, a także skracając czas odnawiania."
 LocHelpText="Zwiększa skuteczność zespolenia umysłów."
-LocPromotionPopupText="<Bullet/> Skraca czas odnawiania zdolności \"zespolenie umysłów\" o 1 turę.<br/><Bullet/> Liczba dodatkowych ablacyjnych punktów zdrowia zwiększa się do 1 punktu za każde 20 punktów ofensywy PSI.<br/><Bullet/> Liczba dodatkowych punktów woli zwiększa się do 1 punktu za każde 5 punktów ofensywy PSI.<br/><Bullet/> <Bullet/> Zapewnia dodatkową szansę na zadanie obrażeń krytycznych o 1% za każde 5 pkt. siły ofensywnej PSI."
+LocPromotionPopupText="<Bullet/> Skraca czas odnawiania zdolności \"zespolenie umysłów\" o 1 turę.<br><Bullet/> Liczba dodatkowych ablacyjnych punktów zdrowia zwiększa się do 1 punktu za każde 20 punktów ofensywy PSI.<br><Bullet/> Liczba dodatkowych punktów woli zwiększa się do 1 punktu za każde 5 punktów ofensywy PSI.<br><Bullet/> <Bullet/> Zapewnia dodatkową szansę na zadanie obrażeń krytycznych o 1% za każde 5 pkt. siły ofensywnej PSI."
 
 [Shadowstrike_LW X2AbilityTemplate]
 LocFriendlyName="Atak z cienia"
-LocLongDescription="Kiedy atakujesz z ukrycia, otrzymujesz premię +<Ability:SHADOWSTRIKEAIM/> do celności i +<Ability:SHADOWSTRIKECRIT/> do szansy trafienia krytycznego."
+LocLongDescription="Kiedy atakujesz z ukrycia, otrzymujesz premię +<Ability:SHADOWSTRIKEAIM> do celności i +<Ability:SHADOWSTRIKECRIT> do szansy trafienia krytycznego."
 LocHelpText="Kiedy atakujesz z ukrycia, otrzymujesz premię do celności i szansy trafienia krytycznego."
-LocPromotionPopupText="<Bullet/> Premie ataku z cienia będą działać, jeśli żołnierz ponownie ukryje się w trakcie misji.<br/>"
+LocPromotionPopupText="<Bullet/> Premie ataku z cienia będą działać, jeśli żołnierz ponownie ukryje się w trakcie misji.<br>"
 
 [Formidable X2AbilityTemplate]
 LocFriendlyName="Potężny"
-LocLongDescription="Twoje wyposażenie otrzymuje uzupełniającą warstwę ochronną zapewniającą dodatkowe 2 punkty tarczy i zapewnia o <Ability:BlastPadding/>% mniej obrażeń od wybuchów."
+LocLongDescription="Twoje wyposażenie otrzymuje uzupełniającą warstwę ochronną zapewniającą dodatkowe 2 punkty tarczy i zapewnia o <Ability:BlastPadding>% mniej obrażeń od wybuchów."
 LocHelpText="Zapewnia dodatkowe punkty tarczy i redukuje obrażenia od wybuchów."
 LocFlyOverText="Potężny"
-LocPromotionPopupText="<Bullet/> Zdolność "Potężny" redukuje obrażenia od wybuchów o <Ability:BlastPadding/>%.
+LocPromotionPopupText="<Bullet/> Zdolność "Potężny" redukuje obrażenia od wybuchów o <Ability:BlastPadding>%.
 
 ; Updated perk loc
 
@@ -755,16 +755,16 @@ LocFriendlyName="Strefa śmierci"
 LocLongDescription="Oddaj strzał reakcji do wroga, który poruszy się lub zaatakuje w wybranym stożku widzenia."
 LocHelpText="Ulepszony tryb warty z polem ostrzału w kształcie stożka."
 LocFlyOverText="Strefa śmierci"
-LocPromotionPopupText="<Bullet/> Liczba strzałów oddanych przez żołnierza ze zdolnością \"strefa śmierci\" jest ograniczona tylko przez ilość amunicji.<br/><Bullet/> Strefa śmierci korzysta z widoku drużynowego, nawet jeśli żołnierz nie ma zdolności \"długa warta\".<br/><Bullet/> Odnawianie strefy śmierci trwa następującą liczbę tur: <Ability:SelfCooldown/>.<br/>"
+LocPromotionPopupText="<Bullet/> Liczba strzałów oddanych przez żołnierza ze zdolnością \"strefa śmierci\" jest ograniczona tylko przez ilość amunicji.<br><Bullet/> Strefa śmierci korzysta z widoku drużynowego, nawet jeśli żołnierz nie ma zdolności \"długa warta\".<br><Bullet/> Odnawianie strefy śmierci trwa następującą liczbę tur: <Ability:SelfCooldown>.<br>"
 LocFriendlyNameWhenConcealed="Strefa śmierci (w ukryciu)"
 
 [XComGame.DeathFromAbove X2AbilityTemplate]
 [DeathFromAbove X2AbilityTemplate]
 LocFriendlyName="Bomby w dół"
-LocLongDescription="Zabicie znajdującego się niżej wroga za pomocą broni odpowiedniego typu (<Ability:WeaponName/>) kosztuje tylko jedną akcję i nie kończy twojej tury. Również dodaje bonus do celności na dalekie dystanse dla karabinu snajperskiego."
-LocHelpText="Zabicie znajdującego się niżej wroga za pomocą broni odpowiedniego typu (<Ability:WeaponName/>) kosztuje tylko jedną akcję i nie kończy twojej tury."
+LocLongDescription="Zabicie znajdującego się niżej wroga za pomocą broni odpowiedniego typu (<Ability:WeaponName>) kosztuje tylko jedną akcję i nie kończy twojej tury. Również dodaje bonus do celności na dalekie dystanse dla karabinu snajperskiego."
+LocHelpText="Zabicie znajdującego się niżej wroga za pomocą broni odpowiedniego typu (<Ability:WeaponName>) kosztuje tylko jedną akcję i nie kończy twojej tury."
 LocFlyOverText="Bomby w dół"
-LocPromotionPopupText="<Bullet/> \"Bomby w dół\" dobrze łączy się ze zdolnościami związanymi z pistoletem. Żołnierz staje się bardziej mobilny.<br/><Bullet/> Również dodaje bonus do celności na dalekie dystanse dla karabinu snajperskiego."
+LocPromotionPopupText="<Bullet/> \"Bomby w dół\" dobrze łączy się ze zdolnościami związanymi z pistoletem. Żołnierz staje się bardziej mobilny.<br><Bullet/> Również dodaje bonus do celności na dalekie dystanse dla karabinu snajperskiego."
 
 [XComGame.Implacable X2AbilityTemplate]
 [Implacable X2AbilityTemplate]
@@ -772,7 +772,7 @@ LocFriendlyName="Zawzięty"
 LocLongDescription="Jeżeli w swojej turze zabijesz przynajmniej jednego wroga, otrzymasz jeden dodatkowy ruch."
 LocHelpText="Po zabiciu wroga możliwość zyskania jednego ruchu na turę."
 LocFlyOverText="Zawzięty"
-LocPromotionPopupText="<Bullet/> Zdolność \"strzała\" nie może być używana po otrzymaniu dodatkowego ruchu za \"zawziętego\".<br/>"
+LocPromotionPopupText="<Bullet/> Zdolność \"strzała\" nie może być używana po otrzymaniu dodatkowego ruchu za \"zawziętego\".<br>"
 
 [XComGame.VolatileMix X2AbilityTemplate]
 [VolatileMix X2AbilityTemplate]
@@ -788,7 +788,7 @@ LocFriendlyName="Salwa"
 LocLongDescription="Wystrzelenie albo rzucenie granatów lub użycie broni ciężkiej czy wyrzutni rakiet w rękawicy w pierwszej akcji nie spowoduje zakończenia twojej tury."
 LocHelpText="Rzucanie i strzelanie granatami, a także używanie broni ciężkiej oraz wyrzutni rakiet w rękawicy nie powoduje już zakończenia tury."
 LocFlyOverText="Salwa"
-LocPromotionPopupText="<Bullet/> Dobrze jest wyposażyć żołnierzy ze zdolnością \"salwa\" w ciężki pancerz.<br/>"
+LocPromotionPopupText="<Bullet/> Dobrze jest wyposażyć żołnierzy ze zdolnością \"salwa\" w ciężki pancerz.<br>"
 
 [XComGame.Quickdraw X2AbilityTemplate]
 [Quickdraw X2AbilityTemplate]
@@ -796,15 +796,15 @@ LocFriendlyName="Szybkie dobycie"
 LocLongDescription="Strzał z pistoletu w pierwszej akcji nie kończy już twojej tury."
 LocHelpText="Strzał z pistoletu w pierwszej akcji nie kończy już twojej tury."
 LocFlyOverText="Szybkie dobycie"
-LocPromotionPopupText="<Bullet/> Szybkie dobycie umożliwia żołnierzowi ostrzelanie różnych celów w tej samej turze.<br/>"
+LocPromotionPopupText="<Bullet/> Szybkie dobycie umożliwia żołnierzowi ostrzelanie różnych celów w tej samej turze.<br>"
 
 [XComGame.SharpshooterAim X2AbilityTemplate]
 [SharpshooterAim X2AbilityTemplate]
 LocFriendlyName="Celność"
-LocLongDescription="Teraz kucnięcie daje +<Ability:SHARPSHOOTERAIMBONUS/> do celowania przy pierwszym strzale w następnej turze."
-LocHelpText="Teraz kucnięcie daje +<Ability:SHARPSHOOTERAIMBONUS/> do celowania przy pierwszym strzale w następnej turze."
+LocLongDescription="Teraz kucnięcie daje +<Ability:SHARPSHOOTERAIMBONUS> do celowania przy pierwszym strzale w następnej turze."
+LocHelpText="Teraz kucnięcie daje +<Ability:SHARPSHOOTERAIMBONUS> do celowania przy pierwszym strzale w następnej turze."
 LocFlyOverText="Kucnięcie: celność"
-LocPromotionPopupText="<Bullet/> Premia za celność może być dodana zarówno do strzału z pistoletu, jak i z broni głównej.<br/>"
+LocPromotionPopupText="<Bullet/> Premia za celność może być dodana zarówno do strzału z pistoletu, jak i z broni głównej.<br>"
 
 [XComGame.LightningHands X2AbilityTemplate]
 [LightningHands X2AbilityTemplate]
@@ -812,7 +812,7 @@ LocFriendlyName="Błyskawiczne ręce"
 LocLongDescription="Strzel do celu z pistoletu. Ten atak nie zużywa akcji."
 LocHelpText="Strzel do celu z pistoletu. Ten atak nie zużywa akcji."
 LocFlyOverText="Błyskawiczne ręce"
-LocPromotionPopupText="<Bullet/> Błyskawiczne ręce dobrze łączą się ze zdolnościami zabierającymi dwie akcje, ponieważ pozwalają korzystać z nich w tej samej turze.<br/><Bullet/> Odnawianie błyskawicznych rąk trwa następującą liczbę tur: <Ability:SelfCooldown/>.<br/>"
+LocPromotionPopupText="<Bullet/> Błyskawiczne ręce dobrze łączą się ze zdolnościami zabierającymi dwie akcje, ponieważ pozwalają korzystać z nich w tej samej turze.<br><Bullet/> Odnawianie błyskawicznych rąk trwa następującą liczbę tur: <Ability:SelfCooldown>.<br>"
 
 [XComGame.IntrusionProtocol X2AbilityTemplate]
 [IntrusionProtocol X2AbilityTemplate]
@@ -820,7 +820,7 @@ LocFriendlyName="Hakowanie"
 LocLongDescription="Próba zdalnego złamania zabezpieczeń punktu dostępu do sieci za pomocą Gremlina."
 LocHelpText="Twój Gremlin może zdalnie hakować cele."
 LocFlyOverText="Hakowanie"
-LocPromotionPopupText="<Bullet/> Za pomocą Gremlina można zdalnie hakować elementy otoczenia (skrzynie, stacje robocze itp.).<br/>"
+LocPromotionPopupText="<Bullet/> Za pomocą Gremlina można zdalnie hakować elementy otoczenia (skrzynie, stacje robocze itp.).<br>"
 
 [XComGame.EverVigilant X2AbilityTemplate]
 [EverVigilant X2AbilityTemplate]
@@ -828,7 +828,7 @@ LocFriendlyName="Nieustająca czujność"
 LocLongDescription="Jeżeli poświęcisz wszystkie akcje na ruch, otrzymasz na zakończenie tury automatyczny strzał w trybie warty."
 LocHelpText="Automatyczna aktywacja trybu warty, jeśli jedyną akcją żołnierza w tej turze był ruch."
 LocFlyOverText="Warta: nieustająca czujność"
-LocPromotionPopupText="<Bullet/> Nieustająca czujność umożliwia żołnierzowi bardzo mobilny styl walki.<br/><Bullet/> Każda akcja poza ruchem przerwie działanie nieustającej czujności.<br/>"
+LocPromotionPopupText="<Bullet/> Nieustająca czujność umożliwia żołnierzowi bardzo mobilny styl walki.<br><Bullet/> Każda akcja poza ruchem przerwie działanie nieustającej czujności.<br>"
 
 [XComGame.Phantom X2AbilityTemplate]
 [Phantom X2AbilityTemplate]
@@ -836,22 +836,22 @@ LocFriendlyName="Fantom"
 LocLongDescription="Kiedy drużyna zostaje wykryta, ten żołnierz pozostaje w ukryciu."
 LocHelpText="Kiedy drużyna zostaje wykryta, ten żołnierz pozostaje w ukryciu."
 LocFlyOverText="Fantom"
-LocPromotionPopupText="<Bullet/> Nawet jeżeli drużyna nie rozpocznie misji, znajdując się w ukryciu, żołnierze ze zdolnością \"fantom\" będą ukryci.<br/><Bullet/> Jeżeli żołnierz posiadający \"fantoma\" spowoduje wykrycie drużyny, zdolność ta nie zadziała.<br/>"
+LocPromotionPopupText="<Bullet/> Nawet jeżeli drużyna nie rozpocznie misji, znajdując się w ukryciu, żołnierze ze zdolnością \"fantom\" będą ukryci.<br><Bullet/> Jeżeli żołnierz posiadający \"fantoma\" spowoduje wykrycie drużyny, zdolność ta nie zadziała.<br>"
 
 [XComGame.Shadowstep X2AbilityTemplate]
 [Shadowstep X2AbilityTemplate]
 LocFriendlyName="Krok cienia"
 LocLongDescription="Żołnierz nie powoduje aktywacji warty i strzałów reakcji."
 LocHelpText="Żołnierz nie powoduje aktywacji warty i strzałów reakcji."
-LocPromotionPopupText="<Bullet/> Żołnierz ze zdolnością kroku cienia nie wywołuje strzałów wroga w trybie warty i przygwożdżenia, ale nie może też ściągnąć na siebie ostrzału trybu warty skierowanego na kolegów z drużyny.<br/>"
+LocPromotionPopupText="<Bullet/> Żołnierz ze zdolnością kroku cienia nie wywołuje strzałów wroga w trybie warty i przygwożdżenia, ale nie może też ściągnąć na siebie ostrzału trybu warty skierowanego na kolegów z drużyny.<br>"
 
 [XComeGame.BladestormAttack X2AbilityTemplate]
 [BladestormAttack X2AbilityTemplate]
 LocFriendlyName="Huragan stali"
-LocLongDescription="Ataki na przeciwników, którzy wchodzą w zasięg walki wręcz lub z niego atakują, będą darmowe przy użyciu broni typu: <Ability:SecondaryWeaponName/>."
-LocHelpText="Ataki na przeciwników, którzy wchodzą w zasięg walki wręcz lub z niego atakują, będą darmowe przy użyciu broni typu: <Ability:SecondaryWeaponName/>."
+LocLongDescription="Ataki na przeciwników, którzy wchodzą w zasięg walki wręcz lub z niego atakują, będą darmowe przy użyciu broni typu: <Ability:SecondaryWeaponName>."
+LocHelpText="Ataki na przeciwników, którzy wchodzą w zasięg walki wręcz lub z niego atakują, będą darmowe przy użyciu broni typu: <Ability:SecondaryWeaponName>."
 LocFlyOverText="Huragan stali"
-LocPromotionPopupText="<Bullet/> Jeżeli wróg zacznie swoją turę na sąsiednim polu i spróbuje zaatakować żołnierza, zadziała huragan stali.<br/><Bullet/> Jeśli przeciwnik nie zaczyna tury na sąsiednim polu, to huragan stali zadziała, gdy wejdzie on w zasięg walki wręcz.<br/>"
+LocPromotionPopupText="<Bullet/> Jeżeli wróg zacznie swoją turę na sąsiednim polu i spróbuje zaatakować żołnierza, zadziała huragan stali.<br><Bullet/> Jeśli przeciwnik nie zaczyna tury na sąsiednim polu, to huragan stali zadziała, gdy wejdzie on w zasięg walki wręcz.<br>"
 
 [XComGame.Untouchable X2AbilityTemplate]
 [Untouchable X2AbilityTemplate]
@@ -859,7 +859,7 @@ LocFriendlyName="Nietykalny"
 LocLongDescription="Jeśli zabijesz w swojej turze wroga, następny wymierzony w ciebie atak podczas tury wroga chybi."
 LocHelpText="Jeśli zabijesz w swojej turze wroga, następny wymierzony w ciebie atak podczas tury wroga chybi."
 LocFlyOverText="Nietykalny"
-LocPromotionPopupText="<Bullet/> Gdy zostaje uruchomiona nietykalność, żołnierz nie odniesie obrażeń od najbliższego udanego ataku podczas tury wroga (dotyczy to też ataków obszarowych).<br/>"
+LocPromotionPopupText="<Bullet/> Gdy zostaje uruchomiona nietykalność, żołnierz nie odniesie obrażeń od najbliższego udanego ataku podczas tury wroga (dotyczy to też ataków obszarowych).<br>"
 
 [XComGame.Stealth X2AbilityTemplate]
 [Stealth X2AbilityTemplate]
@@ -867,11 +867,11 @@ LocFriendlyName="Ukrycie"
 LocLongDescription="Natychmiastowe ukrycie (raz na misję)."
 LocHelpText="Natychmiastowe ukrycie (raz na misję)."
 LocFlyOverText="Ukrycie"
-LocPromotionPopupText="<Bullet/> Ukrywać się można w dowolnym miejscu, ale gdy zrobisz to w zasięgu wykrywania pobliskich wrogów, żołnierz zostanie ujawniony, kiedy przeciwnik zajdzie go z boku.<br/>"
+LocPromotionPopupText="<Bullet/> Ukrywać się można w dowolnym miejscu, ale gdy zrobisz to w zasięgu wykrywania pobliskich wrogów, żołnierz zostanie ujawniony, kiedy przeciwnik zajdzie go z boku.<br>"
 
 [XComGame.RevivalProtocol X2AbilityTemplate]
 [RevivalProtocol X2AbilityTemplate]
-LocPromotionPopupText="<Bullet/> Protokół reanimacyjny może służyć do reanimacji nieprzytomnych żołnierzy, w tym tych, którzy wykrwawiali się i zostali ustabilizowani.<br/><Bullet/> Protokół reanimacyjny użyty jako pierwsza akcja nie spowoduje zakończenia twojej tury.<br/><Bullet/> Na początku Gremliny mają dwa ładunki protokołu reanimacyjnego, ale w miarę ulepszania zyskują ich więcej.<br/>"
+LocPromotionPopupText="<Bullet/> Protokół reanimacyjny może służyć do reanimacji nieprzytomnych żołnierzy, w tym tych, którzy wykrwawiali się i zostali ustabilizowani.<br><Bullet/> Protokół reanimacyjny użyty jako pierwsza akcja nie spowoduje zakończenia twojej tury.<br><Bullet/> Na początku Gremliny mają dwa ładunki protokołu reanimacyjnego, ale w miarę ulepszania zyskują ich więcej.<br>"
 
 
 ; Gear loc updates for new classes
@@ -920,7 +920,7 @@ AbilityDescName="działko"
 FriendlyName="Działko wiązkowe"
 FriendlyNamePlural="Działka wiązkowe"
 BriefSummary="Opracowanie silniejszej, bardziej szybkostrzelnej broni laserowej dla naszych żołnierzy wymagało sporo wysiłku, ale teraz zapewni nam ona niezrównaną siłę rażenia."
-TacticalText="<Bullet/> Działko wiązkowe to najpotężniejsza broń wsparcia, jaką dysponują siły ludzkości.\n<Bullet/> Użyj ulepszeń zdobytych od wrogów, żeby zwiększyć taktyczną skuteczność działka laserowego.<br/><Bullet/> Broń plazmowa powoduje, że cel otrzymuje dodatkowy 1 punkt obrażeń od każdego kolejnego udanego trafienia."
+TacticalText="<Bullet/> Działko wiązkowe to najpotężniejsza broń wsparcia, jaką dysponują siły ludzkości.\n<Bullet/> Użyj ulepszeń zdobytych od wrogów, żeby zwiększyć taktyczną skuteczność działka laserowego.<br><Bullet/> Broń plazmowa powoduje, że cel otrzymuje dodatkowy 1 punkt obrażeń od każdego kolejnego udanego trafienia."
 AbilityDescName="działko"
 
 [XComGame.Pistol_CV X2WeaponTemplate]
@@ -968,12 +968,12 @@ GameplayTips_Tactical[10]="Żołnierze ze zdolnością fantom zaczynają każdą
 [XComGame.HuntersInstinctUnlock X2SoldierAbilityUnlockTemplate]
 [HuntersInstinctUnlock X2SoldierAbilityUnlockTemplate]
 DisplayName="Łowca (tylko klasa z podstawowej gry): instynkt myśliwego"
-Summary="Ataki przeciwko oskrzydlonym wrogom zadają +<Ability:HUNTERSINSTINCTDMG/> pkt. obrażeń."
+Summary="Ataki przeciwko oskrzydlonym wrogom zadają +<Ability:HUNTERSINSTINCTDMG> pkt. obrażeń."
 
 [XComGame.HitWhereItHurtsUnlock X2SoldierAbilityUnlockTemplate]
 [HitWhereItHurtsUnlock X2SoldierAbilityUnlockTemplate]
 DisplayName="Strzelec wyborowy (tylko klasa z podstawowej gry): w dziesiątkę"
-Summary="Premia: <Ability:HITWHEREITHURTS/>% do szansy zadania trafienia krytycznego."
+Summary="Premia: <Ability:HITWHEREITHURTS>% do szansy zadania trafienia krytycznego."
 
 [XComGame.CoolUnderPressureUnlock X2SoldierAbilityUnlockTemplate]
 [CoolUnderPressureUnlock X2SoldierAbilityUnlockTemplate]
@@ -987,31 +987,31 @@ Summary="Materiały wybuchowe mogą zadać obrażenia krytyczne."
 
 [HuntersInstinct X2AbilityTemplate]
 LocFriendlyName="Instynkt myśliwego"
-LocLongDescription="Ataki dystansowe przeciwko oskrzydlonym wrogom zadają +<Ability:HUNTERSINSTINCTDMG/> pkt. obrażeń."
-LocHelpText="Ataki dystansowe przeciwko oskrzydlonym wrogom zadają +<Ability:HUNTERSINSTINCTDMG/> pkt. obrażeń."
+LocLongDescription="Ataki dystansowe przeciwko oskrzydlonym wrogom zadają +<Ability:HUNTERSINSTINCTDMG> pkt. obrażeń."
+LocHelpText="Ataki dystansowe przeciwko oskrzydlonym wrogom zadają +<Ability:HUNTERSINSTINCTDMG> pkt. obrażeń."
 LocFlyOverText="Instynkt myśliwego"
-LocPromotionPopupText="<Bullet/> Ataki dystansowe przeciwko oskrzydlonym wrogom zadają +<Ability:HUNTERSINSTINCTDMG/> pkt. obrażeń."
+LocPromotionPopupText="<Bullet/> Ataki dystansowe przeciwko oskrzydlonym wrogom zadają +<Ability:HUNTERSINSTINCTDMG> pkt. obrażeń."
 
 [HitWhereItHurts X2AbilityTemplate]
 LocFriendlyName="W dziesiątkę"
-LocLongDescription="Premia: <Ability:HITWHEREITHURTS/>% do szansy zadania trafienia krytycznego."
-LocHelpText="Premia: <Ability:HITWHEREITHURTS/>% do szansy zadania trafienia krytycznego."
+LocLongDescription="Premia: <Ability:HITWHEREITHURTS>% do szansy zadania trafienia krytycznego."
+LocHelpText="Premia: <Ability:HITWHEREITHURTS>% do szansy zadania trafienia krytycznego."
 LocFlyOverText="W dziesiątkę"
-LocPromotionPopupText="<Bullet/> Premia: <Ability:HITWHEREITHURTS/>% do szansy zadania trafienia krytycznego.<br/>"
+LocPromotionPopupText="<Bullet/> Premia: <Ability:HITWHEREITHURTS>% do szansy zadania trafienia krytycznego.<br>"
 
 [CoolUnderPressure X2AbilityTemplate]
 LocFriendlyName="Stalowe nerwy"
-LocLongDescription="Otrzymujesz +<Ability:COOLUNDERPRESSUREBONUS/> do celności w trybie warty i przy innych strzałach reakcji. Mogą one teraz spowodować trafienie krytyczne."
+LocLongDescription="Otrzymujesz +<Ability:COOLUNDERPRESSUREBONUS> do celności w trybie warty i przy innych strzałach reakcji. Mogą one teraz spowodować trafienie krytyczne."
 LocHelpText="Premia do celności i szansa na trafienie krytyczne przy strzałach oddawanych w trybie warty i reakcji."
 LocFlyOverText="Stalowe nerwy"
-LocPromotionPopupText="<Bullet/> Otrzymujesz +<Ability:COOLUNDERPRESSUREBONUS/> do celności w trybie warty i przy innych strzałach reakcji. Mogą one teraz spowodować trafienie krytyczne.<br/>"
+LocPromotionPopupText="<Bullet/> Otrzymujesz +<Ability:COOLUNDERPRESSUREBONUS> do celności w trybie warty i przy innych strzałach reakcji. Mogą one teraz spowodować trafienie krytyczne.<br>"
 
 [BiggestBooms X2AbilityTemplate]
 LocFriendlyName="Największe bum"
-LocLongDescription="Twoje ataki materiałami wybuchowymi mogą zadać obrażenia krytyczne (<Ability:BIGGESTBOOMSCHANCE/>% szans na +<Ability:BIGGESTBOOMSDAMAGE/> do obrażeń)."
+LocLongDescription="Twoje ataki materiałami wybuchowymi mogą zadać obrażenia krytyczne (<Ability:BIGGESTBOOMSCHANCE>% szans na +<Ability:BIGGESTBOOMSDAMAGE> do obrażeń)."
 LocHelpText="Twoje materiały wybuchowe mogą zadać obrażenia krytyczne."
 LocFlyOverText="Największe bum"
-LocPromotionPopupText="<Bullet/> Twoje ataki materiałami wybuchowymi mogą zadać obrażenia krytyczne (<Ability:BIGGESTBOOMSCHANCE/>% szans na +<Ability:BIGGESTBOOMSDAMAGE/> do obrażeń).<br/>"
+LocPromotionPopupText="<Bullet/> Twoje ataki materiałami wybuchowymi mogą zadać obrażenia krytyczne (<Ability:BIGGESTBOOMSCHANCE>% szans na +<Ability:BIGGESTBOOMSDAMAGE> do obrażeń).<br>"
 
 ; New Class loc
 

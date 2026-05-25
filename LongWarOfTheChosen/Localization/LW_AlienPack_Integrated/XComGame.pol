@@ -21,21 +21,21 @@ LocFriendlyName="Okrzyk bojowy"
 LocLongDescription="Zapewnia duże premie do celności, woli i mobilności innym mutonom oraz mniejsze premie inteligentnym obcym i ADVENT-owi. Czas odnawiania wynosi 6 tur."
 LocHelpText="Daje premie innym mutonom i niektórym pozostałym obcym."
 LocFlyOverText="Okrzyk bojowy"
-LocPromotionPopupText="<Bullet/> Zapewnia duże premie do celności, woli i mobilności innym mutonom oraz mniejsze premie inteligentnym obcym i ADVENT-owi.<br/><Bullet/> Czas odnawiania wynosi 6 tur.<br/>"
+LocPromotionPopupText="<Bullet/> Zapewnia duże premie do celności, woli i mobilności innym mutonom oraz mniejsze premie inteligentnym obcym i ADVENT-owi.<br><Bullet/> Czas odnawiania wynosi 6 tur.<br>"
 
 [BayonetCharge X2AbilityTemplate]
 LocFriendlyName="Szarża z bagnetem"
 LocLongDescription="Pozwala wykonać atak wręcz w dowolnym miejscu znajdującym się w zasięgu sprintu. Odnawianie trwa 4 tury."
 LocHelpText="Pozwala wykonać atak wręcz w dowolnym miejscu znajdującym się w zasięgu sprintu."
 LocFlyOverText="Szarża z bagnetem"
-LocPromotionPopupText="<Bullet/> Pozwala wykonać atak wręcz wszędzie w zasięgu sprintu.<br/><Bullet/> Odnawianie trwa 4 tury.<br/>"
+LocPromotionPopupText="<Bullet/> Pozwala wykonać atak wręcz wszędzie w zasięgu sprintu.<br><Bullet/> Odnawianie trwa 4 tury.<br>"
 
 [Beastmaster_LW X2AbilityTemplate]
 LocFriendlyName="Władca zwierząt"
 LocLongDescription="Całkowita odporność na obrażenia zadawane przez berserkerów."
 LocHelpText="Całkowita odporność na obrażenia zadawane przez berserkerów."
 LocFlyOverText="Władca zwierząt"
-LocPromotionPopupText="<Bullet/> Całkowita odporność na obrażenia zadawane przez berserkerów.<br/>"
+LocPromotionPopupText="<Bullet/> Całkowita odporność na obrażenia zadawane przez berserkerów.<br>"
 
 [MassMindSpin X2AbilityTemplate]
 LocFriendlyName="Masowe otumanienie"
@@ -50,7 +50,7 @@ LocFriendlyName="Wstrząs drona"
 LocLongDescription="Służy do pacyfikacji cywilów. Zadaje niewielkie obrażenia i tylko wprowadza cel w dezorientację."
 LocHelpText="Ta broń zadaje niewielkie obrażenia i osłabia cel."
 LocFlyOverText="Wstrząs drona"
-LocPromotionPopupText="<Bullet/> Służy do pacyfikacji cywilów. Zadaje niewielkie obrażenia i tylko wprowadza cel w dezorientację.<br/>"
+LocPromotionPopupText="<Bullet/> Służy do pacyfikacji cywilów. Zadaje niewielkie obrażenia i tylko wprowadza cel w dezorientację.<br>"
 
 [LWDroneRepair X2AbilityTemplate]
 LocFriendlyName="Naprawa"
@@ -72,7 +72,7 @@ LocFriendlyName="Tarcza osobista"
 LocFlyOverText="Tarcza osobista"
 LocHelpText="Zapewnia 5 punktów pancerza ablacyjnego. Odnawianie trwa 5 tur."
 LocLongDescription="Zapewnia 5 punktów pancerza ablacyjnego. Odnawianie trwa 5 tur."
-LocPromotionPopupText="<Bullet/> Zapewnia 5 punktów pancerza ablacyjnego.<br/><Bullet/> Odnawianie trwa 5 tur.<br/><Bullet/> Zużywa jedną akcję i nie kończy tury.<br/>"
+LocPromotionPopupText="<Bullet/> Zapewnia 5 punktów pancerza ablacyjnego.<br><Bullet/> Odnawianie trwa 5 tur.<br><Bullet/> Zużywa jedną akcję i nie kończy tury.<br>"
 
 [MassReanimation_LW X2AbilityTemplate]
 LocFriendlyName="Masowe ożywienie"
@@ -100,14 +100,14 @@ LocFriendlyName="Ograniczenie szkód"
 LocFlyOverText="Ograniczenie szkód"
 LocLongDescription="Po odniesieniu obrażeń otrzymasz dwa punkty pancerza do końca następnej tury."
 LocHelpText="Po odniesieniu obrażeń otrzymasz dwa punkty pancerza do końca następnej tury."
-LocPromotionPopupText="<Bullet/> Twój pancerz zostaje wzmocniony na pewien czas po uderzeniu. Po odniesieniu obrażeń otrzymasz dwa punkty pancerza do końca następnej tury.<br/><Bullet/> Otrzymanie kilku trafień w kolejnych turach wydłuża czas działania zdolności.<br/>"
+LocPromotionPopupText="<Bullet/> Twój pancerz zostaje wzmocniony na pewien czas po uderzeniu. Po odniesieniu obrażeń otrzymasz dwa punkty pancerza do końca następnej tury.<br><Bullet/> Otrzymanie kilku trafień w kolejnych turach wydłuża czas działania zdolności.<br>"
 
 [RepairServosPassive X2AbilityTemplate]
 LocFriendlyName="Ograniczenie szkód"
 LocFlyOverText="Ograniczenie szkód"
 LocLongDescription="Po odniesieniu obrażeń otrzymasz dwa punkty pancerza do końca następnej tury."
 LocHelpText="Po odniesieniu obrażeń otrzymasz dwa punkty pancerza do końca następnej tury."
-LocPromotionPopupText="<Bullet/> Po odniesieniu obrażeń otrzymasz dwa punkty pancerza do końca następnej tury.<br/><Bullet/> Otrzymanie kilku trafień w kolejnych turach wydłuża czas działania zdolności.<br/>"
+LocPromotionPopupText="<Bullet/> Po odniesieniu obrażeń otrzymasz dwa punkty pancerza do końca następnej tury.<br><Bullet/> Otrzymanie kilku trafień w kolejnych turach wydłuża czas działania zdolności.<br>"
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;; MutonM2_LW ;;;;;;;;;;;;;;;;;;;;;;;;;;;
 

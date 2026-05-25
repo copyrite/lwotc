@@ -4,21 +4,21 @@ LocFriendlyName="Throw Knife"
 LocFlyOverText="Throw Knife"
 LocLongDescription="Throws a single throwing knife at the target. Breaks concealment, but not Shadow."
 LocHelpText="Throws a single throwing knife at the target. Breaks concealment, but not Shadow."
-LocPromotionPopupText="<Bullet/> Throwing a knife will not break Shadow or attract the Lost.<br/><Bullet/> This ability will break concealment."
+LocPromotionPopupText="<Bullet/> Throwing a knife will not break Shadow or attract the Lost.<br><Bullet/> This ability will break concealment."
 
 [KnifeJuggler_LW X2AbilityTemplate]
 LocFriendlyName="Knife Juggler"
 LocFlyOverText="Knife Juggler"
-LocLongDescription="Adds +<Ability:KnifeJugglerBonusDamage/> bonus damage to throwing knives and provides <Ability:KnifeJugglerExtraAmmo/> additional throwing knives. Each kill with a primary weapon grants a knife charge."
-LocHelpText="Adds +<Ability:KnifeJugglerBonusDamage/> bonus damage to throwing knives and provides <Ability:KnifeJugglerExtraAmmo/> additional throwing knives. Each kill with a primary weapon grants a knife charge."
-LocPromotionPopupText="<Bullet/> Adds +<Ability:KnifeJugglerBonusDamage/> bonus damage to throwing knives.<br/><Bullet/> Adds <Ability:KnifeJugglerExtraAmmo/> additional charges for throwing knives.<br/><Bullet/> Each kill with a primary weapon grants a knife charge.<br/>"
+LocLongDescription="Adds +<Ability:KnifeJugglerBonusDamage> bonus damage to throwing knives and provides <Ability:KnifeJugglerExtraAmmo> additional throwing knives. Each kill with a primary weapon grants a knife charge."
+LocHelpText="Adds +<Ability:KnifeJugglerBonusDamage> bonus damage to throwing knives and provides <Ability:KnifeJugglerExtraAmmo> additional throwing knives. Each kill with a primary weapon grants a knife charge."
+LocPromotionPopupText="<Bullet/> Adds +<Ability:KnifeJugglerBonusDamage> bonus damage to throwing knives.<br><Bullet/> Adds <Ability:KnifeJugglerExtraAmmo> additional charges for throwing knives.<br><Bullet/> Each kill with a primary weapon grants a knife charge.<br>"
 
 [Hailstorm_LW X2AbilityTemplate]
 LocFriendlyName="Hailstorm"
 LocFlyOverText="Hailstorm"
 LocLongDescription="Throws three knives in quick succession at the target. Guaranteed to remain in Shadow."
 LocHelpText="Throws three knives in quick succession at the target. Guaranteed to remain in Shadow."
-LocPromotionPopupText="<Bullet/> Each knife retains any bonuses, such as damage and status effects, that a single knife throw has.<br/><Bullet/> The knives do not benefit from effects that rely on the target's HP unless the constraint is met before the first knife is thrown."
+LocPromotionPopupText="<Bullet/> Each knife retains any bonuses, such as damage and status effects, that a single knife throw has.<br><Bullet/> The knives do not benefit from effects that rely on the target's HP unless the constraint is met before the first knife is thrown."
 
 [ThrowingKnifeFaceoff_LW X2AbilityTemplate]
 LocFriendlyName="Knife Faceoff"
@@ -26,7 +26,7 @@ LocFlyOverText="Knife Faceoff"
 LocLongDescription="Throws a knife at every target in range. Guaranteed to remain in Shadow."
 LocHelpText="Throws a knife at every target in range. Guaranteed to remain in Shadow."
 ; LWOTC Needs Translation (2)
-LocPromotionPopupText="<Bullet/> Has just one charge and does not consume any standard throwing knife charges.<br/><Bullet/> Ideal when flanking multiple enemies.<br/>"
+LocPromotionPopupText="<Bullet/> Has just one charge and does not consume any standard throwing knife charges.<br><Bullet/> Ideal when flanking multiple enemies.<br>"
 ; End Translation (2)
 
 ; LWOTC Needs Translation (2)
@@ -34,21 +34,21 @@ LocPromotionPopupText="<Bullet/> Has just one charge and does not consume any st
 FriendlyName="Throwing Knife"
 FriendlyNamePlural="Throwing Knives"
 BriefSummary="A throwing knife made of our most advanced conventional steel alloys."
-TacticalText="<Bullet/> Throwing a knife breaks concealment, but not Shadow.<br/><Bullet/> Has a <Ability:THROWING_KNIFE_CV_BLEED_CHANCE/>% chance to cause bleeding, which deals <Ability:THROWING_KNIFE_CV_BLEED_DAMAGE/> damage each turn for <Ability:THROWING_KNIFE_CV_BLEED_DURATION/> turn(s)."
+TacticalText="<Bullet/> Throwing a knife breaks concealment, but not Shadow.<br><Bullet/> Has a <Ability:THROWING_KNIFE_CV_BLEED_CHANCE>% chance to cause bleeding, which deals <Ability:THROWING_KNIFE_CV_BLEED_DAMAGE> damage each turn for <Ability:THROWING_KNIFE_CV_BLEED_DURATION> turn(s)."
 AbilityDescName="throwing knife"
 
 [ThrowingKnife_MG_Secondary X2WeaponTemplate]
 FriendlyName="Alloy Throwing Knife"
 FriendlyNamePlural="Alloy Throwing Knives"
 BriefSummary="A throwing knife made of alien alloys."
-TacticalText="<Bullet/> Throwing a knife breaks concealment, but not Shadow.<br/><Bullet/> Has a <Ability:THROWING_KNIFE_MG_BLEED_CHANCE/>% chance to cause bleeding, which deals <Ability:THROWING_KNIFE_MG_BLEED_DAMAGE/> damage each turn for <Ability:THROWING_KNIFE_MG_BLEED_DURATION/> turn(s)."
+TacticalText="<Bullet/> Throwing a knife breaks concealment, but not Shadow.<br><Bullet/> Has a <Ability:THROWING_KNIFE_MG_BLEED_CHANCE>% chance to cause bleeding, which deals <Ability:THROWING_KNIFE_MG_BLEED_DAMAGE> damage each turn for <Ability:THROWING_KNIFE_MG_BLEED_DURATION> turn(s)."
 AbilityDescName="throwing knife"
 
 [ThrowingKnife_BM_Secondary X2WeaponTemplate]
 FriendlyName="Plasma Throwing Knife"
 FriendlyNamePlural="Plasma Throwing Knives"
 BriefSummary="A throwing knife with a plasma edge that cuts through armor like butter."
-TacticalText="<Bullet/> Throwing a knife breaks concealment, but not Shadow.<br/><Bullet/> Has a <Ability:THROWING_KNIFE_BM_BLEED_CHANCE/>% chance to cause bleeding, which deals <Ability:THROWING_KNIFE_BM_BLEED_DAMAGE/> damage each turn for <Ability:THROWING_KNIFE_BM_BLEED_DURATION/> turn(s)."
+TacticalText="<Bullet/> Throwing a knife breaks concealment, but not Shadow.<br><Bullet/> Has a <Ability:THROWING_KNIFE_BM_BLEED_CHANCE>% chance to cause bleeding, which deals <Ability:THROWING_KNIFE_BM_BLEED_DAMAGE> damage each turn for <Ability:THROWING_KNIFE_BM_BLEED_DURATION> turn(s)."
 AbilityDescName="throwing knife"
 ; End Translation (2)
 

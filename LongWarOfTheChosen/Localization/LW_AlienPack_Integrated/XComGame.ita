@@ -21,21 +21,21 @@ LocFriendlyName="Grido di battaglia"
 LocLongDescription="Conferisci un bonus ingente a Mira, Volontà e Mobilità degli altri Muton e bonus minori agli altri alieni senzienti e alle unità ADVENT. 6 turni di ricarica."
 LocHelpText="Conferisce bonus agli altri Muton e ad alcuni altri alieni."
 LocFlyOverText="Grido di battaglia"
-LocPromotionPopupText="<Bullet/> Conferisci un bonus ingente a Mira, Volontà e Mobilità degli altri Muton e bonus minori agli altri alieni senzienti e alle unità ADVENT.<br/><Bullet/>6 turni di ricarica.<br/>"
+LocPromotionPopupText="<Bullet/> Conferisci un bonus ingente a Mira, Volontà e Mobilità degli altri Muton e bonus minori agli altri alieni senzienti e alle unità ADVENT.<br><Bullet/>6 turni di ricarica.<br>"
 
 [BayonetCharge X2AbilityTemplate]
 LocFriendlyName="Carica con baionetta"
 LocLongDescription="Permette un attacco in mischia in un qualunque punto a portata di scatto. Quattro turni di ricarica."
 LocHelpText="Permette un attacco in mischia in un qualunque punto a portata di scatto."
 LocFlyOverText="Carica con baionetta"
-LocPromotionPopupText="<Bullet/> Permette un attacco in mischia in un qualunque punto a portata di scatto.<br/><Bullet/> 4 turni di ricarica.<br/>"
+LocPromotionPopupText="<Bullet/> Permette un attacco in mischia in un qualunque punto a portata di scatto.<br><Bullet/> 4 turni di ricarica.<br>"
 
 [Beastmaster_LW X2AbilityTemplate]
 LocFriendlyName="Domatore"
 LocLongDescription="Immune ai danni delle Berserker."
 LocHelpText="Immune ai danni delle Berserker."
 LocFlyOverText="Domatore"
-LocPromotionPopupText="<Bullet/> Immune ai danni dei Berserker.<br/>"
+LocPromotionPopupText="<Bullet/> Immune ai danni dei Berserker.<br>"
 
 [MassMindSpin X2AbilityTemplate]
 LocFriendlyName="Roulette mentale di massa"
@@ -50,7 +50,7 @@ LocFriendlyName="Drone d'assalto"
 LocLongDescription="Progettata per sedare i civili, questo effetto arma infligge danni minimi, limitandosi a disorientare."
 LocHelpText="Quest'arma infligge danni minimi e indebolisce il bersaglio."
 LocFlyOverText="Drone d'assalto"
-LocPromotionPopupText="<Bullet/> Progettata per sedare i civili, questo effetto arma infligge danni minimi, limitandosi a disorientare il bersaglio. <br/>"
+LocPromotionPopupText="<Bullet/> Progettata per sedare i civili, questo effetto arma infligge danni minimi, limitandosi a disorientare il bersaglio. <br>"
 
 [LWDroneRepair X2AbilityTemplate]
 LocFriendlyName="Ripara"
@@ -72,7 +72,7 @@ LocFriendlyName="Scudo personale"
 LocFlyOverText="Scudo personale"
 LocHelpText="Conferisce 5 punti di armatura ablativa. 5 turni di ricarica."
 LocLongDescription="Conferisce 5 punti di armatura ablativa. 5 turni di ricarica."
-LocPromotionPopupText="<Bullet/> Conferisce 5 punti di armatura ablativa.<br/><Bullet/> 5 turni di ricarica.<br/><Bullet/> Usa un'azione. Non conclude il turno.<br/>"
+LocPromotionPopupText="<Bullet/> Conferisce 5 punti di armatura ablativa.<br><Bullet/> 5 turni di ricarica.<br><Bullet/> Usa un'azione. Non conclude il turno.<br>"
 
 [MassReanimation_LW X2AbilityTemplate]
 LocFriendlyName="Rianimazione di massa"
@@ -100,14 +100,14 @@ LocFriendlyName="Controllo dei danni"
 LocFlyOverText="Controllo dei danni"
 LocLongDescription="Dopo aver subito danni, ottieni due punti di armatura fino alla fine del prossimo turno."
 LocHelpText="Dopo aver subito danni, ottieni due punti di armatura fino alla fine del prossimo turno."
-LocPromotionPopupText="<Bullet/> La tua armatura si indurisce momentaneamente dopo un impatto. Dopo aver subito danni, ottieni due punti di armatura fino alla fine del prossimo turno.<br/><Bullet/> Subire colpi multipli nei turni successivi estende il timer.<br/>"
+LocPromotionPopupText="<Bullet/> La tua armatura si indurisce momentaneamente dopo un impatto. Dopo aver subito danni, ottieni due punti di armatura fino alla fine del prossimo turno.<br><Bullet/> Subire colpi multipli nei turni successivi estende il timer.<br>"
 
 [RepairServosPassive X2AbilityTemplate]
 LocFriendlyName="Controllo dei danni"
 LocFlyOverText="Controllo dei danni"
 LocLongDescription="Dopo aver subito danni, ottieni due punti di armatura fino alla fine del prossimo turno."
 LocHelpText="Dopo aver subito danni, ottieni due punti di armatura fino alla fine del prossimo turno."
-LocPromotionPopupText="<Bullet/> Dopo aver subito danni, ottieni due punti di armatura fino alla fine del prossimo turno.<br/><Bullet/> Subire colpi multipli nei turni successivi estende il timer.<br/>"
+LocPromotionPopupText="<Bullet/> Dopo aver subito danni, ottieni due punti di armatura fino alla fine del prossimo turno.<br><Bullet/> Subire colpi multipli nei turni successivi estende il timer.<br>"
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;; MutonM2_LW ;;;;;;;;;;;;;;;;;;;;;;;;;;;
 

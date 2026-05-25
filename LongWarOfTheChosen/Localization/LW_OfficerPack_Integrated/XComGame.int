@@ -5,20 +5,20 @@
 [GetSome X2AbilityTemplate]
 LocFriendlyName="Get Some"
 ; LWOTC Needs Translation
-LocLongDescription="Twice per mission, spend an action to grant all allies within Command Range a +<ABILITY:GETSOME_CRIT_BONUS/> bonus to Critical Hit chances for the remainder of the turn."
+LocLongDescription="Twice per mission, spend an action to grant all allies within Command Range a +<Ability:GETSOME_CRIT_BONUS> bonus to Critical Hit chances for the remainder of the turn."
 LocHelpText="Improves critical hit chances of soldiers near Officer."
 LocFlyOverText="Get Some"
-LocPromotionPopupText="<Bullet/> Spend an action to grant all friendly units within Command Range a +<ABILITY:GETSOME_CRIT_BONUS/> bonus to Critical Hit chances for the remainder of the turn.<br/><Bullet/> Does not stack, but does refresh.<br/><Bullet/> Usable twice per mission.<br/><Bullet/> Command Range increases with each new Officer level.<br/><Bullet/> This ability does not provide bonuses for the Officer themself.<br/><Bullet/> This ability does not provide bonuses for stunned or panicked allies.<br/><Bullet/> This ability does not provide bonuses for robotic allies and civilians."
+LocPromotionPopupText="<Bullet/> Spend an action to grant all friendly units within Command Range a +<Ability:GETSOME_CRIT_BONUS> bonus to Critical Hit chances for the remainder of the turn.<br><Bullet/> Does not stack, but does refresh.<br><Bullet/> Usable twice per mission.<br><Bullet/> Command Range increases with each new Officer level.<br><Bullet/> This ability does not provide bonuses for the Officer themself.<br><Bullet/> This ability does not provide bonuses for stunned or panicked allies.<br><Bullet/> This ability does not provide bonuses for robotic allies and civilians."
 ; End Translation
 
 [Collector X2AbilityTemplate]
 LocFriendlyName="Collector"
 ; LWOTC Needs Translation
-LocLongDescription="Any kills of a non-human enemy by the squad have a <ABILITY:COLLECTOR_BONUS_CHANCE/>% chance to grant 1 intel point as long as the Officer is healthy."
+LocLongDescription="Any kills of a non-human enemy by the squad have a <Ability:COLLECTOR_BONUS_CHANCE>% chance to grant 1 intel point as long as the Officer is healthy."
 LocHelpText="Gain extra intel from kills by squad."
 LocFlyOverText="Collector"
 ; displayed for officer in OfficerAbility UI
-LocPromotionPopupText="<Bullet/> Any kills of a non-human enemy by the squad have a <ABILITY:COLLECTOR_BONUS_CHANCE/>% chance to grant 1 intel point as long as the Officer is present and not stunned, panicking or otherwise impaired.<br/><Bullet/> The amount of collected intel is capped at <ABILITY:COLLECTOR_MAX_INTEL_PER_MISSION/> intel per mission."
+LocPromotionPopupText="<Bullet/> Any kills of a non-human enemy by the squad have a <Ability:COLLECTOR_BONUS_CHANCE>% chance to grant 1 intel point as long as the Officer is present and not stunned, panicking or otherwise impaired.<br><Bullet/> The amount of collected intel is capped at <Ability:COLLECTOR_MAX_INTEL_PER_MISSION> intel per mission."
 ; End Translation
 
 ;displayed on officer in tactical container
@@ -34,29 +34,29 @@ LocPromotionPopupText="<Bullet/> Any kills of a non-human enemy by the squad hav
 [Defilade X2AbilityTemplate]
 LocFriendlyName="Defilade"
 ; LWOTC Needs Translation
-LocLongDescription="Soldiers within Command Range of the Officer receive +<ABILITY:DEFILADE_DEFENSE_BONUS/> bonus to defense value provided by cover."
+LocLongDescription="Soldiers within Command Range of the Officer receive +<Ability:DEFILADE_DEFENSE_BONUS> bonus to defense value provided by cover."
 LocHelpText="Bonus defense from cover for soldiers near Officer."
 LocFlyOverText="Defilade"
 ;displayed for officer in Officer Ability UI
-LocPromotionPopupText="<Bullet/> Soldiers within Command Range of the Officer receive +<ABILITY:DEFILADE_DEFENSE_BONUS/> bonus to defense value provided by cover.<br/><Bullet/> Command Range increases with each new Officer level.<br/><Bullet/> This ability does not provide bonuses for the Officer themself.<br/><Bullet/> This ability does not provide bonuses for stunned or panicked allies.<br/><Bullet/> This ability does not provide bonuses for robotic allies and civilians."
+LocPromotionPopupText="<Bullet/> Soldiers within Command Range of the Officer receive +<Ability:DEFILADE_DEFENSE_BONUS> bonus to defense value provided by cover.<br><Bullet/> Command Range increases with each new Officer level.<br><Bullet/> This ability does not provide bonuses for the Officer themself.<br><Bullet/> This ability does not provide bonuses for stunned or panicked allies.<br><Bullet/> This ability does not provide bonuses for robotic allies and civilians."
 
 ;Displayed on officer in tactical container
 [DefiladePassive X2AbilityTemplate]
 LocFriendlyName="Defilade"
-LocLongDescription="Soldiers within Command Range of the Officer receive +<ABILITY:DEFILADE_DEFENSE_BONUS/> bonus to defense value provided by cover."
+LocLongDescription="Soldiers within Command Range of the Officer receive +<Ability:DEFILADE_DEFENSE_BONUS> bonus to defense value provided by cover."
 LocHelpText="Bonus defense from cover for soldiers near Officer."
 LocFlyOverText="Defilade"
-LocPromotionPopupText="<Bullet/> Soldiers within Command Range of the Officer receive +<ABILITY:DEFILADE_DEFENSE_BONUS/> bonus to defense value provided by cover.<br/><Bullet/> Command Range increases with each new Officer level.<br/><Bullet/> This ability does not provide bonuses for the Officer themself.<br/><Bullet/> This ability does not provide bonuses if either the Officer or the soldier are disoriented, stunned, panicking, posioned, on fire or otherwise impaired.<br/><Bullet/> This ability does not provide bonuses for robotic allies and civilians."
+LocPromotionPopupText="<Bullet/> Soldiers within Command Range of the Officer receive +<Ability:DEFILADE_DEFENSE_BONUS> bonus to defense value provided by cover.<br><Bullet/> Command Range increases with each new Officer level.<br><Bullet/> This ability does not provide bonuses for the Officer themself.<br><Bullet/> This ability does not provide bonuses if either the Officer or the soldier are disoriented, stunned, panicking, posioned, on fire or otherwise impaired.<br><Bullet/> This ability does not provide bonuses for robotic allies and civilians."
 ; End Translation
 
 ;displayed both on officer and in debuff on target
 [FocusFire X2AbilityTemplate]
 LocFriendlyName="Focus Fire"
-LocLongDescription="Spend an action to pinpoint a target and grant your squad cumulative Aim bonuses and <ABILITY:FOCUS_FIRE_ARMORPIERCING/> Armor Piercing on attacks against that target for the rest of the turn."
+LocLongDescription="Spend an action to pinpoint a target and grant your squad cumulative Aim bonuses and <Ability:FOCUS_FIRE_ARMORPIERCING> Armor Piercing on attacks against that target for the rest of the turn."
 LocHelpText="Pinpoint a target so your squad gains Aim and Armor Piercing bonuses against it."
 LocFlyOverText="Focus Fire"
 ; LWOTC Needs Translation
-LocPromotionPopupText="<Bullet/> Spend an action to pinpoint a target and grant your squad cumulative aim bonuses and <ABILITY:FOCUS_FIRE_ARMORPIERCING/> armor piercing on attacks against that target for the rest of the turn.<br/><Bullet/> Each successive direct weapon attack against the target in the same turn grants an additional +<ABILITY:FOCUS_FIRE_AIM_BONUS/> aim bonus.<br/><Bullet/> Focus Fire has a <ABILITY:FOCUS_FIRE_COOLDOWN/> turn cooldown.<br/>"
+LocPromotionPopupText="<Bullet/> Spend an action to pinpoint a target and grant your squad cumulative aim bonuses and <Ability:FOCUS_FIRE_ARMORPIERCING> armor piercing on attacks against that target for the rest of the turn.<br><Bullet/> Each successive direct weapon attack against the target in the same turn grants an additional +<Ability:FOCUS_FIRE_AIM_BONUS> aim bonus.<br><Bullet/> Focus Fire has a <Ability:FOCUS_FIRE_COOLDOWN> turn cooldown.<br>"
 ; End Translation
 
 ;displayed both on officer and on soldiers receiving effect
@@ -65,15 +65,15 @@ LocFriendlyName="Fall Back!"
 LocLongDescription="Grant a free but uncontrolled defensive action to any visible ally who has used all their moves."
 LocHelpText="Grant a free but uncontrolled defensive action to any visible ally."
 LocFlyOverText="Fall Back!"
-LocPromotionPopupText="<Bullet/> Grant a free but uncontrolled defensive action to any visible ally. The ally will usually attempt to seek a safer position or hunker down.<br/><Bullet/> Will not work on units who are Suppressing or on Overwatch.<br/><Bullet/> Free action."
+LocPromotionPopupText="<Bullet/> Grant a free but uncontrolled defensive action to any visible ally. The ally will usually attempt to seek a safer position or hunker down.<br><Bullet/> Will not work on units who are Suppressing or on Overwatch.<br><Bullet/> Free action."
 
 [Scavenger X2AbilityTemplate]
 LocFriendlyName="Scavenger"
 ; LWOTC Needs Translation
-LocLongDescription="Mission rewards of supplies, Alien Alloys and Elerium increased by <ABILITY:SCAVENGER_BONUS_MULTIPLIER/> % after successful missions. Squad members have a chance of collecting extra Alien Alloys and Elerium from aliens."
+LocLongDescription="Mission rewards of supplies, Alien Alloys and Elerium increased by <Ability:SCAVENGER_BONUS_MULTIPLIER> % after successful missions. Squad members have a chance of collecting extra Alien Alloys and Elerium from aliens."
 LocHelpText="Bonus supplies, Alien Alloys and Elerium."
 LocFlyOverText="Scavenger"
-LocPromotionPopupText="<Bullet/> If the Officer survives the mission and is conscious, mission rewards of supplies, Alien Alloys and Elerium are increased by <ABILITY:SCAVENGER_BONUS_MULTIPLIER/> percent.<br/><Bullet> Squad may recover Alien Alloys and Elerium from dead aliens as long as the Officer is present and not stunned, panicking or otherwise impaired.<br/>"
+LocPromotionPopupText="<Bullet/> If the Officer survives the mission and is conscious, mission rewards of supplies, Alien Alloys and Elerium are increased by <Ability:SCAVENGER_BONUS_MULTIPLIER> percent.<br><Bullet> Squad may recover Alien Alloys and Elerium from dead aliens as long as the Officer is present and not stunned, panicking or otherwise impaired.<br>"
 ; End Translation
 
 
@@ -81,39 +81,39 @@ LocPromotionPopupText="<Bullet/> If the Officer survives the mission and is cons
 [ScavengerPassive X2AbilityTemplate]
 LocFriendlyName="Scavenger"
 ; LWOTC Needs Translation
-LocLongDescription="Mission rewards of supplies, Alien Alloys and Elerium increased by <ABILITY:SCAVENGER_BONUS_MULTIPLIER/>% after successful missions. Chance of collecting Alien Alloys and Elerium from aliens."
+LocLongDescription="Mission rewards of supplies, Alien Alloys and Elerium increased by <Ability:SCAVENGER_BONUS_MULTIPLIER>% after successful missions. Chance of collecting Alien Alloys and Elerium from aliens."
 LocHelpText="Bonus supplies, Alien Alloys and Elerium."
 LocFlyOverText="Scavenger"
-LocPromotionPopupText="<Bullet/> If the Officer survives the mission in good condition, mission rewards of supplies, Alien Alloys and Elerium are increased by <ABILITY:SCAVENGER_BONUS_MULTIPLIER/> percent.<br/><Bullet> Squad may recover Alien Alloys and Elerium from dead aliens.<br/>"
+LocPromotionPopupText="<Bullet/> If the Officer survives the mission in good condition, mission rewards of supplies, Alien Alloys and Elerium are increased by <Ability:SCAVENGER_BONUS_MULTIPLIER> percent.<br><Bullet> Squad may recover Alien Alloys and Elerium from dead aliens.<br>"
 ; End Translation
 
 ;displayed on other soldier that receive the effect
 [FireDiscipline X2AbilityTemplate]
 LocFriendlyName="Fire Discipline"
 ; LWOTC Needs Translation
-LocLongDescription="All allies within Command Range of the Officer gain +<ABILITY:FIREDISCIPLINE_REACTIONFIRE_BONUS/>% to hit on reaction fire."
+LocLongDescription="All allies within Command Range of the Officer gain +<Ability:FIREDISCIPLINE_REACTIONFIRE_BONUS>% to hit on reaction fire."
 LocHelpText="All allies near Officer gain reaction fire bonus."
 LocFlyOverText="Fire Discipline"
 ;displayed for officer in Officer Ability UI
-LocPromotionPopupText="<Bullet/> All allies within Command Range of the Officer gain +<ABILITY:FIREDISCIPLINE_REACTIONFIRE_BONUS/>% to hit on reaction fire.<br/><Bullet/> Command Range increases with each new Officer level.<br/><Bullet/> This ability does not provide bonuses for the Officer themself.<br/><Bullet/> This ability does not provide bonuses if either the Officer or the soldier are disoriented, stunned, panicking, posioned, on fire or otherwise impaired.<br/><Bullet/> This ability does not provide bonuses for robotic allies and civilians."
+LocPromotionPopupText="<Bullet/> All allies within Command Range of the Officer gain +<Ability:FIREDISCIPLINE_REACTIONFIRE_BONUS>% to hit on reaction fire.<br><Bullet/> Command Range increases with each new Officer level.<br><Bullet/> This ability does not provide bonuses for the Officer themself.<br><Bullet/> This ability does not provide bonuses if either the Officer or the soldier are disoriented, stunned, panicking, posioned, on fire or otherwise impaired.<br><Bullet/> This ability does not provide bonuses for robotic allies and civilians."
 
 ;Displayed on officer in tactical container
 [FireDisciplinePassive X2AbilityTemplate]
 LocFriendlyName="Fire Discipline"
-LocLongDescription="All allies within Command Range of the Officer gain +<ABILITY:FIREDISCIPLINE_REACTIONFIRE_BONUS/>% to hit on reaction fire."
+LocLongDescription="All allies within Command Range of the Officer gain +<Ability:FIREDISCIPLINE_REACTIONFIRE_BONUS>% to hit on reaction fire."
 LocHelpText="All allies near Officer gain reaction fire bonus."
 LocFlyOverText="Fire Discipline"
-LocPromotionPopupText="<Bullet/> All allies within Command Range of the Officer gain +<ABILITY:FIREDISCIPLINE_REACTIONFIRE_BONUS/>% to hit on reaction fire.<br/><Bullet/> Command Range increases with each new Officer level."
+LocPromotionPopupText="<Bullet/> All allies within Command Range of the Officer gain +<Ability:FIREDISCIPLINE_REACTIONFIRE_BONUS>% to hit on reaction fire.<br><Bullet/> Command Range increases with each new Officer level."
 ; End Translation
 
 ;displayed both on officer and on soldiers receiving effect
 [OscarMike X2AbilityTemplate]
 LocFriendlyName="Oscar Mike"
 ; LWOTC Needs Translation
-LocLongDescription="Spend an action to give all allies within Command Range +<ABILITY:OSCARMIKE_MOBILITY_BONUS/> Mobility for the remainder of the turn. Usable once per mission."
+LocLongDescription="Spend an action to give all allies within Command Range +<Ability:OSCARMIKE_MOBILITY_BONUS> Mobility for the remainder of the turn. Usable once per mission."
 LocHelpText="Activate to grant bonus Mobility to nearby allies."
 LocFlyOverText="Oscar Mike"
-LocPromotionPopupText="<Bullet/> Spend an action to give all allies within Command Range +<ABILITY:OSCARMIKE_MOBILITY_BONUS/> Mobility for the remainder of the turn.<br/><Bullet/> Usable once per mission.<br/><Bullet/> Command Range increases with each new Officer level.<br/><Bullet/> This ability does not provide bonuses for stunned or panicked allies.<br/><Bullet/> This ability does not provide bonuses for robotic allies and civilians."
+LocPromotionPopupText="<Bullet/> Spend an action to give all allies within Command Range +<Ability:OSCARMIKE_MOBILITY_BONUS> Mobility for the remainder of the turn.<br><Bullet/> Usable once per mission.<br><Bullet/> Command Range increases with each new Officer level.<br><Bullet/> This ability does not provide bonuses for stunned or panicked allies.<br><Bullet/> This ability does not provide bonuses for robotic allies and civilians."
 ; End Translation
 
 ;displayed on other soldier that receive the effect
@@ -124,7 +124,7 @@ LocHelpText="Allies near Officer may gain improved Aim, Will and Hack."
 LocFlyOverText="Lead By Example"
 ;displayed for officer in Officer Ability UI
 ; LWOTC Needs Translation
-LocPromotionPopupText="<Bullet/> If the Officer's Aim, Will and/or Hack scores are higher than any soldier within Command Range, the soldier gains bonuses to those scores equal to half the difference between the Officer and the soldier.<br/><Bullet/> Command Range increases with each new Officer level.<br/><Bullet/> This ability does not provide bonuses for stunned or panicked allies.<br/><Bullet/> This ability does not provide bonuses for robotic allies."
+LocPromotionPopupText="<Bullet/> If the Officer's Aim, Will and/or Hack scores are higher than any soldier within Command Range, the soldier gains bonuses to those scores equal to half the difference between the Officer and the soldier.<br><Bullet/> Command Range increases with each new Officer level.<br><Bullet/> This ability does not provide bonuses for stunned or panicked allies.<br><Bullet/> This ability does not provide bonuses for robotic allies."
 ; End Translation
 
 ;Displayed on officer in tactical container
@@ -133,7 +133,7 @@ LocFriendlyName="Lead By Example"
 LocLongDescription="The Officer improves the Aim, Will and Hack of soldiers within Command Range by half the difference between soldier and Officer."
 LocHelpText="Allies near Officer may gain improved Aim, Will and Hack."
 LocFlyOverText="Lead By Example"
-LocPromotionPopupText="<Bullet/> If the Officer's Aim, Will and/or Hack scores are higher than any soldier within Command Range, the soldier gains bonuses to those scores equal to half the difference between the Officer and the soldier.<br/><Bullet/> Command Range increases with each new Officer level."
+LocPromotionPopupText="<Bullet/> If the Officer's Aim, Will and/or Hack scores are higher than any soldier within Command Range, the soldier gains bonuses to those scores equal to half the difference between the Officer and the soldier.<br><Bullet/> Command Range increases with each new Officer level."
 
 ;this may not be displayed -- needs testing
 [LeadByExampleLeader X2AbilityTemplate]
@@ -141,24 +141,24 @@ LocFriendlyName="Lead By Example"
 LocLongDescription="The Officer improves the Aim, Will and Hack of soldiers within Command Range by half the difference between soldier and Officer."
 LocHelpText="Allies near Officer may gain improved Aim, Will and Hack."
 LocFlyOverText="Lead By Example"
-LocPromotionPopupText="<Bullet/> If the Officer's Aim, Will and/or Hack scores are higher than any soldier within Command Range, the soldier gains bonuses to those scores equal to half the difference between the Officer and the soldier.<br/><Bullet/> Command Range increases with each new Officer level."
+LocPromotionPopupText="<Bullet/> If the Officer's Aim, Will and/or Hack scores are higher than any soldier within Command Range, the soldier gains bonuses to those scores equal to half the difference between the Officer and the soldier.<br><Bullet/> Command Range increases with each new Officer level."
 
 ;displayed on other soldier that receive the effect
 [CombinedArms X2AbilityTemplate]
 LocFriendlyName="Combined Arms"
 ; LWOTC Needs Translation
-LocLongDescription="All allies within Command Range of the Officer do +<ABILITY:COMBINEDARMS_DAMAGE_BONUS/> damage with all successful attacks."
+LocLongDescription="All allies within Command Range of the Officer do +<Ability:COMBINEDARMS_DAMAGE_BONUS> damage with all successful attacks."
 LocHelpText="Allies near Officer gain bonus damage."
 LocFlyOverText="Combined Arms"
-LocPromotionPopupText="<Bullet/> All allies within Command Range of the Officer do +<ABILITY:COMBINEDARMS_DAMAGE_BONUS/> damage with all successful attacks.<br/><Bullet/> Command Range increases with each new Officer level.<br/><Bullet/> This ability does not provide bonuses for the Officer themself.<br/><Bullet/> This ability does not provide bonuses if either the Officer or the soldier are disoriented, stunned, panicking, posioned, on fire or otherwise impaired.<br/><Bullet/> This ability does not provide bonuses for robotic allies."
+LocPromotionPopupText="<Bullet/> All allies within Command Range of the Officer do +<Ability:COMBINEDARMS_DAMAGE_BONUS> damage with all successful attacks.<br><Bullet/> Command Range increases with each new Officer level.<br><Bullet/> This ability does not provide bonuses for the Officer themself.<br><Bullet/> This ability does not provide bonuses if either the Officer or the soldier are disoriented, stunned, panicking, posioned, on fire or otherwise impaired.<br><Bullet/> This ability does not provide bonuses for robotic allies."
 
 ;Displayed on officer in tactical container
 [CombinedArmsPassive X2AbilityTemplate]
 LocFriendlyName="Combined Arms"
-LocLongDescription="All allies within Command Range of the Officer do +<ABILITY:COMBINEDARMS_DAMAGE_BONUS/> damage with all successful attacks."
+LocLongDescription="All allies within Command Range of the Officer do +<Ability:COMBINEDARMS_DAMAGE_BONUS> damage with all successful attacks."
 LocHelpText="Allies near Officer gain bonus damage."
 LocFlyOverText="Combined Arms"
-LocPromotionPopupText="<Bullet/> All allies within Command Range of the Officer do +<ABILITY:COMBINEDARMS_DAMAGE_BONUS/> damage with all successful attacks.<br/><Bullet/> Command Range increases with each new Officer level."
+LocPromotionPopupText="<Bullet/> All allies within Command Range of the Officer do +<Ability:COMBINEDARMS_DAMAGE_BONUS> damage with all successful attacks.<br><Bullet/> Command Range increases with each new Officer level."
 ; End Translation
 
 [Command X2AbilityTemplate]
@@ -167,7 +167,7 @@ LocLongDescription="End your turn to grant a bonus action to any visible member 
 LocHelpText="Grant bonus actions to allies."
 LocFlyOverText="Command"
 ; LWOTC Needs Translation
-LocPromotionPopupText="<Bullet/> Requires one action and ends your turn.<br/><Bullet/> Second and first lieutenants have one charge of the ability; captains and majors have two charges; lieutenant and full colonels have three charges, and field commanders have four charges.<br/><Bullet/> Cannot be used on units on overwatch or suppressing another target.<br/><Bullet/> Cannot be used on robotic allies and civilians."
+LocPromotionPopupText="<Bullet/> Requires one action and ends your turn.<br><Bullet/> Second and first lieutenants have one charge of the ability; captains and majors have two charges; lieutenant and full colonels have three charges, and field commanders have four charges.<br><Bullet/> Cannot be used on units on overwatch or suppressing another target.<br><Bullet/> Cannot be used on robotic allies and civilians."
 ; End Translation
 
 [Infiltrator X2AbilityTemplate]
@@ -175,14 +175,14 @@ LocFriendlyName="Infiltrator"
 LocLongDescription="The officer's squad will infiltrate enemy targets more quickly."
 LocHelpText="The officer's squad will infiltrate enemy targets more quickly."
 LocFlyOverText="Infiltrator"
-LocPromotionPopupText="<Bullet/> The squad of an officer with this perk will be significantly stealthier than it otherwise would be and will have reduced infiltration times.<br/>"
+LocPromotionPopupText="<Bullet/> The squad of an officer with this perk will be significantly stealthier than it otherwise would be and will have reduced infiltration times.<br>"
 
 [AirController X2AbilityTemplate]
 LocFriendlyName="Air Controller"
-LocLongDescription="The Skyranger will arrive <Ability:AIR_CONTROLLER_EVAC_TURN_REDUCTION/> turns sooner during evacuations."
-LocHelpText="The Skyranger will arrive <Ability:AIR_CONTROLLER_EVAC_TURN_REDUCTION/> turns sooner during evacuations."
+LocLongDescription="The Skyranger will arrive <Ability:AIR_CONTROLLER_EVAC_TURN_REDUCTION> turns sooner during evacuations."
+LocHelpText="The Skyranger will arrive <Ability:AIR_CONTROLLER_EVAC_TURN_REDUCTION> turns sooner during evacuations."
 LocFlyOverText="Air Controller"
-LocPromotionPopupText="<Bullet/> The officer is skilled at directing allied air assets, allowing the Skyranger to arrive <Ability:AIR_CONTROLLER_EVAC_TURN_REDUCTION/> turns sooner after evac flare is deployed.<br/><Bullet/> Note that there is a minimum time that the Skyranger will take to arrive regardless of any bonuses."
+LocPromotionPopupText="<Bullet/> The officer is skilled at directing allied air assets, allowing the Skyranger to arrive <Ability:AIR_CONTROLLER_EVAC_TURN_REDUCTION> turns sooner after evac flare is deployed.<br><Bullet/> Note that there is a minimum time that the Skyranger will take to arrive regardless of any bonuses."
 
 [Jammer X2AbilityTemplate]
 ; LWOTC Needs Translation
@@ -196,20 +196,20 @@ LocPromotionPopupText="<Bullet/> Activate this ability to cause inbound enemy re
 [Incoming X2AbilityTemplate]
 LocFriendlyName="Incoming!"
 ; LWOTC Needs Translation
-LocLongDescription="Activate this ability to grant everyone within command range <Ability:INCOMING_EXPLOSIVES_DR/> points of damage resistance against explosive attacks through the end of the next alien turn."
-LocHelpText="The officer and nearby allies have <Ability:INCOMING_EXPLOSIVES_DR/> DR against explosives."
+LocLongDescription="Activate this ability to grant everyone within command range <Ability:INCOMING_EXPLOSIVES_DR> points of damage resistance against explosive attacks through the end of the next alien turn."
+LocHelpText="The officer and nearby allies have <Ability:INCOMING_EXPLOSIVES_DR> DR against explosives."
 LocFlyOverText="Incoming!"
-LocPromotionPopupText="<Bullet/> Activate this ability to grant all allies in command range <Ability:INCOMING_EXPLOSIVES_DR/> points of damage resistance against explosive attacks through the end of the next alien turn.<br/><Bullet/> Requires no actions.<br/><Bullet/> Incoming! has a <Ability:INCOMING_COOLDOWN/> turn cooldown.<br/><Bullet/> Command Range increases with each new officer level.<br/><Bullet/> Does not apply to panicked or stunned soldiers, units suppressing other targets or civilians.<br/>"
+LocPromotionPopupText="<Bullet/> Activate this ability to grant all allies in command range <Ability:INCOMING_EXPLOSIVES_DR> points of damage resistance against explosive attacks through the end of the next alien turn.<br><Bullet/> Requires no actions.<br><Bullet/> Incoming! has a <Ability:INCOMING_COOLDOWN> turn cooldown.<br><Bullet/> Command Range increases with each new officer level.<br><Bullet/> Does not apply to panicked or stunned soldiers, units suppressing other targets or civilians.<br>"
 ; End Translation
 
 
 [Intervention X2AbilityTemplate]
 LocFriendlyName="Intervention"
 ; LWOTC Needs Translation
-LocLongDescription="Activate this ability to spend <Ability:INTERVENTION_INTEL_COST/> intel and gain <Ability:INTERVENTION_EXTRA_TURNS/> turns on the current mission timer. The number of charges is dependent on the officer's rank."
-LocHelpText="Activate to spend intel and gain <Ability:INTERVENTION_EXTRA_TURNS/> turns on mission timer."
+LocLongDescription="Activate this ability to spend <Ability:INTERVENTION_INTEL_COST> intel and gain <Ability:INTERVENTION_EXTRA_TURNS> turns on the current mission timer. The number of charges is dependent on the officer's rank."
+LocHelpText="Activate to spend intel and gain <Ability:INTERVENTION_EXTRA_TURNS> turns on mission timer."
 LocFlyOverText="Intervention"
-LocPromotionPopUpText="<Bullet/> Activate this ability to spend <Ability:INTERVENTION_INTEL_COST/> intel and gain <Ability:INTERVENTION_EXTRA_TURNS/> turns on the current mission timer.<br/><Bullet/> Requires one action and does not end your turn.<br/><Bullet/> The number of charges is dependent on the officer's rank.<br/><Bullet/> Will do nothing if there is no mission timer.<br/><Bullet/> Intel cost can be influenced by events; the ability will not fire if XCOM has fewer than <Ability:INTERVENTION_INTEL_COST/> intel.<br/>"
+LocPromotionPopUpText="<Bullet/> Activate this ability to spend <Ability:INTERVENTION_INTEL_COST> intel and gain <Ability:INTERVENTION_EXTRA_TURNS> turns on the current mission timer.<br><Bullet/> Requires one action and does not end your turn.<br><Bullet/> The number of charges is dependent on the officer's rank.<br><Bullet/> Will do nothing if there is no mission timer.<br><Bullet/> Intel cost can be influenced by events; the ability will not fire if XCOM has fewer than <Ability:INTERVENTION_INTEL_COST> intel.<br>"
 ; End Translation
 
 [TrialByFire X2AbilityTemplate]

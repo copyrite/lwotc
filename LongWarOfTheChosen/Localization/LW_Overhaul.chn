@@ -218,28 +218,28 @@ SecondaryRadiusLabel="火焰喷射器半径"
 FriendlyName="臂套"
 FriendlyNamePlural="臂套"
 BriefSummary="迷你火箭和火焰喷射器相结合的设计，是为了能够使其掌控多样化的战斗情景。"
-TacticalText="<Bullet/> XCOM臂套是一种带有迷你火箭发射器和火焰喷射器的高级设备。<br/><Bullet/> 火箭发射器最初携带一枚火箭且有3格半径的范围效果。<br/><Bullet/> 它能够瞄准视野范围内的任何东西。<br/><Bullet/> 根据弹着点的不同，火箭的伤害也会减少。<br/><Bullet/> 火焰喷射器是能够对锥形范围内的多个目标造成伤害的短距离武器。<br/><Bullet/> 火焰喷射器拥有两次充能，在没有升级前无法伤害机械单位。<br/><Bullet/> 使用任一臂套能力都需要一个行动点并会结束你的回合。<br/><Bullet/> 火箭精确度受到士兵命中、目标距离以及士兵本回合是否使用过行动点等因素影响。低精度的火箭散布值更大，更可能击中与目标地点相去甚远的地方。火箭的最大可能散布将在弹窗中给出，具体地点的预计（平均）散布值将伴随瞄准指针一同显示。"
+TacticalText="<Bullet/> XCOM臂套是一种带有迷你火箭发射器和火焰喷射器的高级设备。<br><Bullet/> 火箭发射器最初携带一枚火箭且有3格半径的范围效果。<br><Bullet/> 它能够瞄准视野范围内的任何东西。<br><Bullet/> 根据弹着点的不同，火箭的伤害也会减少。<br><Bullet/> 火焰喷射器是能够对锥形范围内的多个目标造成伤害的短距离武器。<br><Bullet/> 火焰喷射器拥有两次充能，在没有升级前无法伤害机械单位。<br><Bullet/> 使用任一臂套能力都需要一个行动点并会结束你的回合。<br><Bullet/> 火箭精确度受到士兵命中、目标距离以及士兵本回合是否使用过行动点等因素影响。低精度的火箭散布值更大，更可能击中与目标地点相去甚远的地方。火箭的最大可能散布将在弹窗中给出，具体地点的预计（平均）散布值将伴随瞄准指针一同显示。"
 AbilityDescName="臂套"
 
 [LWGauntlet_MG X2MultiWeaponTemplate]
 FriendlyName="臂套第II型"
 FriendlyNamePlural="臂套第II型"
 BriefSummary="第II型臂套拥有比第I型更高的伤害。"
-TacticalText="<Bullet/> XCOM臂套是一种带有迷你火箭发射器和火焰喷射器的高级设备。<br/><Bullet/> 火箭发射器最初携带一枚火箭且有3格半径的范围效果。<br/><Bullet/> 它能够瞄准视野范围内的任何东西。<br/><Bullet/> 根据弹着点的不同，火箭的伤害也会减少。<br/><Bullet/> 火焰喷射器是能够对锥形范围内的多个目标造成伤害的短距离武器。<br/><Bullet/> 火焰喷射器拥有两次充能，在没有升级前无法伤害机械单位。<br/><Bullet/> 使用任一臂套能力都需要一个行动点并会结束你的回合。<br/><Bullet/> 火箭精确度受到士兵命中、目标距离以及士兵本回合是否使用过行动点等因素影响。低精度的火箭散布值更大，更可能击中与目标地点相去甚远的地方。火箭的最大可能散布将在弹窗中给出，具体地点的预计（平均）散布值将伴随瞄准指针一同显示。"
+TacticalText="<Bullet/> XCOM臂套是一种带有迷你火箭发射器和火焰喷射器的高级设备。<br><Bullet/> 火箭发射器最初携带一枚火箭且有3格半径的范围效果。<br><Bullet/> 它能够瞄准视野范围内的任何东西。<br><Bullet/> 根据弹着点的不同，火箭的伤害也会减少。<br><Bullet/> 火焰喷射器是能够对锥形范围内的多个目标造成伤害的短距离武器。<br><Bullet/> 火焰喷射器拥有两次充能，在没有升级前无法伤害机械单位。<br><Bullet/> 使用任一臂套能力都需要一个行动点并会结束你的回合。<br><Bullet/> 火箭精确度受到士兵命中、目标距离以及士兵本回合是否使用过行动点等因素影响。低精度的火箭散布值更大，更可能击中与目标地点相去甚远的地方。火箭的最大可能散布将在弹窗中给出，具体地点的预计（平均）散布值将伴随瞄准指针一同显示。"
 AbilityDescName="臂套"
 
 [LWGauntlet_CG X2MultiWeaponTemplate]
 FriendlyName="臂套第III型"
 FriendlyNamePlural="臂套第III型"
 BriefSummary="第III型臂套比第I型和第II型造成更多伤害。"
-TacticalText="<Bullet/> XCOM臂套是一种带有迷你火箭发射器和火焰喷射器的高级设备。<br/><Bullet/> 火箭发射器最初携带一枚火箭且有3格半径的范围效果。<br/><Bullet/> 它能够瞄准视野范围内的任何东西。<br/><Bullet/> 根据弹着点的不同，火箭的伤害也会减少。<br/><Bullet/> 火焰喷射器是能够对锥形范围内的多个目标造成伤害的短距离武器。<br/><Bullet/> 火焰喷射器拥有两次充能，在没有升级前无法伤害机械单位。<br/><Bullet/> 使用任一臂套能力都需要一个行动点并会结束你的回合。<br/><Bullet/> 火箭精确度受到士兵命中、目标距离以及士兵本回合是否使用过行动点等因素影响。低精度的火箭散布值更大，更可能击中与目标地点相去甚远的地方。火箭的最大可能散布将在弹窗中给出，具体地点的预计（平均）散布值将伴随瞄准指针一同显示。"
+TacticalText="<Bullet/> XCOM臂套是一种带有迷你火箭发射器和火焰喷射器的高级设备。<br><Bullet/> 火箭发射器最初携带一枚火箭且有3格半径的范围效果。<br><Bullet/> 它能够瞄准视野范围内的任何东西。<br><Bullet/> 根据弹着点的不同，火箭的伤害也会减少。<br><Bullet/> 火焰喷射器是能够对锥形范围内的多个目标造成伤害的短距离武器。<br><Bullet/> 火焰喷射器拥有两次充能，在没有升级前无法伤害机械单位。<br><Bullet/> 使用任一臂套能力都需要一个行动点并会结束你的回合。<br><Bullet/> 火箭精确度受到士兵命中、目标距离以及士兵本回合是否使用过行动点等因素影响。低精度的火箭散布值更大，更可能击中与目标地点相去甚远的地方。火箭的最大可能散布将在弹窗中给出，具体地点的预计（平均）散布值将伴随瞄准指针一同显示。"
 AbilityDescName="臂套"
 
 [LWGauntlet_BM X2MultiWeaponTemplate]
 FriendlyName="爆裂炮臂套"
 FriendlyNamePlural="爆裂炮臂套"
 BriefSummary="高级臂套武器能造成巨大伤害，并且迷你火箭现在也能自动引导至它们的目标了。"
-TacticalText="<Bullet/> 高级臂套的爆裂炮发射器组件能发射一枚高科技的火箭，能够通过导航绕过阻碍的地形。\n<Bullet/> 升级的火焰喷射器会在小范围的锥形区域内造成巨量伤害，对环境和敌方目标造成同等伤害。<Bullet/> 根据弹着点的不同，火箭的伤害也会减少。<br/><Bullet/> 火焰喷射器是能够对锥形范围内的多个目标造成伤害的短距离武器。<br/><Bullet/> 火焰喷射器拥有两次充能，在没有升级前无法伤害机械单位。<br/><Bullet/> 使用任一臂套能力都需要一个行动点并会结束你的回合。<br/><Bullet/> 火箭精确度受到士兵命中、目标距离以及士兵本回合是否使用过行动点等因素影响。低精度的火箭散布值更大，更可能击中与目标地点相去甚远的地方。火箭的最大可能散布将在弹窗中给出，具体地点的预计（平均）散布值将伴随瞄准指针一同显示。"
+TacticalText="<Bullet/> 高级臂套的爆裂炮发射器组件能发射一枚高科技的火箭，能够通过导航绕过阻碍的地形。\n<Bullet/> 升级的火焰喷射器会在小范围的锥形区域内造成巨量伤害，对环境和敌方目标造成同等伤害。<Bullet/> 根据弹着点的不同，火箭的伤害也会减少。<br><Bullet/> 火焰喷射器是能够对锥形范围内的多个目标造成伤害的短距离武器。<br><Bullet/> 火焰喷射器拥有两次充能，在没有升级前无法伤害机械单位。<br><Bullet/> 使用任一臂套能力都需要一个行动点并会结束你的回合。<br><Bullet/> 火箭精确度受到士兵命中、目标距离以及士兵本回合是否使用过行动点等因素影响。低精度的火箭散布值更大，更可能击中与目标地点相去甚远的地方。火箭的最大可能散布将在弹窗中给出，具体地点的预计（平均）散布值将伴随瞄准指针一同显示。"
 AbilityDescName="臂套"
 
 [UISquadSelect_InfiltrationPanel]
@@ -293,7 +293,7 @@ strMaxScatter="\n最大散布（格）："
 
 [X2Ability_LW_ChosenAbilities]
 ShieldedStatBuffsLocDescription="命中、暴击率、意志力和灵能威力增益。"
-ImpactCompensationBuffDescription="减少<Ability:IMPACT_COMPENSATION_CURRENT_DR/>%所有来袭伤害。"
+ImpactCompensationBuffDescription="减少<Ability:IMPACT_COMPENSATION_CURRENT_DR>%所有来袭伤害。"
 
 [XComGameState_LWListenerManager]
 ResistanceHQBodyText="获取反抗军避难所信息"
@@ -608,7 +608,7 @@ m_strHelpButtonTooltip="避难所管理帮助"
 
 [Personnel_SquadBarracks_Help LWHelpTemplate]
 m_strHelpTitle="小队管理"
-m_strHelpText="小队管理面板允许XCOM创建并管理派出执行任务的小队。小队是预组成的士兵小组，能够在小队选择菜单通过简单的一个动作分配到任务中。小队的运转按照以下的规则进行：<br/><Bullet/> 一个小队最多10名士兵，小队可以在任务前的小队选择界面进行选择。<br/><Bullet/> 如果有小队成员受伤、训练中或不适合任务，你可以根据任务的不同在未分配的士兵库中选择一位临时的替补小队成员。<br/><Bullet/> 你也可以在任务开始前组建一支完全由未分配的士兵组成的小队；他们将会得到小队名（以在全息地球仪上辨别），并且小队在任务结束后会立刻解散。<br/><Bullet/> 要将一名士兵从一支永久性的小队转移到另一支，他们必须首先在当前的小队中解除分配。"
+m_strHelpText="小队管理面板允许XCOM创建并管理派出执行任务的小队。小队是预组成的士兵小组，能够在小队选择菜单通过简单的一个动作分配到任务中。小队的运转按照以下的规则进行：<br><Bullet/> 一个小队最多10名士兵，小队可以在任务前的小队选择界面进行选择。<br><Bullet/> 如果有小队成员受伤、训练中或不适合任务，你可以根据任务的不同在未分配的士兵库中选择一位临时的替补小队成员。<br><Bullet/> 你也可以在任务开始前组建一支完全由未分配的士兵组成的小队；他们将会得到小队名（以在全息地球仪上辨别），并且小队在任务结束后会立刻解散。<br><Bullet/> 要将一名士兵从一支永久性的小队转移到另一支，他们必须首先在当前的小队中解除分配。"
 m_strHelpButtonTooltip="小队管理帮助"
 
 [SquadSelect_Help LWHelpTemplate]
@@ -745,7 +745,7 @@ m_strChosenLoot="(<XGParam:IntValue0/>) <XGParam:StrValue0/!ItemName/> 击杀天
 [UISL_Shell_LWoTCVersion]
 strMessage_Title = "Long War Of The Chosen"
 strMessage_Header = "Long War Of The Chosen现已更新！
-strMessage_Body = "1.2.3版本现已更新，虽然仍不是完整版本，但仍包括：<ul><li>对SPARK的二次平衡性调整，新增装甲和天赋树调整，护盾回归，但不能再派遣受伤的Spark出战</li><li>新增大量新地图和地图模块，其中一些新地图将带您走出舒适区</li><li>优化了反抗军据点管理信息的界面</li><li>修复了各种崩溃和其他bug，包括“消失的撤离点”、一个主要的Linux崩溃bug等</li></ul><br/>查看Steam更新说明中链接的Google文档，或访问LWoTC的Discord获取更多信息！作为中文玩家，你可以加入QQ群：909123879参与讨论</br> 注意：所有改动都兼容现有的战役存档。您可能需要使用RespecSelectedSoldier控制台指令来更新 SPARK 天赋树。"
+strMessage_Body = "1.2.3版本现已更新，虽然仍不是完整版本，但仍包括：<ul><li>对SPARK的二次平衡性调整，新增装甲和天赋树调整，护盾回归，但不能再派遣受伤的Spark出战</li><li>新增大量新地图和地图模块，其中一些新地图将带您走出舒适区</li><li>优化了反抗军据点管理信息的界面</li><li>修复了各种崩溃和其他bug，包括“消失的撤离点”、一个主要的Linux崩溃bug等</li></ul><br>查看Steam更新说明中链接的Google文档，或访问LWoTC的Discord获取更多信息！作为中文玩家，你可以加入QQ群：909123879参与讨论<br> 注意：所有改动都兼容现有的战役存档。您可能需要使用RespecSelectedSoldier控制台指令来更新 SPARK 天赋树。"
 strDismiss_Button = "确认"
 
 [UISL_Shell_BetaPatchNotes]

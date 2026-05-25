@@ -21,21 +21,21 @@ LocFriendlyName="Grito de guerra"
 LocLongDescription="Concede grandes bonificaciones de puntería, voluntad y movilidad a otros Mutones, y bonificaciones menores a otros alienígenas inteligentes y a unidades de ADVENT. Tiempo de enfriamiento de 6 turnos."
 LocHelpText="Concede bonificaciones a otros Mutones y a otros alienígenas."
 LocFlyOverText="Grito de guerra"
-LocPromotionPopupText="<Bullet/> Concede grandes bonificaciones de puntería, voluntad y movilidad a otros Mutones, y bonificaciones menores a otros alienígenas inteligentes y a unidades de ADVENT.<br/><Bullet/> Tiempo de enfriamiento de 6 turnos.<br/>"
+LocPromotionPopupText="<Bullet/> Concede grandes bonificaciones de puntería, voluntad y movilidad a otros Mutones, y bonificaciones menores a otros alienígenas inteligentes y a unidades de ADVENT.<br><Bullet/> Tiempo de enfriamiento de 6 turnos.<br>"
 
 [BayonetCharge X2AbilityTemplate]
 LocFriendlyName="Carga de bayoneta"
 LocLongDescription="Permite realizar un ataque cuerpo a cuerpo en cualquier parte que esté a distancia de carrera. Tiempo de enfriamiento de 4 turnos."
 LocHelpText="Permite realizar un ataque cuerpo a cuerpo en cualquier parte que esté a distancia de carrera."
 LocFlyOverText="Carga de bayoneta"
-LocPromotionPopupText="<Bullet/> Permite realizar un ataque cuerpo a cuerpo en cualquier parte que esté a distancia de carrera.<br/><Bullet/> Tiempo de enfriamiento de 4 turnos.<br/>"
+LocPromotionPopupText="<Bullet/> Permite realizar un ataque cuerpo a cuerpo en cualquier parte que esté a distancia de carrera.<br><Bullet/> Tiempo de enfriamiento de 4 turnos.<br>"
 
 [Beastmaster_LW X2AbilityTemplate]
 LocFriendlyName="Señor de las bestias"
 LocLongDescription="Inmune al daño de los Berserker."
 LocHelpText="Inmune al daño de los Berserker."
 LocFlyOverText="Señor de las bestias"
-LocPromotionPopupText="<Bullet/> Inmune al daño de los Berserker.<br/>"
+LocPromotionPopupText="<Bullet/> Inmune al daño de los Berserker.<br>"
 
 [MassMindSpin X2AbilityTemplate]
 LocFriendlyName="Ataque mental masivo"
@@ -50,7 +50,7 @@ LocFriendlyName="Descarga de dron"
 LocLongDescription="Diseñado para aplacar a civiles, este efecto causa un daño mínimo y solamente desorienta."
 LocHelpText="Esta arma causa un daño mínimo y afecta al objetivo."
 LocFlyOverText="Descarga de dron"
-LocPromotionPopupText="<Bullet/> Diseñado para aplacar a civiles, este efecto causa un daño mínimo y solamente desorienta al objetivo.<br/>"
+LocPromotionPopupText="<Bullet/> Diseñado para aplacar a civiles, este efecto causa un daño mínimo y solamente desorienta al objetivo.<br>"
 
 [LWDroneRepair X2AbilityTemplate]
 LocFriendlyName="Reparar"
@@ -72,7 +72,7 @@ LocFriendlyName="Escudo personal"
 LocFlyOverText="Escudo personal"
 LocHelpText="Concede 5 puntos de blindaje ablativo. Tiempo de enfriamiento de 5 turnos."
 LocLongDescription="Concede 5 puntos de blindaje ablativo. Tiempo de enfriamiento de 5 turnos."
-LocPromotionPopupText="<Bullet/> Concede 5 puntos de blindaje ablativo.<br/><Bullet/> Tiempo de enfriamiento de 5 turnos.<br/><Bullet/> Usa una acción y no termina el turno.<br/>"
+LocPromotionPopupText="<Bullet/> Concede 5 puntos de blindaje ablativo.<br><Bullet/> Tiempo de enfriamiento de 5 turnos.<br><Bullet/> Usa una acción y no termina el turno.<br>"
 
 [MassReanimation_LW X2AbilityTemplate]
 LocFriendlyName="Reanimación masiva"
@@ -100,14 +100,14 @@ LocFriendlyName="Control de daños"
 LocFlyOverText="Control de daños"
 LocLongDescription="Después de recibir daño, obtienes 2 de blindaje hasta el final del siguiente turno."
 LocHelpText="Después de recibir daño, obtienes 2 de blindaje hasta el final del siguiente turno."
-LocPromotionPopupText="<Bullet/> Tu blindaje se endurece de forma temporal después de un impacto. Después de recibir daño, obtienes 2 de blindaje hasta el final del siguiente turno.<br/><Bullet/> Recibir varios impactos en turnos sucesivos amplía el tiempo.<br/>"
+LocPromotionPopupText="<Bullet/> Tu blindaje se endurece de forma temporal después de un impacto. Después de recibir daño, obtienes 2 de blindaje hasta el final del siguiente turno.<br><Bullet/> Recibir varios impactos en turnos sucesivos amplía el tiempo.<br>"
 
 [RepairServosPassive X2AbilityTemplate]
 LocFriendlyName="Control de daños"
 LocFlyOverText="Control de daños"
 LocLongDescription="Después de recibir daño, obtienes 2 de blindaje hasta el final del siguiente turno."
 LocHelpText="Después de recibir daño, obtienes 2 de blindaje hasta el final del siguiente turno."
-LocPromotionPopupText="<Bullet/> Después de recibir daño, obtienes 2 de blindaje hasta el final del siguiente turno.<br/><Bullet/> Recibir varios impactos en turnos sucesivos amplía el tiempo.<br/>"
+LocPromotionPopupText="<Bullet/> Después de recibir daño, obtienes 2 de blindaje hasta el final del siguiente turno.<br><Bullet/> Recibir varios impactos en turnos sucesivos amplía el tiempo.<br>"
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;; MutonM2_LW ;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
